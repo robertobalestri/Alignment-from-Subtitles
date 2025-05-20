@@ -1,0 +1,94 @@
+Scala di Rappresentazione del Razzismo nei Media Italiani (-3 a +3)
+Istruzioni Fondamentali
+Valuta la rappresentazione del razzismo in un episodio televisivo su una scala da -3 a +3 (o N/A se assente). L'analisi deve considerare il contesto italiano, dove le questioni razziali riguardano principalmente migranti, rom, e italiani di seconda generazione, con diverse sensibilità a seconda dell'epoca di produzione.
+Considera il posizionamento dominante del testo nel suo complesso, prestando attenzione al contesto narrativo in cui appaiono commenti o situazioni legate all'etnia dei personaggi.
+Scala di Valutazione Semplificata
+N/A – Non Applicabile
+
+Nessun riferimento a razza o etnia nell'episodio
+
+-3 (Sostegno alla Discriminazione)
+
+L'episodio convalida attivamente idee discriminatorie
+Personaggi razzisti sono ritratti positivamente
+Per l'epoca: Eccezionalmente arretrato anche per il periodo
+
+-2 (Normalizzazione del Pregiudizio)
+
+Atteggiamenti discriminatori presentati come normali
+Stereotipi etnici senza distanza critica
+Per l'epoca: Nella norma del periodo, senza alcun elemento di problematizzazione
+
+-1 (Minimizzazione)
+
+Diversità etnica presente ma trattata superficialmente
+Commenti problematici pronunciati indifferentemente da vari personaggi e completamente incontestati
+I personaggi di diverse etnie sono definiti principalmente dalla loro etnia, senza mostrare ironia o consapevolezza
+Stereotipi riprodotti in modo acritico e presentati come rappresentazioni oggettive
+Per l'epoca: Nella media del periodo, senza particolare sensibilità
+
+0 (Presenza senza Chiara Posizione)
+
+Personaggi di diverse etnie con ruolo oltre la loro etnia
+Reazioni miste o ambigue a commenti problematici
+Non è chiaro se battute o comportamenti stereotipati siano presentati criticamente o no
+I personaggi di diverse etnie mostrano occasionalmente consapevolezza della propria condizione, ma senza chiaro posizionamento
+La narrazione non distingue chiaramente tra personaggi che fanno commenti appropriati e inappropriati
+Per l'epoca: Nella media con alcuni elementi di consapevolezza
+
++1 (Riconoscimento Consapevole)
+
+Personaggi di diverse etnie commentano consapevolmente la propria esperienza
+Commenti problematici sono attribuiti principalmente a personaggi negativi o antagonisti, indicando una critica implicita
+Personaggi di diverse etnie utilizzano ironia o autoironia sugli stereotipi, mostrando un uso consapevole e critico di essi
+Personaggi positivi mostrano rispetto per la diversità o contestano, anche indirettamente, commenti inappropriati
+Comportamenti come "fingere accenti" o "giocare con stereotipi" da parte di personaggi di diverse etnie sono presentati come forme di resistenza o consapevolezza, non come conferma di stereotipi
+Per l'epoca: Superiore alla media, con elementi progressisti
+
++2 (Impegno Critico)
+
+Razzismo affrontato come problema sociale
+Personaggi sfidano attivamente i pregiudizi
+Prospettive multiple sulle questioni razziali
+Per l'epoca: Decisamente progressista per il periodo
+
++3 (Inquadramento Trasformativo)
+
+Analisi approfondita delle strutture di discriminazione
+Esplorazione di soluzioni per l'equità
+Voci marginalizzate centrali e autorevoli
+Per l'epoca: Eccezionalmente avanzato, anticipando sensibilità future
+
+Elementi Chiave per la Valutazione
+Nella valutazione, considera in particolare:
+
+Evoluzione temporale degli standard:
+
+Anni '80-'90: La semplice presenza di personaggi di diverse etnie in ruoli professionali era già progressista
+Anni 2000-2010: Necessaria maggiore problematizzazione degli stereotipi
+Periodo attuale: Richiesta consapevolezza critica e rappresentazione complessa
+
+
+
+Formato di Risposta JSON:
+score: [N/A oppure un valore da -3 a +3]
+explanation: [Spiega concisamente come l'episodio si allinei con i criteri del punteggio]
+why_not_lower: [Se il punteggio non è -3 o N/A, spiega perché non hai assegnato un punteggio più basso]
+why_not_higher: [Se il punteggio non è +3 o N/A, spiega perché non hai assegnato un punteggio più alto]
+
+Esempio di risposta:
+{{
+  "score": "+1",
+  "explanation": "L'episodio è incentrato su un personaggio alle prese con una gravidanza non pianificata. Sebbene la decisione di abortire venga infine sostenuta, la narrazione sottolinea la complessità emotiva della scelta, con scene che esplorano il conflitto interiore del personaggio, le aspettative familiari e le preoccupazioni per la stabilità futura. Il testo tende ad affermare il diritto dell'individuo di scegliere, pur attribuendo un certo peso morale alla vita potenziale. Questo corrisponde a un punteggio di '+1', poiché l'orientamento dominante è pro-choice, anche se non in modo fortemente attivista o inequivocabile.",
+  "why_not_lower": "L'episodio non pone l'accento sullo status morale del feto rispetto all'autonomia dell'individuo, né rappresenta la decisione come eticamente gravosa o moralmente problematica in una direzione prevalentemente pro-life, elementi che caratterizzerebbero un punteggio pari a 0 o -1.",
+  "why_not_higher": "L'episodio evita di presentare l'aborto come un diritto inequivocabile o di raffiguralo come giustificato senza controversie in ogni circostanza. Non vi è alcuna evidente presa di posizione politica o una forte spinta narrativa verso i diritti riproduttivi, come si osserva nei punteggi '+2' o '+3'."
+}}
+
+
+---
+
+Sottotitoli:
+{subtitles_text}
+
+
+

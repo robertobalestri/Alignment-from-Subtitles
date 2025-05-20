@@ -1,0 +1,63 @@
+I need you to evaluate the alignment of a text, an episode of a television series, with respect to the topic of abortion. To do this, I have uploaded the dialogues of the episode, which you will have to analyze using a Likert-type scale ranging from -3 to +3, plus a non-applicability value (N/A) if the theme is not represented at all.
+In the episode there are obviously various interactions and voices. I need you to identify the dominant representational stance of the text as a whole, placing it on the scale below.
+Once you have selected the score that best represents the episode, please provide a concise explanation of your choice.
+In addition to justifying the selected score, briefly explain:
+- why you did not assign the next lower score (if the selected value is not -3 or N/A),
+- and why you did not assign the next higher score (if the selected value is not +3 or N/A).
+This will help clarify the narrative positioning and reduce interpretative ambiguity.
+Here is the scale:
+
+Abortion Discourse Scale (-3 to +3)
+-3 (Fully Pro-Life)
+* Overarching emphasis on the fetusâ€™s moral status as an absolute imperative, making abortion nearly always unacceptable.
+* Emotional, social, or medical considerations for the pregnant individual are overshadowed by the duty to preserve potential life.
+* The text frames abortion as ethically inadmissible, sometimes portraying medical or emotional appeals as secondary or misplaced.
+-2 (Strongly Pro-Life)
+* The text strongly advocates protecting fetal life, yet may offer limited acknowledgment of the pregnant individualâ€™s emotional or social context.
+* Ethical arguments about the fetusâ€™s moral worth dominate, and alternative viewpoints are discussed minimally or with strong reservation.
+-1 (Moderately Pro-Life)
+* The text emphasizes the fetusâ€™s moral value but devotes some attention to the individualâ€™s emotional, social, or medical considerations.
+* Exceptions (e.g., life-threatening medical cases) are recognized, although these are presented as rare or ethically burdensome.
+* The stance remains clearly pro-life but with limited space for contextual complexity.
+0 (Neutral / Balanced)
+* The text presents multiple anglesâ€”ethical, emotional, social, medicalâ€”without definitively favoring either â€œpro-lifeâ€ or â€œpro-choice.â€
+* It explores potential conflicts between preserving fetal life and respecting bodily autonomy, acknowledging that both perspectives have weight.
+* No strong bias is evident; the text strives for an even-handed examination.
++1 (Moderately Pro-Choice)
+* The text generally supports the pregnant individualâ€™s autonomy and focuses on personal, emotional, and social factors influencing the decision.
+* Fetal moral status may be acknowledged, but does not override the primacy of individual choice in most scenarios.
+* The overall orientation leans toward validating the option to end a pregnancy when justified by context.
++2 (Strongly Pro-Choice)
+* The text portrays abortion as a legitimate exercise of reproductive freedom, highlighting the individualâ€™s well-being and the broader social or emotional ramifications.
+* Fetal considerations are noted but typically subordinated to arguments about personal autonomy and rights.
+* Disagreement with abortion is recognized but not foregrounded.
++3 (Fully Pro-Choice)
+* The text unequivocally affirms abortion as a fundamental right, with emotional, social, and medical aspects strongly reinforcing the individualâ€™s autonomy.
+* Any moral status of the fetus is seen as secondary or negligible compared to the pregnant individualâ€™s needs and choices.
+* Abortion is framed as ethically, socially, and personally justified under virtually all circumstances.
+
+How to Use This Scale
+* When analyzing a text (e.g., a scene in a medical drama or any narrative), consider how it frames the ethical debate (moral arguments), acknowledges emotional factors (e.g., family bonds, fear, psychological distress), reflects social dynamics (support systems, social pressures, cultural attitudes), and weighs medical considerations (risks to health, viability, etc.).
+* The score must reflect a **synthesis** of:
+- The **explicit and implicit content** (what is said)
+- The **discursive voice** features (how it is said)
+* Choose the numeric value (-3 to +3) that best represents the textâ€™s overall stance, taking into account all relevant dimensions (not only moral).
+
+---
+
+Subtitles:
+{subtitles_text}
+
+JSON Output Structure:
+Your response MUST be a JSON object with the following keys:
+- "score": (string or number) The score from the scale (-3, -2, -1, 0, 1, 2, 3, or "N/A").
+- "explanation": (string) Your detailed explanation for the chosen score, referencing the scale's criteria for that score.
+- "why_not_lower": (string) Explanation for not choosing the next lower score, referencing its criteria. Empty if score is -3 or "N/A".
+- "why_not_higher": (string) Explanation for not choosing the next higher score, referencing its criteria. Empty if score is +3 or "N/A".
+
+{{
+  "score": "+1",
+  "explanation": "The episode centers around a character grappling with an unplanned pregnancy. While the decision to have an abortion is ultimately supported, the narrative emphasizes the emotional complexity of the choice, with scenes that explore the character's internal conflict, familial expectations, and concerns about future stability. The text leans toward affirming the individual's right to choose, even though some moral weight is given to the potential life. This aligns with '+1' as the dominant stance is pro-choice, though not strongly activist or unambiguous.",
+  "why_not_lower": "The episode does not emphasize fetal moral status over the individual's autonomy, nor does it portray the decision as ethically burdensome or morally fraught in a predominantly pro-life direction, which would characterize a 0 or -1 score.",
+  "why_not_higher": "The episode refrains from framing abortion as an unequivocal right or depicting it as uncontroversially justified under all circumstances. There is no overt political advocacy or strong narrative push toward reproductive rights as seen in '+2' or '+3'."
+}}

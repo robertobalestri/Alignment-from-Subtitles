@@ -1,0 +1,5726 @@
+[
+  {
+    "line_number": 1,
+    "start": 11.742,
+    "end": 13.223,
+    "text": "C'è una bambina in acqua!"
+  },
+  {
+    "line_number": 2,
+    "start": 13.243,
+    "end": 17.664,
+    "text": "È affogata!"
+  },
+  {
+    "line_number": 3,
+    "start": 18.085,
+    "end": 20.125,
+    "text": "Attenzione!"
+  },
+  {
+    "line_number": 4,
+    "start": 20.146,
+    "end": 21.106,
+    "text": "Attenzione!"
+  },
+  {
+    "line_number": 5,
+    "start": 21.126,
+    "end": 27.849,
+    "text": "Chiama l'autorazza!"
+  },
+  {
+    "line_number": 6,
+    "start": 27.908,
+    "end": 28.509,
+    "text": "Chiama l'autorazza!"
+  },
+  {
+    "line_number": 7,
+    "start": 28.548000000000002,
+    "end": 29.028,
+    "text": "Silvia!"
+  },
+  {
+    "line_number": 8,
+    "start": 29.109,
+    "end": 30.19,
+    "text": "Silvia!"
+  },
+  {
+    "line_number": 9,
+    "start": 30.41,
+    "end": 33.71,
+    "text": "Si chiama l'autorazza!"
+  },
+  {
+    "line_number": 10,
+    "start": 33.79,
+    "end": 34.11,
+    "text": "Silvia!"
+  },
+  {
+    "line_number": 11,
+    "start": 34.21,
+    "end": 36.871,
+    "text": "Ti avevo detto!"
+  },
+  {
+    "line_number": 12,
+    "start": 37.133,
+    "end": 38.832,
+    "text": "Luca, ti avevo detto di guardarla!"
+  },
+  {
+    "line_number": 13,
+    "start": 40.987,
+    "end": 41.167,
+    "text": "Corrado?"
+  },
+  {
+    "line_number": 14,
+    "start": 41.226,
+    "end": 41.387,
+    "text": "Corrado?"
+  },
+  {
+    "line_number": 15,
+    "start": 41.406,
+    "end": 41.726,
+    "text": "Corraduccio?"
+  },
+  {
+    "line_number": 16,
+    "start": 41.746,
+    "end": 41.948,
+    "text": "Corrado?"
+  },
+  {
+    "line_number": 17,
+    "start": 41.987,
+    "end": 42.148,
+    "text": "Silvia."
+  },
+  {
+    "line_number": 18,
+    "start": 42.167,
+    "end": 42.207,
+    "text": "No."
+  },
+  {
+    "line_number": 19,
+    "start": 73.677,
+    "end": 76.599,
+    "text": "Ma questa Silvia, lo sa che la sogni?"
+  },
+  {
+    "line_number": 20,
+    "start": 77.418,
+    "end": 79.239,
+    "text": "No, perché se magari glielo dice gli fa piacere."
+  },
+  {
+    "line_number": 21,
+    "start": 80.14,
+    "end": 81.9,
+    "text": "Va beh."
+  },
+  {
+    "line_number": 22,
+    "start": 83.28,
+    "end": 90.641,
+    "text": "E posso fare qualcosa?"
+  },
+  {
+    "line_number": 23,
+    "start": 90.762,
+    "end": 91.081,
+    "text": "A domani."
+  },
+  {
+    "line_number": 24,
+    "start": 97.043,
+    "end": 100.584,
+    "text": "Uno spazio vuoto e me..."
+  },
+  {
+    "line_number": 25,
+    "start": 103.219,
+    "end": 109.341,
+    "text": "Lontano dal conforto dei ragionamenti."
+  },
+  {
+    "line_number": 26,
+    "start": 109.421,
+    "end": 109.861,
+    "text": "Paola."
+  },
+  {
+    "line_number": 27,
+    "start": 110.182,
+    "end": 113.043,
+    "text": "Tottomaglione."
+  },
+  {
+    "line_number": 28,
+    "start": 113.102,
+    "end": 115.823,
+    "text": "È un piacere vederla."
+  },
+  {
+    "line_number": 29,
+    "start": 115.843,
+    "end": 116.805,
+    "text": "Come mai qui?"
+  },
+  {
+    "line_number": 30,
+    "start": 116.965,
+    "end": 117.965,
+    "text": "È un piacere anche per me."
+  },
+  {
+    "line_number": 31,
+    "start": 118.004,
+    "end": 119.305,
+    "text": "La stavo cercando, sai."
+  },
+  {
+    "line_number": 32,
+    "start": 119.325,
+    "end": 122.147,
+    "text": "Veramente stavo cercando Tiziana, ma nessuno sa dirmi più dove sta."
+  },
+  {
+    "line_number": 33,
+    "start": 123.007,
+    "end": 124.167,
+    "text": "So che voi siete molto amiche, no?"
+  },
+  {
+    "line_number": 34,
+    "start": 124.587,
+    "end": 125.587,
+    "text": "Mi può dare una mano a trovarla?"
+  },
+  {
+    "line_number": 35,
+    "start": 126.067,
+    "end": 130.99,
+    "text": "Ma io non credo sinceramente perché, sai, lei mi ha detto che voleva chiudere un po' con tutto qui."
+  },
+  {
+    "line_number": 36,
+    "start": 131.009,
+    "end": 131.849,
+    "text": "Ma perché ha trovato..."
+  },
+  {
+    "line_number": 37,
+    "start": 132.651,
+    "end": 135.515,
+    "text": "Sai, io e lei avevamo formato un team affiatatissimo qui dentro."
+  },
+  {
+    "line_number": 38,
+    "start": 137.277,
+    "end": 138.639,
+    "text": "Volevo soltanto salutarla, tutto qua."
+  },
+  {
+    "line_number": 39,
+    "start": 139.419,
+    "end": 142.223,
+    "text": "Vabbè, senta, però io forse a lei posso dirlo."
+  },
+  {
+    "line_number": 40,
+    "start": 142.283,
+    "end": 144.045,
+    "text": "Sta in via Tempesta 41."
+  },
+  {
+    "line_number": 41,
+    "start": 144.366,
+    "end": 147.729,
+    "text": "Tempesta 41, grazie Paola."
+  },
+  {
+    "line_number": 42,
+    "start": 147.79,
+    "end": 149.012,
+    "text": "È stato un piacere rivederla."
+  },
+  {
+    "line_number": 43,
+    "start": 149.072,
+    "end": 149.453,
+    "text": "Arrivederci."
+  },
+  {
+    "line_number": 44,
+    "start": 161.907,
+    "end": 162.807,
+    "text": "Non si preoccupi."
+  },
+  {
+    "line_number": 45,
+    "start": 164.429,
+    "end": 166.689,
+    "text": "Gli ispettori saranno al Sant'Anna di mattinata."
+  },
+  {
+    "line_number": 46,
+    "start": 168.569,
+    "end": 170.45,
+    "text": "Sì, sì."
+  },
+  {
+    "line_number": 47,
+    "start": 170.491,
+    "end": 171.95,
+    "text": "Lo sanno dove devono cercare."
+  },
+  {
+    "line_number": 48,
+    "start": 173.951,
+    "end": 175.572,
+    "text": "Finora non si sono accorti di niente."
+  },
+  {
+    "line_number": 49,
+    "start": 175.592,
+    "end": 175.572,
+    "text": "8, 10, 12, 14, 16."
+  },
+  {
+    "line_number": 50,
+    "start": 177.793,
+    "end": 175.572,
+    "text": "8, 10, 12, 14, 16."
+  },
+  {
+    "line_number": 51,
+    "start": 195.899,
+    "end": 200.02,
+    "text": "Quattro, sei, otto, dieci, dodici, quattordici."
+  },
+  {
+    "line_number": 52,
+    "start": 205.305,
+    "end": 206.344,
+    "text": "Ma qui ci sono due sacche in più."
+  },
+  {
+    "line_number": 53,
+    "start": 209.206,
+    "end": 210.328,
+    "text": "Come è possibile?"
+  },
+  {
+    "line_number": 54,
+    "start": 211.388,
+    "end": 214.55,
+    "text": "Vedi, tutte le scoperte della medicina si riducono a una sola certezza."
+  },
+  {
+    "line_number": 55,
+    "start": 214.629,
+    "end": 217.032,
+    "text": "L'acqua bevuta moderatamente non è nociva."
+  },
+  {
+    "line_number": 56,
+    "start": 218.502,
+    "end": 221.883,
+    "text": "Questo è facile, però è Mark Twain."
+  },
+  {
+    "line_number": 57,
+    "start": 221.924,
+    "end": 226.727,
+    "text": "Invece la medicina consiste nell'introdurre droghe sconosciute in un corpo che si conosce ancora meno."
+  },
+  {
+    "line_number": 58,
+    "start": 227.347,
+    "end": 228.168,
+    "text": "Questa è di Voltaire."
+  },
+  {
+    "line_number": 59,
+    "start": 228.467,
+    "end": 228.888,
+    "text": "La crema."
+  },
+  {
+    "line_number": 60,
+    "start": 229.108,
+    "end": 230.028,
+    "text": "Fai un pezzetto?"
+  },
+  {
+    "line_number": 61,
+    "start": 230.769,
+    "end": 232.469,
+    "text": "Sì."
+  },
+  {
+    "line_number": 62,
+    "start": 232.509,
+    "end": 234.83,
+    "text": "Col cornetto e il maritozzo vi si ingorga il gargarozzo."
+  },
+  {
+    "line_number": 63,
+    "start": 235.352,
+    "end": 237.793,
+    "text": "Col maritozzo e col cornetto cresce la fila in salato aspetto."
+  },
+  {
+    "line_number": 64,
+    "start": 238.073,
+    "end": 238.894,
+    "text": "Questa di chi è?"
+  },
+  {
+    "line_number": 65,
+    "start": 239.454,
+    "end": 240.153,
+    "text": "Milani Corrado."
+  },
+  {
+    "line_number": 66,
+    "start": 240.715,
+    "end": 242.235,
+    "text": "Pegliara neonatologo, meno bravo."
+  },
+  {
+    "line_number": 67,
+    "start": 242.616,
+    "end": 244.236,
+    "text": "Com'è col cornetto e il gargarozzo?"
+  },
+  {
+    "line_number": 68,
+    "start": 244.616,
+    "end": 245.837,
+    "text": "Vi strozzo!"
+  },
+  {
+    "line_number": 69,
+    "start": 245.858,
+    "end": 247.941,
+    "text": "Volete andare a lavorare invece di fare i nanetti da giardino?"
+  },
+  {
+    "line_number": 70,
+    "start": 248.722,
+    "end": 249.201,
+    "text": "Agli ordini!"
+  },
+  {
+    "line_number": 71,
+    "start": 249.663,
+    "end": 251.243,
+    "text": "Andiamo a gussolo!"
+  },
+  {
+    "line_number": 72,
+    "start": 251.905,
+    "end": 256.31,
+    "text": "Ciao ragazzi!"
+  },
+  {
+    "line_number": 73,
+    "start": 256.329,
+    "end": 257.071,
+    "text": "C'è pure Biancaneve!"
+  },
+  {
+    "line_number": 74,
+    "start": 257.63,
+    "end": 258.271,
+    "text": "Vuoi un po' di toga?"
+  },
+  {
+    "line_number": 75,
+    "start": 258.752,
+    "end": 260.194,
+    "text": "No grazie, sono in ritardo!"
+  },
+  {
+    "line_number": 76,
+    "start": 260.233,
+    "end": 260.795,
+    "text": "Ciao Corrado!"
+  },
+  {
+    "line_number": 77,
+    "start": 260.954,
+    "end": 261.115,
+    "text": "Ciao!"
+  },
+  {
+    "line_number": 78,
+    "start": 277.742,
+    "end": 279.343,
+    "text": "Amore, dov'è che ti fa male di me?"
+  },
+  {
+    "line_number": 79,
+    "start": 279.384,
+    "end": 279.665,
+    "text": "Dove?"
+  },
+  {
+    "line_number": 80,
+    "start": 280.004,
+    "end": 280.805,
+    "text": "Ma ti fa male qui?"
+  },
+  {
+    "line_number": 81,
+    "start": 281.026,
+    "end": 282.887,
+    "text": "Ma porca miseria, ma vuole stare attento a sua figlia!"
+  },
+  {
+    "line_number": 82,
+    "start": 282.906,
+    "end": 284.949,
+    "text": "Senta, adesso non mi sembra che... Ma come?"
+  },
+  {
+    "line_number": 83,
+    "start": 285.389,
+    "end": 286.689,
+    "text": "Al telefono, mentre attraversa la strada!"
+  },
+  {
+    "line_number": 84,
+    "start": 286.75,
+    "end": 287.87,
+    "text": "Ma la stai prendendo lei?"
+  },
+  {
+    "line_number": 85,
+    "start": 287.891,
+    "end": 289.252,
+    "text": "Ti sei fatta male, Don?"
+  },
+  {
+    "line_number": 86,
+    "start": 289.333,
+    "end": 289.793,
+    "text": "Il ginocchio?"
+  },
+  {
+    "line_number": 87,
+    "start": 289.952,
+    "end": 290.834,
+    "text": "Adesso lo curiamo."
+  },
+  {
+    "line_number": 88,
+    "start": 290.853,
+    "end": 292.875,
+    "text": "Fermi la macchina, la fermi, andiamo al punto soccorso, forza!"
+  },
+  {
+    "line_number": 89,
+    "start": 299.379,
+    "end": 301.36,
+    "text": "Marta Chieffi, 36° settimana."
+  },
+  {
+    "line_number": 90,
+    "start": 301.701,
+    "end": 303.341,
+    "text": "Forti emicrani, disturbi visivi."
+  },
+  {
+    "line_number": 91,
+    "start": 303.6,
+    "end": 305.182,
+    "text": "È una settimana che non riesce a dormire."
+  },
+  {
+    "line_number": 92,
+    "start": 305.502,
+    "end": 307.302,
+    "text": "Io lo sapevo che c'era qualcosa che non andava."
+  },
+  {
+    "line_number": 93,
+    "start": 307.461,
+    "end": 308.502,
+    "text": "Mamma, smettila."
+  },
+  {
+    "line_number": 94,
+    "start": 309.343,
+    "end": 311.382,
+    "text": "Alberto, controlliamo la pressione."
+  },
+  {
+    "line_number": 95,
+    "start": 312.944,
+    "end": 313.584,
+    "text": "Grazie."
+  },
+  {
+    "line_number": 96,
+    "start": 313.603,
+    "end": 315.264,
+    "text": "Che tipi di disturbi visivi ha, signora?"
+  },
+  {
+    "line_number": 97,
+    "start": 315.865,
+    "end": 316.704,
+    "text": "È da fastidio alla luce."
+  },
+  {
+    "line_number": 98,
+    "start": 316.725,
+    "end": 319.326,
+    "text": "È in macchina dove chiudere gli occhi."
+  },
+  {
+    "line_number": 99,
+    "start": 320.206,
+    "end": 321.005,
+    "text": "Un bambino apposta."
+  },
+  {
+    "line_number": 100,
+    "start": 323.586,
+    "end": 324.247,
+    "text": "È un bel maschietto."
+  },
+  {
+    "line_number": 101,
+    "start": 325.086,
+    "end": 325.687,
+    "text": "Nessun problema."
+  },
+  {
+    "line_number": 102,
+    "start": 326.507,
+    "end": 327.728,
+    "text": "Amore, amore, che succede?"
+  },
+  {
+    "line_number": 103,
+    "start": 327.747,
+    "end": 328.247,
+    "text": "Calma, calma, calma."
+  },
+  {
+    "line_number": 104,
+    "start": 329.531,
+    "end": 330.031,
+    "text": "Vuole un caffè?"
+  },
+  {
+    "line_number": 105,
+    "start": 330.052,
+    "end": 330.093,
+    "text": "Eh?"
+  },
+  {
+    "line_number": 106,
+    "start": 330.112,
+    "end": 330.833,
+    "text": "Prego, c'è cosa?"
+  },
+  {
+    "line_number": 107,
+    "start": 330.853,
+    "end": 332.654,
+    "text": "Sì, no, no, mi scusi, hai ragione."
+  },
+  {
+    "line_number": 108,
+    "start": 333.355,
+    "end": 334.036,
+    "text": "Non mi sento bene."
+  },
+  {
+    "line_number": 109,
+    "start": 336.398,
+    "end": 337.139,
+    "text": "Che ci fa tua mamma qua?"
+  },
+  {
+    "line_number": 110,
+    "start": 337.459,
+    "end": 338.6,
+    "text": "L'ho accompagnata io qui."
+  },
+  {
+    "line_number": 111,
+    "start": 338.961,
+    "end": 342.543,
+    "text": "Anche se avresti dovuto accompagnarla tu una settimana fa, quando ha cominciato a non dormire."
+  },
+  {
+    "line_number": 112,
+    "start": 342.863,
+    "end": 344.084,
+    "text": "Siete due irresponsabili."
+  },
+  {
+    "line_number": 113,
+    "start": 344.105,
+    "end": 344.766,
+    "text": "Mamma, basta."
+  },
+  {
+    "line_number": 114,
+    "start": 346.026,
+    "end": 347.708,
+    "text": "Ti ho chiamato solo perché Francesco non c'era."
+  },
+  {
+    "line_number": 115,
+    "start": 350.67,
+    "end": 351.552,
+    "text": "Va bene così, grazie."
+  },
+  {
+    "line_number": 116,
+    "start": 356.314,
+    "end": 356.454,
+    "text": "170 su 100."
+  },
+  {
+    "line_number": 117,
+    "start": 357.714,
+    "end": 358.175,
+    "text": "Troppo alta."
+  },
+  {
+    "line_number": 118,
+    "start": 358.956,
+    "end": 360.516,
+    "text": "Facciamo fare l'analisi del sangue delle brene."
+  },
+  {
+    "line_number": 119,
+    "start": 360.956,
+    "end": 361.875,
+    "text": "D'accordo."
+  },
+  {
+    "line_number": 120,
+    "start": 361.935,
+    "end": 363.016,
+    "text": "Ok, signore, si può rivestire."
+  },
+  {
+    "line_number": 121,
+    "start": 363.315,
+    "end": 363.857,
+    "text": "È tutto a posto."
+  },
+  {
+    "line_number": 122,
+    "start": 364.576,
+    "end": 366.716,
+    "text": "Voi cercate di non agitarla troppo."
+  },
+  {
+    "line_number": 123,
+    "start": 370.117,
+    "end": 370.418,
+    "text": "Come va?"
+  },
+  {
+    "line_number": 124,
+    "start": 371.317,
+    "end": 373.218,
+    "text": "Non perdete mai occasione per litigare voi due."
+  },
+  {
+    "line_number": 125,
+    "start": 375.619,
+    "end": 376.298,
+    "text": "Allora, che ti sembra?"
+  },
+  {
+    "line_number": 126,
+    "start": 376.319,
+    "end": 377.499,
+    "text": "È un po' presto."
+  },
+  {
+    "line_number": 127,
+    "start": 377.838,
+    "end": 379.158,
+    "text": "Dottore, dottore, scusi."
+  },
+  {
+    "line_number": 128,
+    "start": 379.559,
+    "end": 381.18,
+    "text": "Che cos'ha mia figlia?"
+  },
+  {
+    "line_number": 129,
+    "start": 381.22,
+    "end": 381.959,
+    "text": "Sapete già qualcosa?"
+  },
+  {
+    "line_number": 130,
+    "start": 382.778,
+    "end": 386.201,
+    "text": "Sì, la pressione è molto alta, quindi potrebbe trattarsi di preeclampsia, no?"
+  },
+  {
+    "line_number": 131,
+    "start": 386.92,
+    "end": 388.141,
+    "text": "Anche se è un po' presto per dirlo."
+  },
+  {
+    "line_number": 132,
+    "start": 388.841,
+    "end": 390.723,
+    "text": "E che effetti può avere sulla gravidanza?"
+  },
+  {
+    "line_number": 133,
+    "start": 391.463,
+    "end": 391.803,
+    "text": "È grave?"
+  },
+  {
+    "line_number": 134,
+    "start": 392.644,
+    "end": 394.305,
+    "text": "No, però dobbiamo tenerla sotto stretto controllo."
+  },
+  {
+    "line_number": 135,
+    "start": 394.346,
+    "end": 397.487,
+    "text": "Diciamo che se la pressione continua a salire potrebbero esserci dei problemi con il bambino."
+  },
+  {
+    "line_number": 136,
+    "start": 398.369,
+    "end": 399.149,
+    "text": "Anche se non è detto."
+  },
+  {
+    "line_number": 137,
+    "start": 400.591,
+    "end": 401.511,
+    "text": "Comunque non vi allarmate, eh?"
+  },
+  {
+    "line_number": 138,
+    "start": 402.271,
+    "end": 405.413,
+    "text": "Prima aspettiamo il risultato delle analisi, poi facciamo una diagnosi più precisa."
+  },
+  {
+    "line_number": 139,
+    "start": 406.334,
+    "end": 407.495,
+    "text": "E poi qui la teniamo sotto controllo."
+  },
+  {
+    "line_number": 140,
+    "start": 408.675,
+    "end": 409.216,
+    "text": "State tranquilli."
+  },
+  {
+    "line_number": 141,
+    "start": 409.237,
+    "end": 409.276,
+    "text": "Sì."
+  },
+  {
+    "line_number": 142,
+    "start": 411.595,
+    "end": 412.576,
+    "text": "Sempre catastrofico."
+  },
+  {
+    "line_number": 143,
+    "start": 412.596,
+    "end": 416.939,
+    "text": "E tu sei sempre presente, eh?"
+  },
+  {
+    "line_number": 144,
+    "start": 416.959,
+    "end": 418.922,
+    "text": "Non ti avevo mai avuto in mente di allarmarli in quel modo."
+  },
+  {
+    "line_number": 145,
+    "start": 419.322,
+    "end": 421.485,
+    "text": "Scusa, mi hanno chiesto come stava la figlia e io gli ho risposto."
+  },
+  {
+    "line_number": 146,
+    "start": 421.904,
+    "end": 422.565,
+    "text": "Poi lo sai anche tu, no?"
+  },
+  {
+    "line_number": 147,
+    "start": 422.605,
+    "end": 424.127,
+    "text": "Che potrebbe trattarsi di preeclampsia."
+  },
+  {
+    "line_number": 148,
+    "start": 424.867,
+    "end": 426.509,
+    "text": "Preeclampsia."
+  },
+  {
+    "line_number": 149,
+    "start": 426.55,
+    "end": 431.615,
+    "text": "Io che ho detto preeclampsia?"
+  },
+  {
+    "line_number": 150,
+    "start": 431.634,
+    "end": 432.196,
+    "text": "Guarda, Carolina."
+  },
+  {
+    "line_number": 151,
+    "start": 433.987,
+    "end": 435.168,
+    "text": "Le vedi queste due linee bianche?"
+  },
+  {
+    "line_number": 152,
+    "start": 435.709,
+    "end": 436.009,
+    "text": "Sì."
+  },
+  {
+    "line_number": 153,
+    "start": 436.029,
+    "end": 438.791,
+    "text": "Queste sono le ossa delle tue gambe e questa è quella dove ti sei fatta male."
+  },
+  {
+    "line_number": 154,
+    "start": 439.232,
+    "end": 439.952,
+    "text": "È rotta?"
+  },
+  {
+    "line_number": 155,
+    "start": 440.233,
+    "end": 442.053,
+    "text": "No, ritta, perfetta."
+  },
+  {
+    "line_number": 156,
+    "start": 442.353,
+    "end": 443.035,
+    "text": "È un osso bellissimo."
+  },
+  {
+    "line_number": 157,
+    "start": 443.314,
+    "end": 446.437,
+    "text": "Io non ci capisco più niente."
+  },
+  {
+    "line_number": 158,
+    "start": 446.497,
+    "end": 446.958,
+    "text": "Mi fa ancora male."
+  },
+  {
+    "line_number": 159,
+    "start": 447.098,
+    "end": 448.238,
+    "text": "Eh, te lo so, hai ragione."
+  },
+  {
+    "line_number": 160,
+    "start": 448.838,
+    "end": 452.122,
+    "text": "E ti fa ancora male perché hai preso una bella botta, ma adesso noi la disinfettiamo ancora, va bene?"
+  },
+  {
+    "line_number": 161,
+    "start": 452.862,
+    "end": 456.084,
+    "text": "Dottore, è veramente stata colpa mia."
+  },
+  {
+    "line_number": 162,
+    "start": 456.125,
+    "end": 456.524,
+    "text": "Mi scusi per prima."
+  },
+  {
+    "line_number": 163,
+    "start": 456.545,
+    "end": 458.266,
+    "text": "No, no, non dovevo parlarla in quel modo, ho esagerato io."
+  },
+  {
+    "line_number": 164,
+    "start": 458.887,
+    "end": 464.329,
+    "text": "È che quando la mamma di Carolina parte io sono un disastro, ne combino sempre qualcuna."
+  },
+  {
+    "line_number": 165,
+    "start": 465.61,
+    "end": 467.571,
+    "text": "Per fortuna questa volta non è successo niente di grave."
+  },
+  {
+    "line_number": 166,
+    "start": 468.112,
+    "end": 469.132,
+    "text": "Per forza c'era l'angioletto."
+  },
+  {
+    "line_number": 167,
+    "start": 469.432,
+    "end": 470.432,
+    "text": "Quale angioletto?"
+  },
+  {
+    "line_number": 168,
+    "start": 470.833,
+    "end": 471.473,
+    "text": "Come quale angioletto?"
+  },
+  {
+    "line_number": 169,
+    "start": 471.533,
+    "end": 472.293,
+    "text": "L'angioletto custode."
+  },
+  {
+    "line_number": 170,
+    "start": 473.254,
+    "end": 476.516,
+    "text": "Questa papà non me l'ha insegnata."
+  },
+  {
+    "line_number": 171,
+    "start": 476.536,
+    "end": 476.696,
+    "text": "Papà?"
+  },
+  {
+    "line_number": 172,
+    "start": 476.995,
+    "end": 477.295,
+    "text": "Ma come?"
+  },
+  {
+    "line_number": 173,
+    "start": 477.315,
+    "end": 478.416,
+    "text": "Ma l'angioletto custode."
+  },
+  {
+    "line_number": 174,
+    "start": 479.137,
+    "end": 480.398,
+    "text": "E ci protegge sempre?"
+  },
+  {
+    "line_number": 175,
+    "start": 482.978,
+    "end": 484.5,
+    "text": "Sì, ci protegge sempre."
+  },
+  {
+    "line_number": 176,
+    "start": 486.312,
+    "end": 489.574,
+    "text": "Qualche volta si distrae, però diciamo che ci protegge sempre."
+  },
+  {
+    "line_number": 177,
+    "start": 490.156,
+    "end": 490.536,
+    "text": "Respira."
+  },
+  {
+    "line_number": 178,
+    "start": 493.338,
+    "end": 493.637,
+    "text": "Ancora."
+  },
+  {
+    "line_number": 179,
+    "start": 496.199,
+    "end": 496.24,
+    "text": "Di 33?"
+  },
+  {
+    "line_number": 180,
+    "start": 496.279,
+    "end": 496.24,
+    "text": "33."
+  },
+  {
+    "line_number": 181,
+    "start": 496.379,
+    "end": 500.523,
+    "text": "Eh, vabbè, proviamo con... 66?"
+  },
+  {
+    "line_number": 182,
+    "start": 500.882,
+    "end": 500.523,
+    "text": "66."
+  },
+  {
+    "line_number": 183,
+    "start": 500.903,
+    "end": 501.023,
+    "text": "Diviso 2?"
+  },
+  {
+    "line_number": 184,
+    "start": 504.442,
+    "end": 508.004,
+    "text": "Seggio, stai staccando, vero?"
+  },
+  {
+    "line_number": 185,
+    "start": 508.404,
+    "end": 510.266,
+    "text": "No, veramente attacco adesso, mi hanno cambiato il turno, perché?"
+  },
+  {
+    "line_number": 186,
+    "start": 510.867,
+    "end": 513.307,
+    "text": "Volevo che me lo tenessi un paio d'ore, devo vedere il papà da sola."
+  },
+  {
+    "line_number": 187,
+    "start": 513.327,
+    "end": 514.789,
+    "text": "Normalito, oggi non posso, sto da solo."
+  },
+  {
+    "line_number": 188,
+    "start": 514.85,
+    "end": 520.313,
+    "text": "Ti prego, Giacomo me lo tiene la vicina, però lui è il requieto, la babysitter è malata, mamma è partita."
+  },
+  {
+    "line_number": 189,
+    "start": 520.693,
+    "end": 521.715,
+    "text": "Ti ringrazio."
+  },
+  {
+    "line_number": 190,
+    "start": 521.794,
+    "end": 523.816,
+    "text": "Sei un tesoro, grazie."
+  },
+  {
+    "line_number": 191,
+    "start": 523.836,
+    "end": 526.238,
+    "text": "Ciao tesoro, ti terrò i bambini tutte le volte che vorrai."
+  },
+  {
+    "line_number": 192,
+    "start": 526.538,
+    "end": 527.438,
+    "text": "Non ho bambini, io."
+  },
+  {
+    "line_number": 193,
+    "start": 527.499,
+    "end": 529.62,
+    "text": "Appunto, sbrigati a farli, è già la babysitter."
+  },
+  {
+    "line_number": 194,
+    "start": 529.639,
+    "end": 530.12,
+    "text": "Ciao, ciao."
+  },
+  {
+    "line_number": 195,
+    "start": 533.702,
+    "end": 535.104,
+    "text": "Scusate."
+  },
+  {
+    "line_number": 196,
+    "start": 535.124,
+    "end": 535.904,
+    "text": "Allora, tu stai buono qua."
+  },
+  {
+    "line_number": 197,
+    "start": 535.924,
+    "end": 538.748,
+    "text": "Adesso, il mio amico immaginario invisibile."
+  },
+  {
+    "line_number": 198,
+    "start": 538.807,
+    "end": 539.869,
+    "text": "Lui è Mario Pietro."
+  },
+  {
+    "line_number": 199,
+    "start": 540.068,
+    "end": 541.35,
+    "text": "Fate amicizia, eh."
+  },
+  {
+    "line_number": 200,
+    "start": 541.65,
+    "end": 542.532,
+    "text": "E dov'è?"
+  },
+  {
+    "line_number": 201,
+    "start": 542.552,
+    "end": 542.812,
+    "text": "Sta là."
+  },
+  {
+    "line_number": 202,
+    "start": 543.052,
+    "end": 544.173,
+    "text": "È invisibile, però sta là."
+  },
+  {
+    "line_number": 203,
+    "start": 544.994,
+    "end": 547.917,
+    "text": "Mi raccomando, Mario."
+  },
+  {
+    "line_number": 204,
+    "start": 547.956,
+    "end": 548.518,
+    "text": "T'ho visto, eh."
+  },
+  {
+    "line_number": 205,
+    "start": 548.577,
+    "end": 549.859,
+    "text": "Guarda che lui è un mio amico."
+  },
+  {
+    "line_number": 206,
+    "start": 550.019,
+    "end": 551.12,
+    "text": "Poi mi racconta tutte le cose."
+  },
+  {
+    "line_number": 207,
+    "start": 552.522,
+    "end": 553.763,
+    "text": "Signora, suo figlio sta a posto."
+  },
+  {
+    "line_number": 208,
+    "start": 553.883,
+    "end": 554.864,
+    "text": "Tranne la R, magari."
+  },
+  {
+    "line_number": 209,
+    "start": 554.923,
+    "end": 555.825,
+    "text": "La vediamo un'altra volta, però..."
+  },
+  {
+    "line_number": 210,
+    "start": 559.373,
+    "end": 559.873,
+    "text": "Eccole."
+  },
+  {
+    "line_number": 211,
+    "start": 559.893,
+    "end": 561.653,
+    "text": "Guarda, sono queste due."
+  },
+  {
+    "line_number": 212,
+    "start": 561.673,
+    "end": 562.335,
+    "text": "Ma che strano."
+  },
+  {
+    "line_number": 213,
+    "start": 562.575,
+    "end": 565.416,
+    "text": "Eppure io personalmente ho controllato le scorte che sono arrivate da Galilei due giorni fa."
+  },
+  {
+    "line_number": 214,
+    "start": 565.876,
+    "end": 566.456,
+    "text": "Era tutto a posto."
+  },
+  {
+    "line_number": 215,
+    "start": 566.677,
+    "end": 568.518,
+    "text": "Sì, ho capito, ma i codici di queste non sono sulla lista."
+  },
+  {
+    "line_number": 216,
+    "start": 568.758,
+    "end": 569.158,
+    "text": "L'ho visto."
+  },
+  {
+    "line_number": 217,
+    "start": 569.538,
+    "end": 570.099,
+    "text": "Com'è possibile?"
+  },
+  {
+    "line_number": 218,
+    "start": 570.759,
+    "end": 571.879,
+    "text": "Ah, non lo so."
+  },
+  {
+    "line_number": 219,
+    "start": 571.919,
+    "end": 573.9,
+    "text": "Però secondo me dobbiamo avvertire Alberto."
+  },
+  {
+    "line_number": 220,
+    "start": 573.921,
+    "end": 574.62,
+    "text": "Già."
+  },
+  {
+    "line_number": 221,
+    "start": 574.64,
+    "end": 575.201,
+    "text": "Vado io, dai."
+  },
+  {
+    "line_number": 222,
+    "start": 586.008,
+    "end": 587.208,
+    "text": "Allora ci pensi te a loro due, no?"
+  },
+  {
+    "line_number": 223,
+    "start": 587.269,
+    "end": 587.369,
+    "text": "Sì."
+  },
+  {
+    "line_number": 224,
+    "start": 587.649,
+    "end": 588.188,
+    "text": "A cosa, scusa?"
+  },
+  {
+    "line_number": 225,
+    "start": 588.629,
+    "end": 589.509,
+    "text": "A loro due ci pensi te?"
+  },
+  {
+    "line_number": 226,
+    "start": 589.849,
+    "end": 590.809,
+    "text": "Da solo, loro due."
+  },
+  {
+    "line_number": 227,
+    "start": 590.85,
+    "end": 592.71,
+    "text": "Pietro e il bambino invisibile, Mario."
+  },
+  {
+    "line_number": 228,
+    "start": 592.73,
+    "end": 594.11,
+    "text": "Ah, il bambino invisibile."
+  },
+  {
+    "line_number": 229,
+    "start": 594.13,
+    "end": 595.15,
+    "text": "Non hai detto niente a Annalisa?"
+  },
+  {
+    "line_number": 230,
+    "start": 595.451,
+    "end": 596.511,
+    "text": "Annalisa manco l'ho vista io."
+  },
+  {
+    "line_number": 231,
+    "start": 596.652,
+    "end": 598.432,
+    "text": "Eh, però non hai visto manco il bambino invisibile, no?"
+  },
+  {
+    "line_number": 232,
+    "start": 598.552,
+    "end": 599.072,
+    "text": "È invisibile."
+  },
+  {
+    "line_number": 233,
+    "start": 600.253,
+    "end": 600.773,
+    "text": "Mi dispiace."
+  },
+  {
+    "line_number": 234,
+    "start": 601.033,
+    "end": 601.514,
+    "text": "È certo."
+  },
+  {
+    "line_number": 235,
+    "start": 601.714,
+    "end": 603.394,
+    "text": "Cosa fai a nascere bambini?"
+  },
+  {
+    "line_number": 236,
+    "start": 603.594,
+    "end": 604.634,
+    "text": "Perché sono a Cicogna io."
+  },
+  {
+    "line_number": 237,
+    "start": 604.995,
+    "end": 606.174,
+    "text": "Allora a che servi?"
+  },
+  {
+    "line_number": 238,
+    "start": 607.095,
+    "end": 608.576,
+    "text": "Non conosci mia suocera?"
+  },
+  {
+    "line_number": 239,
+    "start": 608.615,
+    "end": 610.496,
+    "text": "Ma qui sono tutti matti?"
+  },
+  {
+    "line_number": 240,
+    "start": 610.756,
+    "end": 611.356,
+    "text": "Beh, pochetto."
+  },
+  {
+    "line_number": 241,
+    "start": 612.052,
+    "end": 613.293,
+    "text": "Ciao Nicola, cerco Alberta."
+  },
+  {
+    "line_number": 242,
+    "start": 613.573,
+    "end": 615.294,
+    "text": "Alberta è sala infermieri."
+  },
+  {
+    "line_number": 243,
+    "start": 616.034,
+    "end": 616.815,
+    "text": "Grazie, ciao."
+  },
+  {
+    "line_number": 244,
+    "start": 617.796,
+    "end": 619.056,
+    "text": "Ti faccio un'imitazione della Ceronia."
+  },
+  {
+    "line_number": 245,
+    "start": 620.596,
+    "end": 626.1,
+    "text": "Fammela un po'."
+  },
+  {
+    "line_number": 246,
+    "start": 627.059,
+    "end": 628.561,
+    "text": "Guarda, è bravissimo."
+  },
+  {
+    "line_number": 247,
+    "start": 629.197,
+    "end": 630.177,
+    "text": "Ma com'è un affidamento?"
+  },
+  {
+    "line_number": 248,
+    "start": 630.197,
+    "end": 632.019,
+    "text": "Io avevo chiesto a un bambino un'adozione."
+  },
+  {
+    "line_number": 249,
+    "start": 632.399,
+    "end": 633.278,
+    "text": "Ma lo so, Alberta."
+  },
+  {
+    "line_number": 250,
+    "start": 634.36,
+    "end": 635.98,
+    "text": "Soltanto che io ho comunque pensato a te."
+  },
+  {
+    "line_number": 251,
+    "start": 636.34,
+    "end": 637.441,
+    "text": "Senti, Daniele ha 11 anni."
+  },
+  {
+    "line_number": 252,
+    "start": 637.821,
+    "end": 639.6,
+    "text": "È un ragazzino intelligente, simpatico."
+  },
+  {
+    "line_number": 253,
+    "start": 639.64,
+    "end": 641.201,
+    "text": "Il suo unico problema è che è troppo grande."
+  },
+  {
+    "line_number": 254,
+    "start": 641.261,
+    "end": 642.461,
+    "text": "Non lo vuole nessuno."
+  },
+  {
+    "line_number": 255,
+    "start": 642.741,
+    "end": 644.283,
+    "text": "Sono tre mesi che gli cerco una famiglia."
+  },
+  {
+    "line_number": 256,
+    "start": 647.683,
+    "end": 648.303,
+    "text": "E i genitori?"
+  },
+  {
+    "line_number": 257,
+    "start": 649.144,
+    "end": 650.264,
+    "text": "Il padre non c'è mai stato."
+  },
+  {
+    "line_number": 258,
+    "start": 650.304,
+    "end": 652.066,
+    "text": "La madre è un totale disastro."
+  },
+  {
+    "line_number": 259,
+    "start": 652.166,
+    "end": 653.946,
+    "text": "Completamente incapace di occuparsi di lui."
+  },
+  {
+    "line_number": 260,
+    "start": 654.385,
+    "end": 656.466,
+    "text": "Infatti lui sta vivendo in casa famiglia adesso."
+  },
+  {
+    "line_number": 261,
+    "start": 659.363,
+    "end": 662.244,
+    "text": "Io non lo so."
+  },
+  {
+    "line_number": 262,
+    "start": 662.303,
+    "end": 664.024,
+    "text": "Non so se sono capace, non so se sono pronta."
+  },
+  {
+    "line_number": 263,
+    "start": 664.044,
+    "end": 668.905,
+    "text": "E poi, ecco, non era questo quello che io volevo, quello che mi aspettavo."
+  },
+  {
+    "line_number": 264,
+    "start": 668.946,
+    "end": 669.647,
+    "text": "Certo, capisco."
+  },
+  {
+    "line_number": 265,
+    "start": 669.726,
+    "end": 673.248,
+    "text": "Infatti non pretendo che tu mi dia una risposta subito."
+  },
+  {
+    "line_number": 266,
+    "start": 673.268,
+    "end": 674.847,
+    "text": "Voglio dire, è una cosa diversa."
+  },
+  {
+    "line_number": 267,
+    "start": 676.369,
+    "end": 676.708,
+    "text": "Scusate."
+  },
+  {
+    "line_number": 268,
+    "start": 677.928,
+    "end": 679.69,
+    "text": "Buongiorno."
+  },
+  {
+    "line_number": 269,
+    "start": 679.71,
+    "end": 681.291,
+    "text": "C'è una cosa molto strana che devo farti vedere."
+  },
+  {
+    "line_number": 270,
+    "start": 681.811,
+    "end": 682.11,
+    "text": "Posso?"
+  },
+  {
+    "line_number": 271,
+    "start": 682.691,
+    "end": 684.051,
+    "text": "Ecco, ecco."
+  },
+  {
+    "line_number": 272,
+    "start": 684.071,
+    "end": 684.412,
+    "text": "Va bene."
+  },
+  {
+    "line_number": 273,
+    "start": 685.211,
+    "end": 685.611,
+    "text": "Ti lascio."
+  },
+  {
+    "line_number": 274,
+    "start": 693.048,
+    "end": 694.589,
+    "text": "Senti, prenditi del tempo."
+  },
+  {
+    "line_number": 275,
+    "start": 695.729,
+    "end": 697.61,
+    "text": "Pensaci su e poi mi farei sapere."
+  },
+  {
+    "line_number": 276,
+    "start": 702.153,
+    "end": 702.613,
+    "text": "Sara?"
+  },
+  {
+    "line_number": 277,
+    "start": 702.712,
+    "end": 705.573,
+    "text": "Ehi."
+  },
+  {
+    "line_number": 278,
+    "start": 706.934,
+    "end": 713.538,
+    "text": "Dove vai?"
+  },
+  {
+    "line_number": 279,
+    "start": 714.337,
+    "end": 715.379,
+    "text": "A pranzo con mio padre, perché?"
+  },
+  {
+    "line_number": 280,
+    "start": 715.399,
+    "end": 717.24,
+    "text": "Ah, con tuo padre."
+  },
+  {
+    "line_number": 281,
+    "start": 718.24,
+    "end": 718.74,
+    "text": "No, no, niente, niente."
+  },
+  {
+    "line_number": 282,
+    "start": 720.052,
+    "end": 720.832,
+    "text": "Sei geloso?"
+  },
+  {
+    "line_number": 283,
+    "start": 721.613,
+    "end": 724.874,
+    "text": "Sai che sono giorni che vorrei pranzare con te, ma non ci riesco perché c'hai sempre qualcosa da fare."
+  },
+  {
+    "line_number": 284,
+    "start": 726.034,
+    "end": 731.115,
+    "text": "Però se vuoi, diciamo che do buco a mio padre e andiamo insieme a pranzare su una terrazza."
+  },
+  {
+    "line_number": 285,
+    "start": 731.375,
+    "end": 731.897,
+    "text": "Eh, magari."
+  },
+  {
+    "line_number": 286,
+    "start": 733.057,
+    "end": 734.797,
+    "text": "Non posso, un appuntamento anch'io."
+  },
+  {
+    "line_number": 287,
+    "start": 734.817,
+    "end": 735.337,
+    "text": "Che devi fare?"
+  },
+  {
+    "line_number": 288,
+    "start": 736.378,
+    "end": 738.918,
+    "text": "Una commissione, un'idea importante."
+  },
+  {
+    "line_number": 289,
+    "start": 738.938,
+    "end": 740.339,
+    "text": "Risposta precisa e desauriente."
+  },
+  {
+    "line_number": 290,
+    "start": 740.639,
+    "end": 740.918,
+    "text": "Ciao."
+  },
+  {
+    "line_number": 291,
+    "start": 742.12,
+    "end": 742.74,
+    "text": "Buongiorno, dottore."
+  },
+  {
+    "line_number": 292,
+    "start": 744.123,
+    "end": 746.104,
+    "text": "Oh, Augusto, vieni, vieni, ti cercavo."
+  },
+  {
+    "line_number": 293,
+    "start": 746.124,
+    "end": 747.364,
+    "text": "Senti, io devo allontanarmi un attimo."
+  },
+  {
+    "line_number": 294,
+    "start": 747.423,
+    "end": 749.245,
+    "text": "C'è quella signora con la preeclampsia."
+  },
+  {
+    "line_number": 295,
+    "start": 749.664,
+    "end": 752.125,
+    "text": "Dovresti fare la mia partesia di controllare la pressione ogni mezz'ora."
+  },
+  {
+    "line_number": 296,
+    "start": 752.166,
+    "end": 755.488,
+    "text": "Se c'è qualcosa di anomalo... Non la mando via, non si preoccupi, non faccio come l'altra volta."
+  },
+  {
+    "line_number": 297,
+    "start": 755.668,
+    "end": 758.489,
+    "text": "Queste due non sono nella lista."
+  },
+  {
+    "line_number": 298,
+    "start": 758.548,
+    "end": 765.231,
+    "text": "Ma come non... Non hai controllato se le sigle corrispondono a qualche circolare ministeriale?"
+  },
+  {
+    "line_number": 299,
+    "start": 765.272,
+    "end": 767.472,
+    "text": "Oddio, il circolare sta qua..."
+  },
+  {
+    "line_number": 300,
+    "start": 782.615,
+    "end": 783.315,
+    "text": "È sangue infetto."
+  },
+  {
+    "line_number": 301,
+    "start": 783.394,
+    "end": 788.017,
+    "text": "Cosa?"
+  },
+  {
+    "line_number": 302,
+    "start": 788.037,
+    "end": 789.216,
+    "text": "Questa è una circolare del Ministero."
+  },
+  {
+    "line_number": 303,
+    "start": 790.756,
+    "end": 795.158,
+    "text": "È stata distribuita per errore una partita di sangue difettosa che non corrisponde agli standard di sicurezza."
+  },
+  {
+    "line_number": 304,
+    "start": 796.698,
+    "end": 803.081,
+    "text": "Le aziende ospedaliere che se ne trovassero un possesso dovranno eliminarla immediatamente secondo le procedure fissate dal protocollo."
+  },
+  {
+    "line_number": 305,
+    "start": 803.14,
+    "end": 806.121,
+    "text": "Io non capisco, questa è una circolare di sei mesi fa."
+  },
+  {
+    "line_number": 306,
+    "start": 808.282,
+    "end": 810.143,
+    "text": "Ma com'è possibile che questo schifo è ancora in giro?"
+  },
+  {
+    "line_number": 307,
+    "start": 811.663,
+    "end": 814.104,
+    "text": "Sei tu che hai controllato le sacche che ci ha mandato il Galilei?"
+  },
+  {
+    "line_number": 308,
+    "start": 814.663,
+    "end": 815.323,
+    "text": "Sì, l'altro ieri."
+  },
+  {
+    "line_number": 309,
+    "start": 816.183,
+    "end": 817.044,
+    "text": "E non ti sei accorta di nulla?"
+  },
+  {
+    "line_number": 310,
+    "start": 817.524,
+    "end": 818.565,
+    "text": "Assolutamente, era tutto a posto."
+  },
+  {
+    "line_number": 311,
+    "start": 821.605,
+    "end": 825.807,
+    "text": "Vorresti dire che sono arrivate due sacchi in più del Galilei e non me ne sono accorta?"
+  },
+  {
+    "line_number": 312,
+    "start": 827.888,
+    "end": 836.09,
+    "text": "No, io voglio soltanto dire che da qualche parte questo sangue infetto è arrivato e la settimana scorsa non era qui."
+  },
+  {
+    "line_number": 313,
+    "start": 836.33,
+    "end": 838.99,
+    "text": "Ho capito, e adesso che facciamo?"
+  },
+  {
+    "line_number": 314,
+    "start": 839.258,
+    "end": 841.899,
+    "text": "Iniziamo le procedure di smaltimento e poi vediamo."
+  },
+  {
+    "line_number": 315,
+    "start": 845.543,
+    "end": 847.663,
+    "text": "Abbiamo fatto delle trasfusioni in questi giorni?"
+  },
+  {
+    "line_number": 316,
+    "start": 848.625,
+    "end": 849.365,
+    "text": "No, per fortuna."
+  },
+  {
+    "line_number": 317,
+    "start": 849.385,
+    "end": 852.447,
+    "text": "Ah, meno male."
+  },
+  {
+    "line_number": 318,
+    "start": 852.508,
+    "end": 855.73,
+    "text": "Anche se non sei un dottore, sai come nascono i bambini?"
+  },
+  {
+    "line_number": 319,
+    "start": 856.27,
+    "end": 857.03,
+    "text": "Ah, voglia."
+  },
+  {
+    "line_number": 320,
+    "start": 857.892,
+    "end": 859.994,
+    "text": "Bambini dalla pancia, no?"
+  },
+  {
+    "line_number": 321,
+    "start": 861.414,
+    "end": 861.735,
+    "text": "Come?"
+  },
+  {
+    "line_number": 322,
+    "start": 861.875,
+    "end": 864.336,
+    "text": "Prima li mangiano e poi li vantano?"
+  },
+  {
+    "line_number": 323,
+    "start": 866.837,
+    "end": 868.198,
+    "text": "No, non proprio così."
+  },
+  {
+    "line_number": 324,
+    "start": 868.219,
+    "end": 876.107,
+    "text": "Diciamo che prima arriva lui, poi arriva lei, che dicono, ah, adesso, e poi, no, capito?"
+  },
+  {
+    "line_number": 325,
+    "start": 876.509,
+    "end": 878.971,
+    "text": "È semplice, mica che... Buongiorno."
+  },
+  {
+    "line_number": 326,
+    "start": 879.091,
+    "end": 879.711,
+    "text": "Buongiorno."
+  },
+  {
+    "line_number": 327,
+    "start": 879.731,
+    "end": 880.552,
+    "text": "C'è il responsabile?"
+  },
+  {
+    "line_number": 328,
+    "start": 881.153,
+    "end": 882.475,
+    "text": "È l'economato al secondo piano."
+  },
+  {
+    "line_number": 329,
+    "start": 883.417,
+    "end": 885.318,
+    "text": "Ispezione sanitaria."
+  },
+  {
+    "line_number": 330,
+    "start": 885.339,
+    "end": 885.96,
+    "text": "C'è il responsabile?"
+  },
+  {
+    "line_number": 331,
+    "start": 887.085,
+    "end": 887.965,
+    "text": "Ispettore sanitario?"
+  },
+  {
+    "line_number": 332,
+    "start": 887.985,
+    "end": 888.904,
+    "text": "Sì."
+  },
+  {
+    "line_number": 333,
+    "start": 888.924,
+    "end": 889.785,
+    "text": "Quale responsabile?"
+  },
+  {
+    "line_number": 334,
+    "start": 889.946,
+    "end": 892.725,
+    "text": "Sì, ma mi sta dicendo che non c'è nessun personale qualificato qui."
+  },
+  {
+    "line_number": 335,
+    "start": 892.765,
+    "end": 894.307,
+    "text": "No, no, qui siamo tutti qualificati."
+  },
+  {
+    "line_number": 336,
+    "start": 894.846,
+    "end": 895.846,
+    "text": "Tutti, tutti, tutti."
+  },
+  {
+    "line_number": 337,
+    "start": 896.407,
+    "end": 897.006,
+    "text": "Bambino suo figlio?"
+  },
+  {
+    "line_number": 338,
+    "start": 897.267,
+    "end": 900.067,
+    "text": "Sì, momentaneamente sì."
+  },
+  {
+    "line_number": 339,
+    "start": 900.768,
+    "end": 901.927,
+    "text": "Ce lo chiama allora il responsabile?"
+  },
+  {
+    "line_number": 340,
+    "start": 902.149,
+    "end": 903.048,
+    "text": "Sì, sì, sì."
+  },
+  {
+    "line_number": 341,
+    "start": 903.229,
+    "end": 903.708,
+    "text": "Grazie."
+  },
+  {
+    "line_number": 342,
+    "start": 903.749,
+    "end": 905.089,
+    "text": "Ce lo chiamiamo responsabile."
+  },
+  {
+    "line_number": 343,
+    "start": 905.188,
+    "end": 906.57,
+    "text": "Ma intanto cominciamo da soli, eh?"
+  },
+  {
+    "line_number": 344,
+    "start": 907.35,
+    "end": 908.769,
+    "text": "Sì, prego, prego."
+  },
+  {
+    "line_number": 345,
+    "start": 909.47,
+    "end": 909.71,
+    "text": "Ciao."
+  },
+  {
+    "line_number": 346,
+    "start": 910.47,
+    "end": 915.432,
+    "text": "Loro lo sanno come nascono i bambini?"
+  },
+  {
+    "line_number": 347,
+    "start": 915.451,
+    "end": 916.772,
+    "text": "Lo sanno, lo sanno, questi lo sanno."
+  },
+  {
+    "line_number": 348,
+    "start": 932.383,
+    "end": 933.043,
+    "text": "Signora, mi scusi."
+  },
+  {
+    "line_number": 349,
+    "start": 933.244,
+    "end": 933.803,
+    "text": "Eh, dica?"
+  },
+  {
+    "line_number": 350,
+    "start": 934.163,
+    "end": 936.184,
+    "text": "Volevo un'informazione, la disturbo?"
+  },
+  {
+    "line_number": 351,
+    "start": 936.284,
+    "end": 939.027,
+    "text": "Se deve andare su per le scale, sì, non lo vede, è tutto bagnato."
+  },
+  {
+    "line_number": 352,
+    "start": 939.047,
+    "end": 940.508,
+    "text": "Ah, mi scusi signora, non me ne ero accorto."
+  },
+  {
+    "line_number": 353,
+    "start": 941.168,
+    "end": 941.528,
+    "text": "Mi scusi."
+  },
+  {
+    "line_number": 354,
+    "start": 942.448,
+    "end": 944.73,
+    "text": "Senta, per caso ha visto la signora Rossini, Tiziana Rossini?"
+  },
+  {
+    "line_number": 355,
+    "start": 945.11,
+    "end": 946.451,
+    "text": "Ma chi la vede mai quella?"
+  },
+  {
+    "line_number": 356,
+    "start": 946.772,
+    "end": 948.712,
+    "text": "Sarà una settimana che non si vede nessuno."
+  },
+  {
+    "line_number": 357,
+    "start": 950.053,
+    "end": 951.554,
+    "text": "Quindi non mi sa dire quando la posso trovare."
+  },
+  {
+    "line_number": 358,
+    "start": 951.955,
+    "end": 953.355,
+    "text": "Ma che faccia la segretaria, io?"
+  },
+  {
+    "line_number": 359,
+    "start": 953.696,
+    "end": 954.735,
+    "text": "C'è ragione."
+  },
+  {
+    "line_number": 360,
+    "start": 954.777,
+    "end": 957.477,
+    "text": "Vabbè, mi scusi, eh, come non detto, grazie lo stesso."
+  },
+  {
+    "line_number": 361,
+    "start": 957.837,
+    "end": 958.619,
+    "text": "Eh, bel giovane?"
+  },
+  {
+    "line_number": 362,
+    "start": 966.481,
+    "end": 968.363,
+    "text": "Io una volta l'ho vista con la sorella."
+  },
+  {
+    "line_number": 363,
+    "start": 968.903,
+    "end": 970.264,
+    "text": "Eh, forse sta da lei."
+  },
+  {
+    "line_number": 364,
+    "start": 970.745,
+    "end": 972.566,
+    "text": "Ah, e dove sta la sorella?"
+  },
+  {
+    "line_number": 365,
+    "start": 972.605,
+    "end": 973.245,
+    "text": "Ai castelli."
+  },
+  {
+    "line_number": 366,
+    "start": 973.886,
+    "end": 976.668,
+    "text": "A Albano, Genzano, una cosa del genere."
+  },
+  {
+    "line_number": 367,
+    "start": 976.688,
+    "end": 979.21,
+    "text": "Ah, dei posti."
+  },
+  {
+    "line_number": 368,
+    "start": 979.23,
+    "end": 980.191,
+    "text": "Grazie, eh."
+  },
+  {
+    "line_number": 369,
+    "start": 980.211,
+    "end": 981.971,
+    "text": "Meno male che ci stanno i portieri."
+  },
+  {
+    "line_number": 370,
+    "start": 982.032,
+    "end": 983.533,
+    "text": "Eh."
+  },
+  {
+    "line_number": 371,
+    "start": 983.592,
+    "end": 984.133,
+    "text": "Arrivederci."
+  },
+  {
+    "line_number": 372,
+    "start": 986.115,
+    "end": 986.615,
+    "text": "Ehi, papà."
+  },
+  {
+    "line_number": 373,
+    "start": 987.274,
+    "end": 988.475,
+    "text": "Tesoro, che sorpresa."
+  },
+  {
+    "line_number": 374,
+    "start": 988.515,
+    "end": 988.956,
+    "text": "Come mai qui?"
+  },
+  {
+    "line_number": 375,
+    "start": 990.216,
+    "end": 991.197,
+    "text": "Scusa, avevamo un pranzo insieme."
+  },
+  {
+    "line_number": 376,
+    "start": 991.238,
+    "end": 992.298,
+    "text": "Che te ne sei dimenticato?"
+  },
+  {
+    "line_number": 377,
+    "start": 992.739,
+    "end": 993.899,
+    "text": "Mi sono scordato di avvertirti."
+  },
+  {
+    "line_number": 378,
+    "start": 993.94,
+    "end": 994.559,
+    "text": "Non posso più."
+  },
+  {
+    "line_number": 379,
+    "start": 994.74,
+    "end": 995.921,
+    "text": "Ho già un impegno per il pranzo."
+  },
+  {
+    "line_number": 380,
+    "start": 997.472,
+    "end": 998.014,
+    "text": "Caso con lui?"
+  },
+  {
+    "line_number": 381,
+    "start": 998.374,
+    "end": 1000.495,
+    "text": "Sì, un informatore, le solite case farmaceutiche."
+  },
+  {
+    "line_number": 382,
+    "start": 1001.355,
+    "end": 1003.417,
+    "text": "Mi sembra già di averlo visto da qualche parte, no?"
+  },
+  {
+    "line_number": 383,
+    "start": 1003.456,
+    "end": 1005.138,
+    "text": "Figurati, non lo conoscevo neanche io."
+  },
+  {
+    "line_number": 384,
+    "start": 1005.857,
+    "end": 1008.44,
+    "text": "Scusami, eh?"
+  },
+  {
+    "line_number": 385,
+    "start": 1008.46,
+    "end": 1009.1,
+    "text": "Sì, Nicola, dimmi."
+  },
+  {
+    "line_number": 386,
+    "start": 1009.36,
+    "end": 1013.442,
+    "text": "Ah, ho capito."
+  },
+  {
+    "line_number": 387,
+    "start": 1014.442,
+    "end": 1016.544,
+    "text": "Sì, arrivo subito."
+  },
+  {
+    "line_number": 388,
+    "start": 1017.504,
+    "end": 1017.664,
+    "text": "Grazie."
+  },
+  {
+    "line_number": 389,
+    "start": 1017.705,
+    "end": 1019.265,
+    "text": "Pare che ci sia un'ispezione al Sant'Anna."
+  },
+  {
+    "line_number": 390,
+    "start": 1019.726,
+    "end": 1020.787,
+    "text": "Tu non ne sai niente, vero?"
+  },
+  {
+    "line_number": 391,
+    "start": 1021.648,
+    "end": 1022.307,
+    "text": "Non dipende da me."
+  },
+  {
+    "line_number": 392,
+    "start": 1023.269,
+    "end": 1025.289,
+    "text": "Ma con un'ingamba come Maioli non avete problemi, no?"
+  },
+  {
+    "line_number": 393,
+    "start": 1028.211,
+    "end": 1029.252,
+    "text": "Ciao papà, scusa."
+  },
+  {
+    "line_number": 394,
+    "start": 1029.292,
+    "end": 1029.472,
+    "text": "Ciao."
+  },
+  {
+    "line_number": 395,
+    "start": 1029.532,
+    "end": 1030.452,
+    "text": "Pronto Riccola, sono Maioli."
+  },
+  {
+    "line_number": 396,
+    "start": 1030.473,
+    "end": 1030.794,
+    "text": "Mi hai cercato?"
+  },
+  {
+    "line_number": 397,
+    "start": 1030.814,
+    "end": 1031.834,
+    "text": "Ora vorremmo visitare il magazzino."
+  },
+  {
+    "line_number": 398,
+    "start": 1053.386,
+    "end": 1053.866,
+    "text": "Il magazzino."
+  },
+  {
+    "line_number": 399,
+    "start": 1054.488,
+    "end": 1055.667,
+    "text": "Sì, il magazzino."
+  },
+  {
+    "line_number": 400,
+    "start": 1055.728,
+    "end": 1057.209,
+    "text": "Però è dall'altra parte dove parto."
+  },
+  {
+    "line_number": 401,
+    "start": 1057.729,
+    "end": 1061.391,
+    "text": "Se volete da questa parte c'è l'ambulatorio ginecologico."
+  },
+  {
+    "line_number": 402,
+    "start": 1061.411,
+    "end": 1061.971,
+    "text": "Eh?"
+  },
+  {
+    "line_number": 403,
+    "start": 1062.631,
+    "end": 1063.471,
+    "text": "Se volete seguirmi."
+  },
+  {
+    "line_number": 404,
+    "start": 1064.531,
+    "end": 1064.872,
+    "text": "Di qua."
+  },
+  {
+    "line_number": 405,
+    "start": 1066.373,
+    "end": 1068.013,
+    "text": "Ecco, da questa parte, prego."
+  },
+  {
+    "line_number": 406,
+    "start": 1070.172,
+    "end": 1074.534,
+    "text": "Ecco, questo è il nostro ambulatorio ginecologico."
+  },
+  {
+    "line_number": 407,
+    "start": 1074.854,
+    "end": 1075.074,
+    "text": "Grazie."
+  },
+  {
+    "line_number": 408,
+    "start": 1075.173,
+    "end": 1075.733,
+    "text": "Ragazze, ma che fate?"
+  },
+  {
+    "line_number": 409,
+    "start": 1075.753,
+    "end": 1077.055,
+    "text": "Ma non vi seguite come pecore?"
+  },
+  {
+    "line_number": 410,
+    "start": 1077.634,
+    "end": 1080.996,
+    "text": "Ragazze, non facciamo confusione, facciamogli vedere come lavoriamo."
+  },
+  {
+    "line_number": 411,
+    "start": 1081.175,
+    "end": 1081.915,
+    "text": "Perché, come lavoriamo?"
+  },
+  {
+    "line_number": 412,
+    "start": 1082.195,
+    "end": 1082.477,
+    "text": "Bene."
+  },
+  {
+    "line_number": 413,
+    "start": 1082.896,
+    "end": 1083.997,
+    "text": "Gianna, noi lavoriamo bene."
+  },
+  {
+    "line_number": 414,
+    "start": 1084.237,
+    "end": 1091.019,
+    "text": "Eh, quello è lei, lei ha delle insicurezze, ci lavoriamo così."
+  },
+  {
+    "line_number": 415,
+    "start": 1091.039,
+    "end": 1096.622,
+    "text": "Beh, come avete visto, noi siamo una piccola struttura, però siamo in grado di affrontare anche contemporaneamente diverse esigenze."
+  },
+  {
+    "line_number": 416,
+    "start": 1096.801,
+    "end": 1097.362,
+    "text": "Interessante."
+  },
+  {
+    "line_number": 417,
+    "start": 1098.782,
+    "end": 1099.722,
+    "text": "Se volete seguirmi..."
+  },
+  {
+    "line_number": 418,
+    "start": 1104.451,
+    "end": 1106.613,
+    "text": "Ho avvisato papà, sta arrivando."
+  },
+  {
+    "line_number": 419,
+    "start": 1106.633,
+    "end": 1110.694,
+    "text": "Mamma, adesso però se ti fermi per favore, perché così mi aumenti il mal di testa."
+  },
+  {
+    "line_number": 420,
+    "start": 1110.755,
+    "end": 1112.776,
+    "text": "Ecco, è sempre tutta colpa mia."
+  },
+  {
+    "line_number": 421,
+    "start": 1113.296,
+    "end": 1113.957,
+    "text": "Non ho detto questo."
+  },
+  {
+    "line_number": 422,
+    "start": 1114.856,
+    "end": 1119.538,
+    "text": "More, vabbè, non ti agitare."
+  },
+  {
+    "line_number": 423,
+    "start": 1119.558,
+    "end": 1120.599,
+    "text": "Fatto."
+  },
+  {
+    "line_number": 424,
+    "start": 1120.64,
+    "end": 1120.96,
+    "text": "Quanto è?"
+  },
+  {
+    "line_number": 425,
+    "start": 1120.98,
+    "end": 1122.141,
+    "text": "180-120."
+  },
+  {
+    "line_number": 426,
+    "start": 1122.24,
+    "end": 1124.821,
+    "text": "Oddio, è aumentata."
+  },
+  {
+    "line_number": 427,
+    "start": 1125.142,
+    "end": 1126.442,
+    "text": "Vabbè, è un po' di pressione alta."
+  },
+  {
+    "line_number": 428,
+    "start": 1127.38,
+    "end": 1138.038,
+    "text": "lo dici tu ma se mi davi retta da quando eri bambina che facevi sempre di testa tua signora forse è meglio s'aspetta fuori perché così la agita ulteriormente ma così infatti per favore Lucia esci"
+  },
+  {
+    "line_number": 429,
+    "start": 1146.213,
+    "end": 1147.414,
+    "text": "Lori, sei qualcosa delle ispezioni?"
+  },
+  {
+    "line_number": 430,
+    "start": 1147.454,
+    "end": 1149.916,
+    "text": "Perché io sono a FIFA, guarda, e non ci si capisce nulla."
+  },
+  {
+    "line_number": 431,
+    "start": 1149.997,
+    "end": 1151.478,
+    "text": "Non ne so nulla, io pensavo tu sapessi qualcosa."
+  },
+  {
+    "line_number": 432,
+    "start": 1151.518,
+    "end": 1153.9,
+    "text": "Te che eri fuori, scusa, io ero qui a misurare la pressione, che ne so?"
+  },
+  {
+    "line_number": 433,
+    "start": 1154.0,
+    "end": 1154.74,
+    "text": "Ma io che ne so?"
+  },
+  {
+    "line_number": 434,
+    "start": 1154.8,
+    "end": 1156.301,
+    "text": "Ma io devo sempre sapere tutto."
+  },
+  {
+    "line_number": 435,
+    "start": 1156.321,
+    "end": 1157.703,
+    "text": "E poi sapere chi l'ha mandato, hai capito?"
+  },
+  {
+    "line_number": 436,
+    "start": 1157.743,
+    "end": 1159.724,
+    "text": "Perché non è che un uomo viene così a fare le ispezioni."
+  },
+  {
+    "line_number": 437,
+    "start": 1160.705,
+    "end": 1161.207,
+    "text": "Amore, cosa c'è?"
+  },
+  {
+    "line_number": 438,
+    "start": 1161.307,
+    "end": 1161.567,
+    "text": "Cosa c'è?"
+  },
+  {
+    "line_number": 439,
+    "start": 1161.666,
+    "end": 1162.587,
+    "text": "Ehi, dottoressa, scusi!"
+  },
+  {
+    "line_number": 440,
+    "start": 1162.907,
+    "end": 1164.128,
+    "text": "Oddio, vai a chiamare Augusto, presto!"
+  },
+  {
+    "line_number": 441,
+    "start": 1165.45,
+    "end": 1166.79,
+    "text": "Speriamo che adesso arriva subito il dottore."
+  },
+  {
+    "line_number": 442,
+    "start": 1166.99,
+    "end": 1168.011,
+    "text": "Ma che succede?"
+  },
+  {
+    "line_number": 443,
+    "start": 1168.031,
+    "end": 1169.594,
+    "text": "Crise convulsiva, la pressione aumentata."
+  },
+  {
+    "line_number": 444,
+    "start": 1169.614,
+    "end": 1171.134,
+    "text": "Abbasso il letto, tu aiutami a tenerla ferma."
+  },
+  {
+    "line_number": 445,
+    "start": 1171.775,
+    "end": 1172.836,
+    "text": "Forse è meglio che lei esca."
+  },
+  {
+    "line_number": 446,
+    "start": 1173.036,
+    "end": 1173.257,
+    "text": "Sì, sì."
+  },
+  {
+    "line_number": 447,
+    "start": 1174.987,
+    "end": 1178.868,
+    "text": "Voletana, prepara due fiale da 10 mg di piazza per andare a somministrare in vera."
+  },
+  {
+    "line_number": 448,
+    "start": 1179.068,
+    "end": 1179.348,
+    "text": "Presto!"
+  },
+  {
+    "line_number": 449,
+    "start": 1181.13,
+    "end": 1182.25,
+    "text": "Tienila ferma, tienila ferma."
+  },
+  {
+    "line_number": 450,
+    "start": 1182.911,
+    "end": 1184.892,
+    "text": "Ecco, si sta calmando."
+  },
+  {
+    "line_number": 451,
+    "start": 1192.476,
+    "end": 1193.675,
+    "text": "Dottoressa, calma, è arrivata."
+  },
+  {
+    "line_number": 452,
+    "start": 1193.896,
+    "end": 1194.676,
+    "text": "Dove sono gli ispettori?"
+  },
+  {
+    "line_number": 453,
+    "start": 1194.777,
+    "end": 1195.718,
+    "text": "Stanno in giro questi."
+  },
+  {
+    "line_number": 454,
+    "start": 1196.337,
+    "end": 1196.617,
+    "text": "Eccoli."
+  },
+  {
+    "line_number": 455,
+    "start": 1196.998,
+    "end": 1198.058,
+    "text": "Nicola, per favore, la borsa, grazie."
+  },
+  {
+    "line_number": 456,
+    "start": 1198.078,
+    "end": 1198.358,
+    "text": "Grazie."
+  },
+  {
+    "line_number": 457,
+    "start": 1200.174,
+    "end": 1202.856,
+    "text": "Buongiorno Alberta, salve dottoressa Guastalla, ben arrivati."
+  },
+  {
+    "line_number": 458,
+    "start": 1202.876,
+    "end": 1203.336,
+    "text": "Piacere."
+  },
+  {
+    "line_number": 459,
+    "start": 1203.376,
+    "end": 1207.779,
+    "text": "La vostra caposara ci sta facendo fare un tour metodico ma non ancora esauriente del vostro ospedale."
+  },
+  {
+    "line_number": 460,
+    "start": 1208.22,
+    "end": 1210.3,
+    "text": "Va bene, me ne occupo io Alberta."
+  },
+  {
+    "line_number": 461,
+    "start": 1210.881,
+    "end": 1212.021,
+    "text": "Tieni lì lontano dal magazzino."
+  },
+  {
+    "line_number": 462,
+    "start": 1212.182,
+    "end": 1212.461,
+    "text": "Perché?"
+  },
+  {
+    "line_number": 463,
+    "start": 1212.863,
+    "end": 1213.143,
+    "text": "Figati."
+  },
+  {
+    "line_number": 464,
+    "start": 1225.375,
+    "end": 1227.215,
+    "text": "Dottore, ma che è successo?"
+  },
+  {
+    "line_number": 465,
+    "start": 1227.236,
+    "end": 1232.396,
+    "text": "La pressione troppo alta probabilmente ha provocato una crisi convulsiva, ma per il momento la causa non è chiara."
+  },
+  {
+    "line_number": 466,
+    "start": 1233.057,
+    "end": 1235.117,
+    "text": "Ci hanno detto che si trattava di preeclapsia."
+  },
+  {
+    "line_number": 467,
+    "start": 1235.577,
+    "end": 1236.657,
+    "text": "È ancora presto per dirlo."
+  },
+  {
+    "line_number": 468,
+    "start": 1237.118,
+    "end": 1249.422,
+    "text": "Comunque vado a vedere se sono arrivati i referti delle analisi."
+  },
+  {
+    "line_number": 469,
+    "start": 1249.442,
+    "end": 1249.662,
+    "text": "Ciao."
+  },
+  {
+    "line_number": 470,
+    "start": 1249.701,
+    "end": 1252.863,
+    "text": "Nathalie."
+  },
+  {
+    "line_number": 471,
+    "start": 1252.903,
+    "end": 1253.063,
+    "text": "Ciao."
+  },
+  {
+    "line_number": 472,
+    "start": 1253.222,
+    "end": 1253.723,
+    "text": "Che ci fai qui?"
+  },
+  {
+    "line_number": 473,
+    "start": 1254.304,
+    "end": 1254.824,
+    "text": "Ti stavo aspettando."
+  },
+  {
+    "line_number": 474,
+    "start": 1256.806,
+    "end": 1258.346,
+    "text": "Torno a Parigi e volevo salutarti."
+  },
+  {
+    "line_number": 475,
+    "start": 1258.747,
+    "end": 1259.748,
+    "text": "Ah, torni a Parigi."
+  },
+  {
+    "line_number": 476,
+    "start": 1261.088,
+    "end": 1266.451,
+    "text": "Senti Stefano, io stavo pensando che forse non mi sono comportata molto bene con te."
+  },
+  {
+    "line_number": 477,
+    "start": 1267.952,
+    "end": 1268.854,
+    "text": "Beh, lascia perdere."
+  },
+  {
+    "line_number": 478,
+    "start": 1269.773,
+    "end": 1273.436,
+    "text": "È passato tanto tempo che... No, no, fammi finire."
+  },
+  {
+    "line_number": 479,
+    "start": 1273.477,
+    "end": 1277.859,
+    "text": "Tu sei un ottimo medico e io ti stimo molto."
+  },
+  {
+    "line_number": 480,
+    "start": 1277.92,
+    "end": 1283.123,
+    "text": "E sono convinta che quello che abbiamo iniziato insieme dovremmo anche finirlo insieme."
+  },
+  {
+    "line_number": 481,
+    "start": 1283.163,
+    "end": 1284.124,
+    "text": "Parli della ricerca?"
+  },
+  {
+    "line_number": 482,
+    "start": 1285.403,
+    "end": 1286.125,
+    "text": "Della nostra ricerca."
+  },
+  {
+    "line_number": 483,
+    "start": 1289.013,
+    "end": 1292.217,
+    "text": "Uno solo."
+  },
+  {
+    "line_number": 484,
+    "start": 1292.277,
+    "end": 1295.019,
+    "text": "Ho bisogno di te, Stefano."
+  },
+  {
+    "line_number": 485,
+    "start": 1295.059,
+    "end": 1299.884,
+    "text": "Mi sono resa conto che noi due eravamo... Ma sempre, Natalino."
+  },
+  {
+    "line_number": 486,
+    "start": 1300.404,
+    "end": 1305.429,
+    "text": "Al Sant'Anna hanno bisogno di me, io ho bisogno di loro e... E di Sara."
+  },
+  {
+    "line_number": 487,
+    "start": 1308.332,
+    "end": 1308.971,
+    "text": "Sì, Natalino."
+  },
+  {
+    "line_number": 488,
+    "start": 1309.153,
+    "end": 1311.375,
+    "text": "Ho bisogno di Sara."
+  },
+  {
+    "line_number": 489,
+    "start": 1325.942,
+    "end": 1326.743,
+    "text": "Non me lo scorderò mai."
+  },
+  {
+    "line_number": 490,
+    "start": 1326.763,
+    "end": 1328.265,
+    "text": "Buona fortuna."
+  },
+  {
+    "line_number": 491,
+    "start": 1336.819,
+    "end": 1338.361,
+    "text": "Riccola, dove sono gli ispettori?"
+  },
+  {
+    "line_number": 492,
+    "start": 1338.381,
+    "end": 1341.041,
+    "text": "Sono in sala parto, ho la dottoressa Guastalla."
+  },
+  {
+    "line_number": 493,
+    "start": 1341.061,
+    "end": 1346.202,
+    "text": "Grazie, mi serve una cortesia, devi ritracciarmi un numero di telefono di una persona che vive tra Genzano e Albano, ok?"
+  },
+  {
+    "line_number": 494,
+    "start": 1346.403,
+    "end": 1347.104,
+    "text": "Trattoriola."
+  },
+  {
+    "line_number": 495,
+    "start": 1347.144,
+    "end": 1348.223,
+    "text": "Ma che trattoriola, magari."
+  },
+  {
+    "line_number": 496,
+    "start": 1348.564,
+    "end": 1351.285,
+    "text": "Senti, so soltanto che si chiama Rossini e che la sorella fa l'infermiera."
+  },
+  {
+    "line_number": 497,
+    "start": 1351.525,
+    "end": 1353.605,
+    "text": "Ricorda di Genzano o Albano, datti da fare."
+  },
+  {
+    "line_number": 498,
+    "start": 1353.645,
+    "end": 1357.707,
+    "text": "Professore, mi scusi, senta, la donna è sospetta preeclampsia, ha appena avuto le convulsioni."
+  },
+  {
+    "line_number": 499,
+    "start": 1358.027,
+    "end": 1359.347,
+    "text": "Però ecco, sono arrivate le analisi."
+  },
+  {
+    "line_number": 500,
+    "start": 1359.548,
+    "end": 1361.19,
+    "text": "Vedi questi valori?"
+  },
+  {
+    "line_number": 501,
+    "start": 1361.49,
+    "end": 1365.755,
+    "text": "Secondo me... Stefano, scusa, priorità assoluta, devi venire con me."
+  },
+  {
+    "line_number": 502,
+    "start": 1365.894,
+    "end": 1366.435,
+    "text": "Aspetta un attimo."
+  },
+  {
+    "line_number": 503,
+    "start": 1366.455,
+    "end": 1367.576,
+    "text": "Devi venire con me."
+  },
+  {
+    "line_number": 504,
+    "start": 1368.417,
+    "end": 1368.938,
+    "text": "È importante."
+  },
+  {
+    "line_number": 505,
+    "start": 1370.078,
+    "end": 1370.4,
+    "text": "Ti prego."
+  },
+  {
+    "line_number": 506,
+    "start": 1370.98,
+    "end": 1372.221,
+    "text": "Fale vedere alla dottoressa Guastalla."
+  },
+  {
+    "line_number": 507,
+    "start": 1372.301,
+    "end": 1372.382,
+    "text": "Sì."
+  },
+  {
+    "line_number": 508,
+    "start": 1372.821,
+    "end": 1374.865,
+    "text": "E quella era la sala operatoria."
+  },
+  {
+    "line_number": 509,
+    "start": 1374.884,
+    "end": 1375.885,
+    "text": "Prego."
+  },
+  {
+    "line_number": 510,
+    "start": 1375.925,
+    "end": 1376.967,
+    "text": "Da questa parte invece c'è il nido."
+  },
+  {
+    "line_number": 511,
+    "start": 1377.007,
+    "end": 1377.247,
+    "text": "Sarà."
+  },
+  {
+    "line_number": 512,
+    "start": 1377.267,
+    "end": 1377.346,
+    "text": "Ciao."
+  },
+  {
+    "line_number": 513,
+    "start": 1378.194,
+    "end": 1379.135,
+    "text": "Scusami un momento."
+  },
+  {
+    "line_number": 514,
+    "start": 1379.155,
+    "end": 1380.737,
+    "text": "Augusto, scusami, vedi che sono che degli ispettori?"
+  },
+  {
+    "line_number": 515,
+    "start": 1381.376,
+    "end": 1382.397,
+    "text": "Questa è un'emergenza, però."
+  },
+  {
+    "line_number": 516,
+    "start": 1382.678,
+    "end": 1383.077,
+    "text": "Scusate."
+  },
+  {
+    "line_number": 517,
+    "start": 1383.278,
+    "end": 1383.679,
+    "text": "Scusate?"
+  },
+  {
+    "line_number": 518,
+    "start": 1384.398,
+    "end": 1385.96,
+    "text": "La Chieffi ha appena avuto una crisi convulsiva."
+  },
+  {
+    "line_number": 519,
+    "start": 1386.5,
+    "end": 1387.141,
+    "text": "Tra i clamsie?"
+  },
+  {
+    "line_number": 520,
+    "start": 1387.54,
+    "end": 1388.021,
+    "text": "Io non credo."
+  },
+  {
+    "line_number": 521,
+    "start": 1388.082,
+    "end": 1389.021,
+    "text": "E poi, guarda questa cosa."
+  },
+  {
+    "line_number": 522,
+    "start": 1389.482,
+    "end": 1391.263,
+    "text": "Dalle analisi non risulta albumina nulla."
+  },
+  {
+    "line_number": 523,
+    "start": 1391.584,
+    "end": 1393.525,
+    "text": "Dottoressa, si occupi pure della sua paziente."
+  },
+  {
+    "line_number": 524,
+    "start": 1393.605,
+    "end": 1395.747,
+    "text": "Noi preferiamo poter ispezionare liberamente."
+  },
+  {
+    "line_number": 525,
+    "start": 1396.547,
+    "end": 1396.747,
+    "text": "Bene."
+  },
+  {
+    "line_number": 526,
+    "start": 1398.188,
+    "end": 1400.93,
+    "text": "Che gioco."
+  },
+  {
+    "line_number": 527,
+    "start": 1400.97,
+    "end": 1403.951,
+    "text": "Ti ricordi quando, cinque anni fa, qui era tutto in costruzione?"
+  },
+  {
+    "line_number": 528,
+    "start": 1404.833,
+    "end": 1406.713,
+    "text": "E proprio qui ti ho detto che eri incinta di Pietro."
+  },
+  {
+    "line_number": 529,
+    "start": 1406.953,
+    "end": 1407.894,
+    "text": "Mi ricordo, mi ricordo."
+  },
+  {
+    "line_number": 530,
+    "start": 1408.923,
+    "end": 1410.864,
+    "text": "Per il momento."
+  },
+  {
+    "line_number": 531,
+    "start": 1411.825,
+    "end": 1417.729,
+    "text": "L'altro giorno li ho trovati in cameretta che giocavano, sono entrato, non si sono accorti di me, li ho guardati per qualche secondo."
+  },
+  {
+    "line_number": 532,
+    "start": 1418.169,
+    "end": 1421.351,
+    "text": "Belli, dovevi vederli, così belli."
+  },
+  {
+    "line_number": 533,
+    "start": 1421.371,
+    "end": 1422.852,
+    "text": "Ti è arrivato il versamento del mutuo?"
+  },
+  {
+    "line_number": 534,
+    "start": 1428.635,
+    "end": 1431.778,
+    "text": "Senti Giovanni, i bambini hanno bisogno di te."
+  },
+  {
+    "line_number": 535,
+    "start": 1432.369,
+    "end": 1437.652,
+    "text": "E anch'io ho bisogno di te."
+  },
+  {
+    "line_number": 536,
+    "start": 1437.711,
+    "end": 1442.855,
+    "text": "Annalisa, ti ho chiesto tempo per riflettere, per cercare di capire che cosa è andato male."
+  },
+  {
+    "line_number": 537,
+    "start": 1443.615,
+    "end": 1445.675,
+    "text": "Non mi sembra che sia il momento di tornare insieme."
+  },
+  {
+    "line_number": 538,
+    "start": 1459.811,
+    "end": 1462.772,
+    "text": "Ma le mamme non stanno scomode con il figlio nella pancia?"
+  },
+  {
+    "line_number": 539,
+    "start": 1463.313,
+    "end": 1465.133,
+    "text": "Boh, non lo so, perché io non l'ho mai fatto."
+  },
+  {
+    "line_number": 540,
+    "start": 1465.752,
+    "end": 1466.313,
+    "text": "Fatto cosa?"
+  },
+  {
+    "line_number": 541,
+    "start": 1467.012,
+    "end": 1467.473,
+    "text": "Un figlio."
+  },
+  {
+    "line_number": 542,
+    "start": 1467.574,
+    "end": 1468.334,
+    "text": "Che cosa credevi?"
+  },
+  {
+    "line_number": 543,
+    "start": 1469.973,
+    "end": 1471.834,
+    "text": "E allora gli uomini a cosa servono?"
+  },
+  {
+    "line_number": 544,
+    "start": 1472.075,
+    "end": 1472.894,
+    "text": "Cioè, i papà?"
+  },
+  {
+    "line_number": 545,
+    "start": 1474.394,
+    "end": 1480.836,
+    "text": "Ehm... Guarda, i papà sono anni, anni, anni che me lo chiedo anch'io e ancora non ci ho capito nulla."
+  },
+  {
+    "line_number": 546,
+    "start": 1482.037,
+    "end": 1483.037,
+    "text": "Ehi, finalmente!"
+  },
+  {
+    "line_number": 547,
+    "start": 1483.977,
+    "end": 1484.836,
+    "text": "Ti ho trovato, eh?"
+  },
+  {
+    "line_number": 548,
+    "start": 1485.136,
+    "end": 1486.297,
+    "text": "Ma tu non stavi con Sergio?"
+  },
+  {
+    "line_number": 549,
+    "start": 1486.636,
+    "end": 1489.018,
+    "text": "Sergio mi ha detto quello pelato, quello pelato..."
+  },
+  {
+    "line_number": 550,
+    "start": 1489.509,
+    "end": 1491.23,
+    "text": "È andato a Thea."
+  },
+  {
+    "line_number": 551,
+    "start": 1492.809,
+    "end": 1493.651,
+    "text": "E io te l'ho ridotti."
+  },
+  {
+    "line_number": 552,
+    "start": 1494.131,
+    "end": 1495.692,
+    "text": "Allora andiamo a casa, tesoro, eh?"
+  },
+  {
+    "line_number": 553,
+    "start": 1496.172,
+    "end": 1498.472,
+    "text": "Vai, andiamo."
+  },
+  {
+    "line_number": 554,
+    "start": 1498.512,
+    "end": 1498.932,
+    "text": "Ciao."
+  },
+  {
+    "line_number": 555,
+    "start": 1499.252,
+    "end": 1499.573,
+    "text": "Ciao."
+  },
+  {
+    "line_number": 556,
+    "start": 1500.334,
+    "end": 1502.013,
+    "text": "A Thea, grazie."
+  },
+  {
+    "line_number": 557,
+    "start": 1502.034,
+    "end": 1505.056,
+    "text": "Ma mamma, papà è andato via perché non serviva niente."
+  },
+  {
+    "line_number": 558,
+    "start": 1506.516,
+    "end": 1512.638,
+    "text": "Ma no, tesoro, papà serve."
+  },
+  {
+    "line_number": 559,
+    "start": 1513.199,
+    "end": 1514.4,
+    "text": "E ti vuole un gran bene, eh?"
+  },
+  {
+    "line_number": 560,
+    "start": 1519.877,
+    "end": 1521.179,
+    "text": "Come ci sono finite qui?"
+  },
+  {
+    "line_number": 561,
+    "start": 1521.199,
+    "end": 1521.659,
+    "text": "Non lo so."
+  },
+  {
+    "line_number": 562,
+    "start": 1522.219,
+    "end": 1526.461,
+    "text": "Forse sono arrivate dalle gare lei due giorni fa e io ho controllato tutte le sacche e non mi sembra proprio che ci fossero."
+  },
+  {
+    "line_number": 563,
+    "start": 1526.902,
+    "end": 1528.603,
+    "text": "Adesso le facciamo."
+  },
+  {
+    "line_number": 564,
+    "start": 1528.623,
+    "end": 1528.982,
+    "text": "Che facciamo?"
+  },
+  {
+    "line_number": 565,
+    "start": 1529.042,
+    "end": 1531.284,
+    "text": "Bisogna eliminare le sangue infette, non possiamo mica lasciarle."
+  },
+  {
+    "line_number": 566,
+    "start": 1531.304,
+    "end": 1533.144,
+    "text": "Cosa c'è da eliminare?"
+  },
+  {
+    "line_number": 567,
+    "start": 1533.204,
+    "end": 1534.405,
+    "text": "Ah, ecco, questi sono gli ispettori."
+  },
+  {
+    "line_number": 568,
+    "start": 1539.352,
+    "end": 1540.471,
+    "text": "Lei non era in ospedale?"
+  },
+  {
+    "line_number": 569,
+    "start": 1541.132,
+    "end": 1541.893,
+    "text": "Sono appena rientrato."
+  },
+  {
+    "line_number": 570,
+    "start": 1542.292,
+    "end": 1543.512,
+    "text": "Ed è venuto subito in magazzina."
+  },
+  {
+    "line_number": 571,
+    "start": 1544.252,
+    "end": 1544.532,
+    "text": "Come mai?"
+  },
+  {
+    "line_number": 572,
+    "start": 1544.573,
+    "end": 1545.272,
+    "text": "C'è qualcosa che non va?"
+  },
+  {
+    "line_number": 573,
+    "start": 1545.833,
+    "end": 1549.653,
+    "text": "Purtroppo sì, abbiamo trovato due sacche di sangue che non fanno parte delle nostre scorte."
+  },
+  {
+    "line_number": 574,
+    "start": 1549.933,
+    "end": 1550.594,
+    "text": "Mi faccia vedere."
+  },
+  {
+    "line_number": 575,
+    "start": 1557.175,
+    "end": 1558.635,
+    "text": "È sangue infetto, lo sapevate?"
+  },
+  {
+    "line_number": 576,
+    "start": 1559.056,
+    "end": 1561.017,
+    "text": "Sì, ce ne siamo accorti."
+  },
+  {
+    "line_number": 577,
+    "start": 1562.257,
+    "end": 1565.877,
+    "text": "Non fanno parte delle nostre scorte, glielo ho detto, non sappiamo nemmeno da dove vengono."
+  },
+  {
+    "line_number": 578,
+    "start": 1565.897,
+    "end": 1566.718,
+    "text": "Ma se ti vede fare un gelo."
+  },
+  {
+    "line_number": 579,
+    "start": 1567.558,
+    "end": 1571.981,
+    "text": "Ne sono sicura, quindi penso che siano arrivati per sbaglio dal grele."
+  },
+  {
+    "line_number": 580,
+    "start": 1572.323,
+    "end": 1572.782,
+    "text": "Mi fa vedere la bolla?"
+  },
+  {
+    "line_number": 581,
+    "start": 1572.863,
+    "end": 1575.664,
+    "text": "Eccola lei."
+  },
+  {
+    "line_number": 582,
+    "start": 1575.684,
+    "end": 1583.25,
+    "text": "Allora, non sono sulla lista delle scorte e non sono neanche sulla bolla del grele."
+  },
+  {
+    "line_number": 583,
+    "start": 1583.29,
+    "end": 1584.912,
+    "text": "E' quello che le stavo dicendo, Bocanzi."
+  },
+  {
+    "line_number": 584,
+    "start": 1584.932,
+    "end": 1587.773,
+    "text": "Quanto ne possiamo sapere noi, potrebbero benissimo essere qui da mesi."
+  },
+  {
+    "line_number": 585,
+    "start": 1587.994,
+    "end": 1588.994,
+    "text": "Naturalmente non è così."
+  },
+  {
+    "line_number": 586,
+    "start": 1590.797,
+    "end": 1593.117,
+    "text": "Le avremo subito eliminate, come da circolare."
+  },
+  {
+    "line_number": 587,
+    "start": 1593.137,
+    "end": 1594.038,
+    "text": "E invece sono ancora qua."
+  },
+  {
+    "line_number": 588,
+    "start": 1594.479,
+    "end": 1594.98,
+    "text": "Peccato."
+  },
+  {
+    "line_number": 589,
+    "start": 1595.857,
+    "end": 1598.378,
+    "text": "Per il resto il vostro ospedale ci aveva fatto un'ottima impressione."
+  },
+  {
+    "line_number": 590,
+    "start": 1598.398,
+    "end": 1602.961,
+    "text": "Scusi, ma secondo voi che cosa avremmo dovuto fare con due sacchi di sangue infetto?"
+  },
+  {
+    "line_number": 591,
+    "start": 1603.862,
+    "end": 1605.021,
+    "text": "È ovvio che è un errore, no?"
+  },
+  {
+    "line_number": 592,
+    "start": 1605.041,
+    "end": 1607.702,
+    "text": "Dottore, è un errore che mette repentaglio la salute degli utenti."
+  },
+  {
+    "line_number": 593,
+    "start": 1607.762,
+    "end": 1608.564,
+    "text": "Non è accettabile."
+  },
+  {
+    "line_number": 594,
+    "start": 1608.763,
+    "end": 1610.164,
+    "text": "Dovremmo fare una relazione."
+  },
+  {
+    "line_number": 595,
+    "start": 1610.464,
+    "end": 1614.787,
+    "text": "Poi saranno le autorità competenti a decidere sulle sanzioni e la struttura ai suoi dipendenti."
+  },
+  {
+    "line_number": 596,
+    "start": 1616.287,
+    "end": 1618.107,
+    "text": "Lasci stare i dipendenti del Sant'Anna."
+  },
+  {
+    "line_number": 597,
+    "start": 1619.269,
+    "end": 1621.849,
+    "text": "Il responsabile sono io, nel caso prendetevela con me."
+  },
+  {
+    "line_number": 598,
+    "start": 1621.869,
+    "end": 1624.191,
+    "text": "Credo proprio che la contenteranno, dottor Maioli."
+  },
+  {
+    "line_number": 599,
+    "start": 1626.249,
+    "end": 1627.19,
+    "text": "Che posto romantico."
+  },
+  {
+    "line_number": 600,
+    "start": 1630.653,
+    "end": 1631.554,
+    "text": "Come mai mi hai portato qua?"
+  },
+  {
+    "line_number": 601,
+    "start": 1633.015,
+    "end": 1634.636,
+    "text": "Mi hai preso per una delle tue conquiste?"
+  },
+  {
+    "line_number": 602,
+    "start": 1635.857,
+    "end": 1636.317,
+    "text": "Senti che buona."
+  },
+  {
+    "line_number": 603,
+    "start": 1637.278,
+    "end": 1637.819,
+    "text": "Che mi devi dire?"
+  },
+  {
+    "line_number": 604,
+    "start": 1642.124,
+    "end": 1644.286,
+    "text": "Di parlare con Luca e di vedere tuo nipote."
+  },
+  {
+    "line_number": 605,
+    "start": 1646.186,
+    "end": 1646.548,
+    "text": "Ancora?"
+  },
+  {
+    "line_number": 606,
+    "start": 1647.248,
+    "end": 1647.689,
+    "text": "Insisti?"
+  },
+  {
+    "line_number": 607,
+    "start": 1650.23,
+    "end": 1650.731,
+    "text": "Ma va, basta."
+  },
+  {
+    "line_number": 608,
+    "start": 1651.654,
+    "end": 1653.876,
+    "text": "Smettila con questa sceneggiata."
+  },
+  {
+    "line_number": 609,
+    "start": 1653.896,
+    "end": 1654.537,
+    "text": "Tu hai due figli."
+  },
+  {
+    "line_number": 610,
+    "start": 1654.936,
+    "end": 1656.157,
+    "text": "Uno sono io e l'altro è Luca."
+  },
+  {
+    "line_number": 611,
+    "start": 1656.459,
+    "end": 1659.221,
+    "text": "E non è giusto che continui a dargli la colpa per quello che è successo a nostra sorella."
+  },
+  {
+    "line_number": 612,
+    "start": 1659.861,
+    "end": 1662.262,
+    "text": "Sono passati anni ed è stato un incidente."
+  },
+  {
+    "line_number": 613,
+    "start": 1662.363,
+    "end": 1665.865,
+    "text": "Papà, un tragico, stramaledetto, fottutissimo incidente."
+  },
+  {
+    "line_number": 614,
+    "start": 1665.944,
+    "end": 1666.685,
+    "text": "Vado via."
+  },
+  {
+    "line_number": 615,
+    "start": 1666.705,
+    "end": 1667.185,
+    "text": "Vado a casa."
+  },
+  {
+    "line_number": 616,
+    "start": 1670.749,
+    "end": 1671.769,
+    "text": "Col paracadute ci torni."
+  },
+  {
+    "line_number": 617,
+    "start": 1681.291,
+    "end": 1682.633,
+    "text": "Hai fatto quella cosa che dovevi fare?"
+  },
+  {
+    "line_number": 618,
+    "start": 1682.692,
+    "end": 1683.712,
+    "text": "Eh?"
+  },
+  {
+    "line_number": 619,
+    "start": 1683.772,
+    "end": 1685.272,
+    "text": "Ah, sì, sì, certo l'ho fatta."
+  },
+  {
+    "line_number": 620,
+    "start": 1685.913,
+    "end": 1687.713,
+    "text": "Fammi indovinare a che fare con la sospensione."
+  },
+  {
+    "line_number": 621,
+    "start": 1690.434,
+    "end": 1692.736,
+    "text": "Senti, mi spieghi perché non ti va mai di parlare di questa cosa?"
+  },
+  {
+    "line_number": 622,
+    "start": 1694.476,
+    "end": 1696.537,
+    "text": "Senti, Sara, ci sono appena stati gli ispettori."
+  },
+  {
+    "line_number": 623,
+    "start": 1697.457,
+    "end": 1698.798,
+    "text": "Chissà adesso che cosa succede."
+  },
+  {
+    "line_number": 624,
+    "start": 1698.837,
+    "end": 1703.138,
+    "text": "Madonna ha avuto le convulsioni, quindi non mi sembra il momento, no?"
+  },
+  {
+    "line_number": 625,
+    "start": 1703.159,
+    "end": 1705.92,
+    "text": "Certo, per te non è mai il momento per parlare del tuo processo."
+  },
+  {
+    "line_number": 626,
+    "start": 1710.932,
+    "end": 1713.574,
+    "text": "Con l'aiuto di Nathalie ho scoperto delle cose che non avrei voluto sapere."
+  },
+  {
+    "line_number": 627,
+    "start": 1714.253,
+    "end": 1719.678,
+    "text": "È probabile che l'aborto della Siago sia stato causato da un farmaco sperimentale, la contraxina."
+  },
+  {
+    "line_number": 628,
+    "start": 1721.419,
+    "end": 1739.01,
+    "text": "Gliel'hanno somministrato al Galileo."
+  },
+  {
+    "line_number": 629,
+    "start": 1739.191,
+    "end": 1739.671,
+    "text": "E chi è stato?"
+  },
+  {
+    "line_number": 630,
+    "start": 1739.691,
+    "end": 1739.871,
+    "text": "Non lo so."
+  },
+  {
+    "line_number": 631,
+    "start": 1739.931,
+    "end": 1740.412,
+    "text": "Cosa mi è successo?"
+  },
+  {
+    "line_number": 632,
+    "start": 1741.539,
+    "end": 1742.661,
+    "text": "Ha avuto una crisi convulsiva."
+  },
+  {
+    "line_number": 633,
+    "start": 1742.721,
+    "end": 1745.782,
+    "text": "Mi sento stanco."
+  },
+  {
+    "line_number": 634,
+    "start": 1745.803,
+    "end": 1747.223,
+    "text": "Tesoro, è tutto finito ormai."
+  },
+  {
+    "line_number": 635,
+    "start": 1747.505,
+    "end": 1750.586,
+    "text": "Papà, ha mai sofferto di crisi epilettiche?"
+  },
+  {
+    "line_number": 636,
+    "start": 1751.788,
+    "end": 1752.127,
+    "text": "No, mai."
+  },
+  {
+    "line_number": 637,
+    "start": 1752.648,
+    "end": 1753.95,
+    "text": "Che c'entra adesso l'epilessia?"
+  },
+  {
+    "line_number": 638,
+    "start": 1755.211,
+    "end": 1759.334,
+    "text": "Il dottor Ferri ha notato che dalle analisi non risultano perdite albuminiche nelle urine."
+  },
+  {
+    "line_number": 639,
+    "start": 1760.414,
+    "end": 1762.997,
+    "text": "Quindi il problema potrebbe essere di carattere neurologico."
+  },
+  {
+    "line_number": 640,
+    "start": 1763.017,
+    "end": 1763.336,
+    "text": "È solo un'ipotesi."
+  },
+  {
+    "line_number": 641,
+    "start": 1765.125,
+    "end": 1773.107,
+    "text": "Prima ci dite eclosia, adesso invece... Sì, in effetti... Signora, in queste condizioni non è facile fare una diagnosi neurologica."
+  },
+  {
+    "line_number": 642,
+    "start": 1774.268,
+    "end": 1777.209,
+    "text": "Comunque la cosa più importante è evitare che il bambino possa avere un altro stress."
+  },
+  {
+    "line_number": 643,
+    "start": 1778.169,
+    "end": 1782.95,
+    "text": "Sua figlia è alla 36° settimana, quindi la cosa più importante è far nascere il bambino."
+  },
+  {
+    "line_number": 644,
+    "start": 1784.289,
+    "end": 1785.349,
+    "text": "Quindi a minore del parto?"
+  },
+  {
+    "line_number": 645,
+    "start": 1785.931,
+    "end": 1786.851,
+    "text": "Faremo un cesareo."
+  },
+  {
+    "line_number": 646,
+    "start": 1788.191,
+    "end": 1790.451,
+    "text": "Eviteremo stress a lei e al bambino durante il parto."
+  },
+  {
+    "line_number": 647,
+    "start": 1791.692,
+    "end": 1792.332,
+    "text": "Non vogliamo rischiare."
+  },
+  {
+    "line_number": 648,
+    "start": 1794.288,
+    "end": 1795.931,
+    "text": "Amore, te la senti?"
+  },
+  {
+    "line_number": 649,
+    "start": 1795.971,
+    "end": 1796.833,
+    "text": "Certo che se la sente."
+  },
+  {
+    "line_number": 650,
+    "start": 1798.355,
+    "end": 1799.237,
+    "text": "Signora, stia tranquilla."
+  },
+  {
+    "line_number": 651,
+    "start": 1799.758,
+    "end": 1800.4,
+    "text": "Andrà tutto bene."
+  },
+  {
+    "line_number": 652,
+    "start": 1813.924,
+    "end": 1816.866,
+    "text": "Scusa, anche io ti stavo cercando."
+  },
+  {
+    "line_number": 653,
+    "start": 1816.886,
+    "end": 1818.689,
+    "text": "Allora, tra un po' ci sarà il cesareo della Chieffi."
+  },
+  {
+    "line_number": 654,
+    "start": 1818.729,
+    "end": 1820.289,
+    "text": "Poi hai saputo dell'ispezione?"
+  },
+  {
+    "line_number": 655,
+    "start": 1820.851,
+    "end": 1821.611,
+    "text": "No, che ispezione?"
+  },
+  {
+    "line_number": 656,
+    "start": 1821.932,
+    "end": 1822.071,
+    "text": "Come?"
+  },
+  {
+    "line_number": 657,
+    "start": 1822.092,
+    "end": 1823.252,
+    "text": "Rischiamo di chiudere e non sai niente."
+  },
+  {
+    "line_number": 658,
+    "start": 1823.313,
+    "end": 1823.992,
+    "text": "Ma che stai a dire?"
+  },
+  {
+    "line_number": 659,
+    "start": 1824.232,
+    "end": 1825.213,
+    "text": "Gianna è preoccupatissima."
+  },
+  {
+    "line_number": 660,
+    "start": 1825.273,
+    "end": 1827.076,
+    "text": "Mi ha detto che minacciano le torsioni sui maioli."
+  },
+  {
+    "line_number": 661,
+    "start": 1827.816,
+    "end": 1828.537,
+    "text": "Non stai a prenderci?"
+  },
+  {
+    "line_number": 662,
+    "start": 1828.596,
+    "end": 1830.057,
+    "text": "Ma ti pare che scherzo su una cosa del genere?"
+  },
+  {
+    "line_number": 663,
+    "start": 1830.077,
+    "end": 1831.96,
+    "text": "Qui rischiamo di tornare come l'anno scorso."
+  },
+  {
+    "line_number": 664,
+    "start": 1832.299,
+    "end": 1833.26,
+    "text": "Ti ricordi come stavamo, sì?"
+  },
+  {
+    "line_number": 665,
+    "start": 1834.942,
+    "end": 1835.603,
+    "text": "Beh, che dovevi dirmi?"
+  },
+  {
+    "line_number": 666,
+    "start": 1836.784,
+    "end": 1838.045,
+    "text": "Perché ne so, me lo sono dimenticato."
+  },
+  {
+    "line_number": 667,
+    "start": 1838.065,
+    "end": 1839.046,
+    "text": "Mi hanno dato questa notizia."
+  },
+  {
+    "line_number": 668,
+    "start": 1839.066,
+    "end": 1841.227,
+    "text": "Ma è una tragedia, una tragedia."
+  },
+  {
+    "line_number": 669,
+    "start": 1844.336,
+    "end": 1846.278,
+    "text": "È una tragedia, sì."
+  },
+  {
+    "line_number": 670,
+    "start": 1846.298,
+    "end": 1849.259,
+    "text": "Dopo il parto la faremo ricoverare al Galilei per degli accertamenti."
+  },
+  {
+    "line_number": 671,
+    "start": 1849.858,
+    "end": 1850.278,
+    "text": "Di che tipo?"
+  },
+  {
+    "line_number": 672,
+    "start": 1850.979,
+    "end": 1853.539,
+    "text": "Risonanza magnetica e elettroncefalogramma."
+  },
+  {
+    "line_number": 673,
+    "start": 1853.579,
+    "end": 1857.78,
+    "text": "Dobbiamo sondare l'ipotesi dell'epilessia, sempre se si tratta di quella."
+  },
+  {
+    "line_number": 674,
+    "start": 1857.82,
+    "end": 1863.542,
+    "text": "La crisi potrebbe essere stata causata anche da una forma d'ansia, d'insonnia o magari la paura del parto."
+  },
+  {
+    "line_number": 675,
+    "start": 1864.203,
+    "end": 1866.624,
+    "text": "Senta, dottore, può essere stato causato anche da un litigio?"
+  },
+  {
+    "line_number": 676,
+    "start": 1868.085,
+    "end": 1868.565,
+    "text": "Sì, certo."
+  },
+  {
+    "line_number": 677,
+    "start": 1870.218,
+    "end": 1875.299,
+    "text": "Ma voi siete sicuri che non ha avuto episodi di epilessia nemmeno nella primissima infanzia?"
+  },
+  {
+    "line_number": 678,
+    "start": 1880.202,
+    "end": 1882.644,
+    "text": "Anche molto leggeri, eh?"
+  },
+  {
+    "line_number": 679,
+    "start": 1884.003,
+    "end": 1890.027,
+    "text": "Non ve lo possiamo dire."
+  },
+  {
+    "line_number": 680,
+    "start": 1890.166,
+    "end": 1890.948,
+    "text": "In che senso, scusi?"
+  },
+  {
+    "line_number": 681,
+    "start": 1891.768,
+    "end": 1892.749,
+    "text": "È perché non lo sappiamo."
+  },
+  {
+    "line_number": 682,
+    "start": 1894.669,
+    "end": 1899.852,
+    "text": "Marta ha passato i primi due anni di vita in un istituto per minori in difficoltà, il Santo Redentore di Milano."
+  },
+  {
+    "line_number": 683,
+    "start": 1901.128,
+    "end": 1902.009,
+    "text": "poi l'abbiamo adottata."
+  },
+  {
+    "line_number": 684,
+    "start": 1902.691,
+    "end": 1904.472,
+    "text": "Ma a Marta non abbiamo mai detto nulla."
+  },
+  {
+    "line_number": 685,
+    "start": 1904.814,
+    "end": 1905.193,
+    "text": "Scusate."
+  },
+  {
+    "line_number": 686,
+    "start": 1905.574,
+    "end": 1905.755,
+    "text": "Prego."
+  },
+  {
+    "line_number": 687,
+    "start": 1950.291,
+    "end": 1952.032,
+    "text": "Dovrebbero bastare quelle pasticche azzurre, guarda."
+  },
+  {
+    "line_number": 688,
+    "start": 1952.053,
+    "end": 1952.294,
+    "text": "Queste?"
+  },
+  {
+    "line_number": 689,
+    "start": 1952.534,
+    "end": 1956.276,
+    "text": "Sì, proviamole qui."
+  },
+  {
+    "line_number": 690,
+    "start": 1961.42,
+    "end": 1961.579,
+    "text": "Grazie."
+  },
+  {
+    "line_number": 691,
+    "start": 1961.599,
+    "end": 1964.082,
+    "text": "Non sono fatta per le forti nozioni, eh."
+  },
+  {
+    "line_number": 692,
+    "start": 1964.102,
+    "end": 1964.843,
+    "text": "Ma per gli ispettori?"
+  },
+  {
+    "line_number": 693,
+    "start": 1964.883,
+    "end": 1967.605,
+    "text": "Certo, per cosa se no?"
+  },
+  {
+    "line_number": 694,
+    "start": 1967.625,
+    "end": 1968.905,
+    "text": "Guarda che non è colpa tua."
+  },
+  {
+    "line_number": 695,
+    "start": 1969.365,
+    "end": 1971.867,
+    "text": "E comunque sì, anche se fosse una distrazione può capitare a chiunque."
+  },
+  {
+    "line_number": 696,
+    "start": 1972.248,
+    "end": 1975.55,
+    "text": "Certo, e per questa distrazione però ci è andato di mezzo come al solito il povero Maioli."
+  },
+  {
+    "line_number": 697,
+    "start": 1976.25,
+    "end": 1977.031,
+    "text": "Non ci voleva proprio."
+  },
+  {
+    "line_number": 698,
+    "start": 1978.809,
+    "end": 1981.031,
+    "text": "Mi dispiace proprio il gusto, per tutti."
+  },
+  {
+    "line_number": 699,
+    "start": 1981.152,
+    "end": 1988.017,
+    "text": "Resta qui, intimi solo la pressione."
+  },
+  {
+    "line_number": 700,
+    "start": 1988.057,
+    "end": 1988.356,
+    "text": "Bianca?"
+  },
+  {
+    "line_number": 701,
+    "start": 1988.676,
+    "end": 1989.037,
+    "text": "Sì?"
+  },
+  {
+    "line_number": 702,
+    "start": 1989.057,
+    "end": 1990.979,
+    "text": "Sono Stefano Maioli, meno male che la trovi in ufficio."
+  },
+  {
+    "line_number": 703,
+    "start": 1991.479,
+    "end": 1993.059,
+    "text": "Veramente dottore, ero da voi poco fa."
+  },
+  {
+    "line_number": 704,
+    "start": 1993.66,
+    "end": 1996.563,
+    "text": "Ah, allora le devo chiedere la cortesia di tornare."
+  },
+  {
+    "line_number": 705,
+    "start": 1996.843,
+    "end": 1997.063,
+    "text": "Va bene."
+  },
+  {
+    "line_number": 706,
+    "start": 1997.643,
+    "end": 2001.806,
+    "text": "Senta, mi servirebbe con urgenza la cartella clinica di una bambina adottata 26 anni fa."
+  },
+  {
+    "line_number": 707,
+    "start": 2002.946,
+    "end": 2005.288,
+    "text": "Mi può fare la cortesia di chiamarmi il giudice minorile?"
+  },
+  {
+    "line_number": 708,
+    "start": 2005.308,
+    "end": 2005.489,
+    "text": "Sì."
+  },
+  {
+    "line_number": 709,
+    "start": 2009.069,
+    "end": 2010.049,
+    "text": "Le mando le informazioni via fa, cosa più presto."
+  },
+  {
+    "line_number": 710,
+    "start": 2010.069,
+    "end": 2010.23,
+    "text": "D'accordo."
+  },
+  {
+    "line_number": 711,
+    "start": 2010.25,
+    "end": 2010.369,
+    "text": "Grazie."
+  },
+  {
+    "line_number": 712,
+    "start": 2010.43,
+    "end": 2014.711,
+    "text": "Arrivederci, dottore."
+  },
+  {
+    "line_number": 713,
+    "start": 2014.731,
+    "end": 2015.491,
+    "text": "Dovevate dirglielo."
+  },
+  {
+    "line_number": 714,
+    "start": 2016.211,
+    "end": 2016.952,
+    "text": "Ci abbiamo provato."
+  },
+  {
+    "line_number": 715,
+    "start": 2017.192,
+    "end": 2017.712,
+    "text": "Sì, lo vedo."
+  },
+  {
+    "line_number": 716,
+    "start": 2018.772,
+    "end": 2019.513,
+    "text": "Non ho voluto io."
+  },
+  {
+    "line_number": 717,
+    "start": 2021.173,
+    "end": 2022.413,
+    "text": "Chissà perché non mi sorprende."
+  },
+  {
+    "line_number": 718,
+    "start": 2025.295,
+    "end": 2025.935,
+    "text": "La mia bambina."
+  },
+  {
+    "line_number": 719,
+    "start": 2028.296,
+    "end": 2029.096,
+    "text": "Da quando aveva 11 anni."
+  },
+  {
+    "line_number": 720,
+    "start": 2031.279,
+    "end": 2033.34,
+    "text": "E non andavamo d'accordo."
+  },
+  {
+    "line_number": 721,
+    "start": 2033.361,
+    "end": 2034.882,
+    "text": "Litigavamo per ogni stupidaggine."
+  },
+  {
+    "line_number": 722,
+    "start": 2036.102,
+    "end": 2040.864,
+    "text": "E io avevo paura, paura che se glielo avessi detto l'avrei persa per sempre."
+  },
+  {
+    "line_number": 723,
+    "start": 2041.463,
+    "end": 2042.744,
+    "text": "Non dovevate litigare, punto."
+  },
+  {
+    "line_number": 724,
+    "start": 2043.884,
+    "end": 2044.826,
+    "text": "E Dali l'è tutta vinta."
+  },
+  {
+    "line_number": 725,
+    "start": 2044.965,
+    "end": 2045.846,
+    "text": "Ma allora non capisci."
+  },
+  {
+    "line_number": 726,
+    "start": 2045.865,
+    "end": 2049.967,
+    "text": "Ma hai capito o no che se Marta è in questa situazione è forse proprio a causa del tuo litigio?"
+  },
+  {
+    "line_number": 727,
+    "start": 2049.987,
+    "end": 2051.467,
+    "text": "Beh, Francesco, adesso basta, eh, basta!"
+  },
+  {
+    "line_number": 728,
+    "start": 2051.748,
+    "end": 2053.289,
+    "text": "Basta, basta, basta, lo dico io, basta!"
+  },
+  {
+    "line_number": 729,
+    "start": 2055.23,
+    "end": 2056.61,
+    "text": "Io non voglio che Marta si agiti, va bene?"
+  },
+  {
+    "line_number": 730,
+    "start": 2056.949,
+    "end": 2058.431,
+    "text": "Io non voglio proprio che voi due la vediate più."
+  },
+  {
+    "line_number": 731,
+    "start": 2058.891,
+    "end": 2060.391,
+    "text": "Fino a quando almeno non abbiamo capito che cos'ha."
+  },
+  {
+    "line_number": 732,
+    "start": 2061.447,
+    "end": 2065.769,
+    "text": "Potete rimanere qui, potete vedere mio figlio, potete fare quello che volete, ma non vi azzardate a entrare da lei!"
+  },
+  {
+    "line_number": 733,
+    "start": 2066.389,
+    "end": 2067.21,
+    "text": "Ma sei impazzito?"
+  },
+  {
+    "line_number": 734,
+    "start": 2067.831,
+    "end": 2069.431,
+    "text": "Siete impazziti voi, eh?"
+  },
+  {
+    "line_number": 735,
+    "start": 2069.472,
+    "end": 2070.452,
+    "text": "Siete impazziti tutti!"
+  },
+  {
+    "line_number": 736,
+    "start": 2070.893,
+    "end": 2072.134,
+    "text": "Lì dentro c'è una donna che sta male."
+  },
+  {
+    "line_number": 737,
+    "start": 2072.534,
+    "end": 2073.494,
+    "text": "Adesso vi butto fuori di qui."
+  },
+  {
+    "line_number": 738,
+    "start": 2073.594,
+    "end": 2081.739,
+    "text": "Non voglio... Non voglio che lo sappia in questo modo."
+  },
+  {
+    "line_number": 739,
+    "start": 2083.96,
+    "end": 2084.36,
+    "text": "Ma brava!"
+  },
+  {
+    "line_number": 740,
+    "start": 2085.001,
+    "end": 2086.822,
+    "text": "E a furia di rimandare che siamo arrivati a questo punto!"
+  },
+  {
+    "line_number": 741,
+    "start": 2086.842,
+    "end": 2086.983,
+    "text": "Senta..."
+  },
+  {
+    "line_number": 742,
+    "start": 2088.817,
+    "end": 2092.144,
+    "text": "Vada da sua moglie lei e tiri fuori tutto l'amore che ha dentro adesso."
+  },
+  {
+    "line_number": 743,
+    "start": 2092.827,
+    "end": 2096.416,
+    "text": "E voi penserete alle parole giuste dopo il parto, per favore."
+  },
+  {
+    "line_number": 744,
+    "start": 2118.246,
+    "end": 2119.327,
+    "text": "Va bene, allora io vado, eh?"
+  },
+  {
+    "line_number": 745,
+    "start": 2119.367,
+    "end": 2119.527,
+    "text": "Ciao."
+  },
+  {
+    "line_number": 746,
+    "start": 2119.547,
+    "end": 2120.507,
+    "text": "Ciao."
+  },
+  {
+    "line_number": 747,
+    "start": 2120.527,
+    "end": 2122.887,
+    "text": "Ti ho preparato una pillola per dormire."
+  },
+  {
+    "line_number": 748,
+    "start": 2123.628,
+    "end": 2124.268,
+    "text": "La sfruttavo io."
+  },
+  {
+    "line_number": 749,
+    "start": 2125.168,
+    "end": 2126.028,
+    "text": "Solo metà, ricordati."
+  },
+  {
+    "line_number": 750,
+    "start": 2126.708,
+    "end": 2131.891,
+    "text": "Va bene."
+  },
+  {
+    "line_number": 751,
+    "start": 2132.291,
+    "end": 2133.65,
+    "text": "Guarda, volevo darti questo."
+  },
+  {
+    "line_number": 752,
+    "start": 2133.791,
+    "end": 2135.791,
+    "text": "Guarda, guarda che faccio."
+  },
+  {
+    "line_number": 753,
+    "start": 2135.811,
+    "end": 2137.092,
+    "text": "Guarda che guacciate, guarda."
+  },
+  {
+    "line_number": 754,
+    "start": 2137.271,
+    "end": 2138.873,
+    "text": "Si fermano per la strada per dargli i pizzicotti."
+  },
+  {
+    "line_number": 755,
+    "start": 2139.112,
+    "end": 2141.693,
+    "text": "Riprendetela."
+  },
+  {
+    "line_number": 756,
+    "start": 2141.733,
+    "end": 2143.414,
+    "text": "Ancora, papà?"
+  },
+  {
+    "line_number": 757,
+    "start": 2144.695,
+    "end": 2145.855,
+    "text": "Eh?"
+  },
+  {
+    "line_number": 758,
+    "start": 2145.894,
+    "end": 2146.094,
+    "text": "Ancora?"
+  },
+  {
+    "line_number": 759,
+    "start": 2147.458,
+    "end": 2149.92,
+    "text": "Non ti sei rassegnato."
+  },
+  {
+    "line_number": 760,
+    "start": 2149.94,
+    "end": 2151.9,
+    "text": "Guarda che non sei l'unico ad avere sofferto qui, cosa credi?"
+  },
+  {
+    "line_number": 761,
+    "start": 2152.461,
+    "end": 2154.023,
+    "text": "Ti ho detto che non voglio parlare di queste cose."
+  },
+  {
+    "line_number": 762,
+    "start": 2154.242,
+    "end": 2155.103,
+    "text": "E invece mi stai a sentire."
+  },
+  {
+    "line_number": 763,
+    "start": 2156.943,
+    "end": 2158.144,
+    "text": "Hai rovinato la vita di tuo figlio."
+  },
+  {
+    "line_number": 764,
+    "start": 2158.824,
+    "end": 2160.646,
+    "text": "E adesso stai rovinando la tua e anche la mia."
+  },
+  {
+    "line_number": 765,
+    "start": 2160.925,
+    "end": 2163.266,
+    "text": "E rischi di fare peggio."
+  },
+  {
+    "line_number": 766,
+    "start": 2163.286,
+    "end": 2165.728,
+    "text": "Solo che io c'ero, mio papà, c'ero, l'ho visto, Luca."
+  },
+  {
+    "line_number": 767,
+    "start": 2165.768,
+    "end": 2167.028,
+    "text": "Ho visto che non aveva nessuna colpa."
+  },
+  {
+    "line_number": 768,
+    "start": 2167.53,
+    "end": 2169.15,
+    "text": "Nessuno c'è colpa."
+  },
+  {
+    "line_number": 769,
+    "start": 2169.17,
+    "end": 2170.871,
+    "text": "Ma via."
+  },
+  {
+    "line_number": 770,
+    "start": 2170.891,
+    "end": 2171.992,
+    "text": "Papà, eravamo solo bambini."
+  },
+  {
+    "line_number": 771,
+    "start": 2172.331,
+    "end": 2173.032,
+    "text": "Solo bambini."
+  },
+  {
+    "line_number": 772,
+    "start": 2173.853,
+    "end": 2175.054,
+    "text": "Io avevo detto di guardare tua sorella."
+  },
+  {
+    "line_number": 773,
+    "start": 2175.114,
+    "end": 2176.835,
+    "text": "Ma se l'avessi chiesto a me che cosa sarebbe cambiato, eh?"
+  },
+  {
+    "line_number": 774,
+    "start": 2179.594,
+    "end": 2180.594,
+    "text": "Silvia sarebbe morta lo stesso."
+  },
+  {
+    "line_number": 775,
+    "start": 2181.974,
+    "end": 2183.876,
+    "text": "Solo che a questo punto io sarei il tossico di famiglia."
+  },
+  {
+    "line_number": 776,
+    "start": 2184.976,
+    "end": 2186.737,
+    "text": "E Luca sarebbe il brillante professionista di merda."
+  },
+  {
+    "line_number": 777,
+    "start": 2186.878,
+    "end": 2187.177,
+    "text": "Va via!"
+  },
+  {
+    "line_number": 778,
+    "start": 2187.237,
+    "end": 2187.699,
+    "text": "Basta!"
+  },
+  {
+    "line_number": 779,
+    "start": 2187.798,
+    "end": 2188.978,
+    "text": "Basta!"
+  },
+  {
+    "line_number": 780,
+    "start": 2189.059,
+    "end": 2189.739,
+    "text": "Basta!"
+  },
+  {
+    "line_number": 781,
+    "start": 2189.76,
+    "end": 2190.8,
+    "text": "Papà!"
+  },
+  {
+    "line_number": 782,
+    "start": 2191.581,
+    "end": 2193.262,
+    "text": "Silvia è morta 27 anni fa."
+  },
+  {
+    "line_number": 783,
+    "start": 2193.362,
+    "end": 2194.262,
+    "text": "Io e Luca siamo ancora vivi."
+  },
+  {
+    "line_number": 784,
+    "start": 2194.282,
+    "end": 2195.463,
+    "text": "Te lo ficchi nel cervello o no?"
+  },
+  {
+    "line_number": 785,
+    "start": 2195.483,
+    "end": 2196.804,
+    "text": "E questa te la tieni?"
+  },
+  {
+    "line_number": 786,
+    "start": 2196.864,
+    "end": 2198.105,
+    "text": "Si chiama Diego."
+  },
+  {
+    "line_number": 787,
+    "start": 2198.144,
+    "end": 2198.344,
+    "text": "Papà."
+  },
+  {
+    "line_number": 788,
+    "start": 2205.981,
+    "end": 2209.365,
+    "text": "non ti dai pace ancora non ti dai pace ancora"
+  },
+  {
+    "line_number": 789,
+    "start": 2243.052,
+    "end": 2244.012,
+    "text": "Posso aiutarle in qualcosa?"
+  },
+  {
+    "line_number": 790,
+    "start": 2244.052,
+    "end": 2244.893,
+    "text": "Vuole un bicchiere d'acqua?"
+  },
+  {
+    "line_number": 791,
+    "start": 2245.414,
+    "end": 2245.853,
+    "text": "No, grazie."
+  },
+  {
+    "line_number": 792,
+    "start": 2245.873,
+    "end": 2249.157,
+    "text": "No, niente."
+  },
+  {
+    "line_number": 793,
+    "start": 2250.557,
+    "end": 2253.579,
+    "text": "Ho sbagliato tutto."
+  },
+  {
+    "line_number": 794,
+    "start": 2256.943,
+    "end": 2258.023,
+    "text": "Non mi sono fidata di lei."
+  },
+  {
+    "line_number": 795,
+    "start": 2262.827,
+    "end": 2264.108,
+    "text": "Andiamo su, vieni con me."
+  },
+  {
+    "line_number": 796,
+    "start": 2272.586,
+    "end": 2272.806,
+    "text": "Povici."
+  },
+  {
+    "line_number": 797,
+    "start": 2272.827,
+    "end": 2285.697,
+    "text": "Tampone."
+  },
+  {
+    "line_number": 798,
+    "start": 2286.538,
+    "end": 2289.88,
+    "text": "Sono 26 anni che mi sento inadeguata."
+  },
+  {
+    "line_number": 799,
+    "start": 2292.262,
+    "end": 2299.248,
+    "text": "E mi chiedo sempre se Marta con un'altra madre sarebbe stata più felice."
+  },
+  {
+    "line_number": 800,
+    "start": 2302.773,
+    "end": 2303.894,
+    "text": "Ma chi lo sa?"
+  },
+  {
+    "line_number": 801,
+    "start": 2303.934,
+    "end": 2306.715,
+    "text": "Chi può dirlo?"
+  },
+  {
+    "line_number": 802,
+    "start": 2306.735,
+    "end": 2309.137,
+    "text": "Sai, io credo che tutte le madri si sentano inadeguate."
+  },
+  {
+    "line_number": 803,
+    "start": 2310.217,
+    "end": 2311.278,
+    "text": "Non soltanto quelle adottive."
+  },
+  {
+    "line_number": 804,
+    "start": 2312.8,
+    "end": 2315.36,
+    "text": "È l'amore che fa sentire inadeguate."
+  },
+  {
+    "line_number": 805,
+    "start": 2315.802,
+    "end": 2316.262,
+    "text": "L'amore?"
+  },
+  {
+    "line_number": 806,
+    "start": 2316.742,
+    "end": 2325.367,
+    "text": "Sì, l'amore, quella cosa che è bellissima, ma fa tanto male qui quando pensi alle persone qui, qui bene."
+  },
+  {
+    "line_number": 807,
+    "start": 2327.088,
+    "end": 2330.389,
+    "text": "Io Marta l'ho amata dal primo momento che l'ho vista."
+  },
+  {
+    "line_number": 808,
+    "start": 2332.362,
+    "end": 2333.623,
+    "text": "E non mi importava più niente."
+  },
+  {
+    "line_number": 809,
+    "start": 2333.983,
+    "end": 2337.686,
+    "text": "Aveva quasi, quasi tre anni."
+  },
+  {
+    "line_number": 810,
+    "start": 2338.626,
+    "end": 2340.989,
+    "text": "E non le avevo scelto io il nome."
+  },
+  {
+    "line_number": 811,
+    "start": 2341.309,
+    "end": 2345.811,
+    "text": "È vero che succede così, no?"
+  },
+  {
+    "line_number": 812,
+    "start": 2346.032,
+    "end": 2347.913,
+    "text": "Sì."
+  },
+  {
+    "line_number": 813,
+    "start": 2347.952,
+    "end": 2349.233,
+    "text": "Un vero colpo di fulmine."
+  },
+  {
+    "line_number": 814,
+    "start": 2353.836,
+    "end": 2354.297,
+    "text": "E a figli."
+  },
+  {
+    "line_number": 815,
+    "start": 2356.059,
+    "end": 2359.38,
+    "text": "Non ancora."
+  },
+  {
+    "line_number": 816,
+    "start": 2359.44,
+    "end": 2360.521,
+    "text": "Ecco, dai, ci siamo."
+  },
+  {
+    "line_number": 817,
+    "start": 2362.244,
+    "end": 2362.324,
+    "text": "Vai."
+  },
+  {
+    "line_number": 818,
+    "start": 2362.364,
+    "end": 2362.864,
+    "text": "Eccolo qua."
+  },
+  {
+    "line_number": 819,
+    "start": 2362.885,
+    "end": 2363.045,
+    "text": "Taglia."
+  },
+  {
+    "line_number": 820,
+    "start": 2363.105,
+    "end": 2363.405,
+    "text": "Bellissimo."
+  },
+  {
+    "line_number": 821,
+    "start": 2363.425,
+    "end": 2364.146,
+    "text": "Ciao piccolino."
+  },
+  {
+    "line_number": 822,
+    "start": 2364.967,
+    "end": 2365.487,
+    "text": "Eccolo qua."
+  },
+  {
+    "line_number": 823,
+    "start": 2365.847,
+    "end": 2366.248,
+    "text": "Eccolo qua."
+  },
+  {
+    "line_number": 824,
+    "start": 2405.463,
+    "end": 2409.704,
+    "text": "mamma bellissima come sta?"
+  },
+  {
+    "line_number": 825,
+    "start": 2410.684,
+    "end": 2424.228,
+    "text": "un po' stacca dottore signora tanti auguri amore piccolo hai visto quanto è bello ciao amore come sta?"
+  },
+  {
+    "line_number": 826,
+    "start": 2424.568,
+    "end": 2430.57,
+    "text": "benissimo ancora sta veramente benissimo ciao mia madre dove è?"
+  },
+  {
+    "line_number": 827,
+    "start": 2430.829,
+    "end": 2432.751,
+    "text": "è fuori ah falla entrare"
+  },
+  {
+    "line_number": 828,
+    "start": 2433.44,
+    "end": 2434.0,
+    "text": "Chiamala."
+  },
+  {
+    "line_number": 829,
+    "start": 2434.059,
+    "end": 2436.681,
+    "text": "Ciao, amore."
+  },
+  {
+    "line_number": 830,
+    "start": 2436.74,
+    "end": 2437.86,
+    "text": "Ha visto che bel bambino, eh?"
+  },
+  {
+    "line_number": 831,
+    "start": 2438.34,
+    "end": 2439.621,
+    "text": "Bellissimo."
+  },
+  {
+    "line_number": 832,
+    "start": 2439.641,
+    "end": 2442.981,
+    "text": "Glielo abbiamo fatto entrare in via di tutto eccezionale."
+  },
+  {
+    "line_number": 833,
+    "start": 2443.181,
+    "end": 2444.003,
+    "text": "Grazie."
+  },
+  {
+    "line_number": 834,
+    "start": 2444.182,
+    "end": 2446.083,
+    "text": "Ciao."
+  },
+  {
+    "line_number": 835,
+    "start": 2446.663,
+    "end": 2447.824,
+    "text": "Bambina mia."
+  },
+  {
+    "line_number": 836,
+    "start": 2449.923,
+    "end": 2451.724,
+    "text": "Ciao, papà."
+  },
+  {
+    "line_number": 837,
+    "start": 2452.864,
+    "end": 2453.304,
+    "text": "Tesoro."
+  },
+  {
+    "line_number": 838,
+    "start": 2453.344,
+    "end": 2454.925,
+    "text": "Bellissimo."
+  },
+  {
+    "line_number": 839,
+    "start": 2454.965,
+    "end": 2455.286,
+    "text": "Ti assomiglia."
+  },
+  {
+    "line_number": 840,
+    "start": 2455.306,
+    "end": 2455.405,
+    "text": "Dici?"
+  },
+  {
+    "line_number": 841,
+    "start": 2458.023,
+    "end": 2460.884,
+    "text": "Oh, secondo me invece ha gli occhi del papà."
+  },
+  {
+    "line_number": 842,
+    "start": 2460.903,
+    "end": 2461.844,
+    "text": "Dici che mi somiglia un po'?"
+  },
+  {
+    "line_number": 843,
+    "start": 2462.264,
+    "end": 2467.025,
+    "text": "Il suo papà."
+  },
+  {
+    "line_number": 844,
+    "start": 2467.065,
+    "end": 2467.606,
+    "text": "Dottor Maioli?"
+  },
+  {
+    "line_number": 845,
+    "start": 2468.045,
+    "end": 2468.146,
+    "text": "Sì?"
+  },
+  {
+    "line_number": 846,
+    "start": 2468.166,
+    "end": 2470.706,
+    "text": "Scusate."
+  },
+  {
+    "line_number": 847,
+    "start": 2470.746,
+    "end": 2472.487,
+    "text": "Il fax della cartella chimica che mi ha chiesto."
+  },
+  {
+    "line_number": 848,
+    "start": 2473.086,
+    "end": 2476.487,
+    "text": "Non so neanche io come ha fatto a convincere il giudice minorile a fare così in fretta."
+  },
+  {
+    "line_number": 849,
+    "start": 2477.867,
+    "end": 2480.369,
+    "text": "Grazie Bianca."
+  },
+  {
+    "line_number": 850,
+    "start": 2480.389,
+    "end": 2482.289,
+    "text": "Ancora tanti auguri a tutti allora."
+  },
+  {
+    "line_number": 851,
+    "start": 2482.309,
+    "end": 2482.909,
+    "text": "Ci vediamo tra un po'."
+  },
+  {
+    "line_number": 852,
+    "start": 2484.15,
+    "end": 2484.389,
+    "text": "Grazie."
+  },
+  {
+    "line_number": 853,
+    "start": 2484.409,
+    "end": 2485.01,
+    "text": "Grazie, arrivederci."
+  },
+  {
+    "line_number": 854,
+    "start": 2489.641,
+    "end": 2490.503,
+    "text": "Hai saputo dell'ispezione?"
+  },
+  {
+    "line_number": 855,
+    "start": 2496.907,
+    "end": 2499.71,
+    "text": "Che fai, dormi?"
+  },
+  {
+    "line_number": 856,
+    "start": 2500.911,
+    "end": 2501.032,
+    "text": "No."
+  },
+  {
+    "line_number": 857,
+    "start": 2502.472,
+    "end": 2503.534,
+    "text": "Farò solo pensiero."
+  },
+  {
+    "line_number": 858,
+    "start": 2504.253,
+    "end": 2504.835,
+    "text": "E io sono biondo."
+  },
+  {
+    "line_number": 859,
+    "start": 2508.737,
+    "end": 2509.938,
+    "text": "Arianna, non puoi continuare così."
+  },
+  {
+    "line_number": 860,
+    "start": 2510.079,
+    "end": 2511.78,
+    "text": "Supermercato, nido, supermercato."
+  },
+  {
+    "line_number": 861,
+    "start": 2512.121,
+    "end": 2512.702,
+    "text": "Ti massacri."
+  },
+  {
+    "line_number": 862,
+    "start": 2513.382,
+    "end": 2514.163,
+    "text": "Io ho tanti problemi."
+  },
+  {
+    "line_number": 863,
+    "start": 2515.233,
+    "end": 2517.313,
+    "text": "Mio padre è stato licenziato."
+  },
+  {
+    "line_number": 864,
+    "start": 2517.333,
+    "end": 2520.695,
+    "text": "Hanno bisogno di me a casa perché con lo stipendio dell'ospedale non andiamo da nessuna parte."
+  },
+  {
+    "line_number": 865,
+    "start": 2522.777,
+    "end": 2525.059,
+    "text": "Sai che cosa penso quando sono alla cassa del supermercato?"
+  },
+  {
+    "line_number": 866,
+    "start": 2527.28,
+    "end": 2527.86,
+    "text": "Al mio letto."
+  },
+  {
+    "line_number": 867,
+    "start": 2532.003,
+    "end": 2532.844,
+    "text": "Sì, dottore."
+  },
+  {
+    "line_number": 868,
+    "start": 2532.864,
+    "end": 2538.887,
+    "text": "Allora, buone notizie."
+  },
+  {
+    "line_number": 869,
+    "start": 2538.907,
+    "end": 2539.527,
+    "text": "Direi proprio di sì."
+  },
+  {
+    "line_number": 870,
+    "start": 2541.322,
+    "end": 2545.405,
+    "text": "La crisi è stata causata da una forma di epilessia dell'età evolutiva, in forma benigna."
+  },
+  {
+    "line_number": 871,
+    "start": 2546.405,
+    "end": 2549.989,
+    "text": "Da tenere sotto controllo, ma possiamo escludere cause peggiori."
+  },
+  {
+    "line_number": 872,
+    "start": 2551.309,
+    "end": 2553.17,
+    "text": "Ma forse è il caso che ne riparliamo dopo, no?"
+  },
+  {
+    "line_number": 873,
+    "start": 2553.572,
+    "end": 2556.414,
+    "text": "Adesso godetevi questo bellissimo bambino."
+  },
+  {
+    "line_number": 874,
+    "start": 2556.454,
+    "end": 2559.856,
+    "text": "Professore, scusate, cercavano in ambulatorio una donna in attesa."
+  },
+  {
+    "line_number": 875,
+    "start": 2559.876,
+    "end": 2559.996,
+    "text": "Sì."
+  },
+  {
+    "line_number": 876,
+    "start": 2560.036,
+    "end": 2562.338,
+    "text": "Dottore, grazie mille."
+  },
+  {
+    "line_number": 877,
+    "start": 2562.579,
+    "end": 2564.46,
+    "text": "Tanti auguri."
+  },
+  {
+    "line_number": 878,
+    "start": 2564.48,
+    "end": 2565.28,
+    "text": "Grazie, dottore."
+  },
+  {
+    "line_number": 879,
+    "start": 2568.322,
+    "end": 2568.664,
+    "text": "Grazie."
+  },
+  {
+    "line_number": 880,
+    "start": 2568.684,
+    "end": 2570.244,
+    "text": "Epilessia dell'età evolutiva."
+  },
+  {
+    "line_number": 881,
+    "start": 2572.422,
+    "end": 2578.445,
+    "text": "Bambina mia, appena ti riprendi, te lo spiego."
+  },
+  {
+    "line_number": 882,
+    "start": 2578.905,
+    "end": 2583.889,
+    "text": "Mamma, io so già tutto."
+  },
+  {
+    "line_number": 883,
+    "start": 2586.11,
+    "end": 2586.489,
+    "text": "Cosa?"
+  },
+  {
+    "line_number": 884,
+    "start": 2587.431,
+    "end": 2589.592,
+    "text": "Cosa sai?"
+  },
+  {
+    "line_number": 885,
+    "start": 2589.632,
+    "end": 2597.255,
+    "text": "Ti ricordi quando da piccola prendevo sempre in giro te e papà perché non riuscivate a fare così, con la lingua?"
+  },
+  {
+    "line_number": 886,
+    "start": 2598.657,
+    "end": 2599.297,
+    "text": "Che significa?"
+  },
+  {
+    "line_number": 887,
+    "start": 2601.518,
+    "end": 2608.943,
+    "text": "Setti anni fa ho letto per caso che si tratta di un fattore ereditario, trasmesso dai genitori."
+  },
+  {
+    "line_number": 888,
+    "start": 2609.003,
+    "end": 2611.164,
+    "text": "Almeno da uno."
+  },
+  {
+    "line_number": 889,
+    "start": 2611.226,
+    "end": 2614.748,
+    "text": "Perché non me l'hai mai detto?"
+  },
+  {
+    "line_number": 890,
+    "start": 2614.788,
+    "end": 2615.969,
+    "text": "Perché tu non me ne hai mai parlato."
+  },
+  {
+    "line_number": 891,
+    "start": 2616.309,
+    "end": 2619.112,
+    "text": "E io non avevo il coraggio di dirtelo."
+  },
+  {
+    "line_number": 892,
+    "start": 2619.152,
+    "end": 2621.072,
+    "text": "Ma neanche io."
+  },
+  {
+    "line_number": 893,
+    "start": 2629.378,
+    "end": 2631.159,
+    "text": "Andiamo dal nonno."
+  },
+  {
+    "line_number": 894,
+    "start": 2631.701,
+    "end": 2634.782,
+    "text": "Andiamo dalla mamma."
+  },
+  {
+    "line_number": 895,
+    "start": 2634.802,
+    "end": 2635.664,
+    "text": "Andiamo dalla mamma."
+  },
+  {
+    "line_number": 896,
+    "start": 2694.211,
+    "end": 2696.293,
+    "text": "Martina?"
+  },
+  {
+    "line_number": 897,
+    "start": 2696.333,
+    "end": 2698.153,
+    "text": "Scusa, che cosa hai combinato qua con le foto?"
+  },
+  {
+    "line_number": 898,
+    "start": 2698.793,
+    "end": 2700.114,
+    "text": "Che cosa ho combinato con le foto?"
+  },
+  {
+    "line_number": 899,
+    "start": 2700.875,
+    "end": 2701.255,
+    "text": "Sì."
+  },
+  {
+    "line_number": 900,
+    "start": 2704.177,
+    "end": 2704.817,
+    "text": "Ma che c'è?"
+  },
+  {
+    "line_number": 901,
+    "start": 2706.018,
+    "end": 2706.697,
+    "text": "Non la vedi?"
+  },
+  {
+    "line_number": 902,
+    "start": 2706.737,
+    "end": 2710.76,
+    "text": "Di questa?"
+  },
+  {
+    "line_number": 903,
+    "start": 2710.82,
+    "end": 2712.121,
+    "text": "Che cosa è questa?"
+  },
+  {
+    "line_number": 904,
+    "start": 2713.101,
+    "end": 2713.742,
+    "text": "Un segnante."
+  },
+  {
+    "line_number": 905,
+    "start": 2715.163,
+    "end": 2715.822,
+    "text": "La lettera di papà."
+  },
+  {
+    "line_number": 906,
+    "start": 2716.043,
+    "end": 2716.543,
+    "text": "Papà?"
+  },
+  {
+    "line_number": 907,
+    "start": 2716.682,
+    "end": 2717.724,
+    "text": "Ha detto che non mi vuole vedere."
+  },
+  {
+    "line_number": 908,
+    "start": 2718.423,
+    "end": 2719.425,
+    "text": "Si è rifatta un'altra famiglia."
+  },
+  {
+    "line_number": 909,
+    "start": 2720.264,
+    "end": 2721.266,
+    "text": "E non vuole sconvolgerla."
+  },
+  {
+    "line_number": 910,
+    "start": 2721.306,
+    "end": 2721.346,
+    "text": "Ma..."
+  },
+  {
+    "line_number": 911,
+    "start": 2724.244,
+    "end": 2729.467,
+    "text": "Martina!"
+  },
+  {
+    "line_number": 912,
+    "start": 2729.527,
+    "end": 2732.55,
+    "text": "Martina, ma che succede?"
+  },
+  {
+    "line_number": 913,
+    "start": 2732.61,
+    "end": 2733.13,
+    "text": "Martina!"
+  },
+  {
+    "line_number": 914,
+    "start": 2734.271,
+    "end": 2740.094,
+    "text": "Ma che sta succedendo?"
+  },
+  {
+    "line_number": 915,
+    "start": 2740.114,
+    "end": 2741.536,
+    "text": "Non lo so, l'ha scritto suo padre."
+  },
+  {
+    "line_number": 916,
+    "start": 2742.255,
+    "end": 2744.538,
+    "text": "Io vorrei sapere questo, come gli viene in mente dopo tutto questo tempo."
+  },
+  {
+    "line_number": 917,
+    "start": 2745.038,
+    "end": 2746.018,
+    "text": "Ma chi ha strappato le foto?"
+  },
+  {
+    "line_number": 918,
+    "start": 2746.86,
+    "end": 2747.76,
+    "text": "Lei era arrabbiato."
+  },
+  {
+    "line_number": 919,
+    "start": 2747.8,
+    "end": 2751.063,
+    "text": "Ma effettivamente non ha scritto delle cose troppo carine."
+  },
+  {
+    "line_number": 920,
+    "start": 2751.762,
+    "end": 2753.143,
+    "text": "No, mi ha risposto alla sua lettera."
+  },
+  {
+    "line_number": 921,
+    "start": 2755.096,
+    "end": 2759.222,
+    "text": "Dico, Martina ha scritto una lettera al padre, peraltro le ho dato anche una mano a scriverla."
+  },
+  {
+    "line_number": 922,
+    "start": 2760.217,
+    "end": 2760.958,
+    "text": "Tu cosa hai fatto?"
+  },
+  {
+    "line_number": 923,
+    "start": 2761.318,
+    "end": 2763.059,
+    "text": "Eh, me l'ha chiesta, dice, mi dai una mano?"
+  },
+  {
+    "line_number": 924,
+    "start": 2763.219,
+    "end": 2767.38,
+    "text": "Io mi sembrava... Cioè mi stai dicendo che l'hai aiutata a scrivere una lettera a suo padre e questa è la risposta?"
+  },
+  {
+    "line_number": 925,
+    "start": 2767.699,
+    "end": 2769.86,
+    "text": "Me l'ha chiesta, viviamo nella stessa casa... Senti, fammi piacere, Rosario!"
+  },
+  {
+    "line_number": 926,
+    "start": 2770.061,
+    "end": 2772.282,
+    "text": "Non ti impicciare di cose che non ti riguardano, chiaro?"
+  },
+  {
+    "line_number": 927,
+    "start": 2772.402,
+    "end": 2775.742,
+    "text": "Il rapporto fra me e Martina sono fatti miei, esclusivamente miei!"
+  },
+  {
+    "line_number": 928,
+    "start": 2775.762,
+    "end": 2778.222,
+    "text": "Non voglio entrare... Loredana, scusami un attimo, vieni qua a parlare!"
+  },
+  {
+    "line_number": 929,
+    "start": 2778.242,
+    "end": 2778.864,
+    "text": "Senti, Rosario, per piacere!"
+  },
+  {
+    "line_number": 930,
+    "start": 2779.443,
+    "end": 2780.224,
+    "text": "Ma non ti agitare!"
+  },
+  {
+    "line_number": 931,
+    "start": 2780.463,
+    "end": 2781.043,
+    "text": "Ma dove vai?"
+  },
+  {
+    "line_number": 932,
+    "start": 2781.083,
+    "end": 2782.364,
+    "text": "Ma perché scappate tutti?"
+  },
+  {
+    "line_number": 933,
+    "start": 2783.025,
+    "end": 2783.945,
+    "text": "Ma vieni qua, no?"
+  },
+  {
+    "line_number": 934,
+    "start": 2785.106,
+    "end": 2786.565,
+    "text": "Pensate a quello che mi hai detto prima, sai?"
+  },
+  {
+    "line_number": 935,
+    "start": 2787.826,
+    "end": 2788.706,
+    "text": "Pare che non è possibile."
+  },
+  {
+    "line_number": 936,
+    "start": 2789.306,
+    "end": 2789.467,
+    "text": "Cosa?"
+  },
+  {
+    "line_number": 937,
+    "start": 2790.931,
+    "end": 2794.376,
+    "text": "La sperimentazione al Galilei senza l'autorizzazione di mio padre."
+  },
+  {
+    "line_number": 938,
+    "start": 2794.436,
+    "end": 2795.097,
+    "text": "Non si muove folla."
+  },
+  {
+    "line_number": 939,
+    "start": 2795.117,
+    "end": 2798.4,
+    "text": "Appunto, magari è stata fatta senza l'autorizzazione di mio padre."
+  },
+  {
+    "line_number": 940,
+    "start": 2798.42,
+    "end": 2800.061,
+    "text": "Una sperimentazione illegale."
+  },
+  {
+    "line_number": 941,
+    "start": 2800.081,
+    "end": 2808.21,
+    "text": "Cosa stai dicendo?"
+  },
+  {
+    "line_number": 942,
+    "start": 2808.251,
+    "end": 2811.594,
+    "text": "Vuoi dire che mio padre è coinvolto in mezzo a questa storia?"
+  },
+  {
+    "line_number": 943,
+    "start": 2841.82,
+    "end": 2843.179,
+    "text": "Maioli, maioli."
+  },
+  {
+    "line_number": 944,
+    "start": 2846.121,
+    "end": 2847.382,
+    "text": "Che cosa mi combina?"
+  },
+  {
+    "line_number": 945,
+    "start": 2848.782,
+    "end": 2849.641,
+    "text": "Che ci fa qui, Guidi?"
+  },
+  {
+    "line_number": 946,
+    "start": 2851.643,
+    "end": 2853.143,
+    "text": "Sacche di sangue infetto."
+  },
+  {
+    "line_number": 947,
+    "start": 2855.583,
+    "end": 2858.085,
+    "text": "Adesso ci costringono a commissariare Sant'Anna."
+  },
+  {
+    "line_number": 948,
+    "start": 2858.105,
+    "end": 2859.744,
+    "text": "Che cosa?"
+  },
+  {
+    "line_number": 949,
+    "start": 2864.565,
+    "end": 2867.867,
+    "text": "A commissariare Sant'Anna?"
+  },
+  {
+    "line_number": 950,
+    "start": 2867.887,
+    "end": 2868.327,
+    "text": "Sì."
+  },
+  {
+    "line_number": 951,
+    "start": 2868.387,
+    "end": 2870.268,
+    "text": "Sono venuto a dirglielo io perché non volevo..."
+  },
+  {
+    "line_number": 952,
+    "start": 2870.932,
+    "end": 2873.436,
+    "text": "che lo sapesse da quei mastini degli ufficiali sanitari."
+  },
+  {
+    "line_number": 953,
+    "start": 2876.139,
+    "end": 2885.989,
+    "text": "Diciamo che l'ho fatto così in amicizia e anche perché purtroppo mi sa che toccherà a me sostituirla."
+  },
+  {
+    "line_number": 954,
+    "start": 2886.829,
+    "end": 2888.592,
+    "text": "Buonanotte, professor Maioli."
+  }
+]

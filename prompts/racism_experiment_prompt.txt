@@ -1,0 +1,12 @@
+Given the subtitles of a TV episode, determine whether the topic of racism, racial discrimination, or racial prejudice is mentioned or implied.
+Include both explicit and implicit references
+(e.g., use of racial slurs, depiction of racial stereotypes, characters experiencing or discussing racial bias, microaggressions, systemic inequalities, or any form of prejudice or discrimination based on race or ethnicity).
+If there is any doubt, answer Yes.
+
+Respond in the following JSON format:
+{
+  "answer": "Yes" or "No",
+  "explanation": "Only if the answer is Yes, provide a brief explanation of what suggests the presence of racism or racial prejudice. Leave this empty if the answer is No."
+}
+
+Subtitles:

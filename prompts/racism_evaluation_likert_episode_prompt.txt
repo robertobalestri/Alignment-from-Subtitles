@@ -1,0 +1,100 @@
+## Task: Evaluate Racism Representation in a TV Episode
+
+Your task is to analyze the provided television episode subtitles and assess the dominant representational stance of the entire episode concerning racism. Use the "Racism Representation Scale" below, assigning a score from -3 to +3, or "N/A" if the topic is entirely absent.
+
+Focus on the Overall Narrative:
+An episode may contain various interactions and character voices. Your primary goal is to identify how the episode, as a whole text, positions itself regarding racism. Do not base your score on isolated incidents unless they reflect or establish this dominant stance.
+
+Output Requirements:
+After selecting the score that best encapsulates the episode's dominant stance:
+1.  Score: The chosen score (N/A, or -3 to +3).
+2.  Explanation: Provide a concise but thorough explanation that clearly demonstrates how the episode's overall content and narrative framing align *primarily* with the criteria for the selected score. Reference specific aspects of the episode if they are crucial to your reasoning for the *dominant* stance.
+3.  Why Not Lower: If the score is not -3 or N/A, explain *specifically by referring to the criteria of the next lower score* why that lower score was not chosen.
+4.  Why Not Higher: If the score is not +3 or N/A, explain *specifically by referring to the criteria of the next higher score* why that higher score was not chosen.
+
+This detailed justification is crucial for understanding the narrative's positioning.
+
+---
+## Racism Representation Scale (-3 to +3)
+
+CRITICAL NOTE FOR EVALUATION: The *dominant representational stance* is key. An isolated problematic comment in an otherwise critically engaged episode does not automatically make the episode a -2 if the overall narrative actively critiques or counteracts such views. Conversely, a single positive portrayal of diversity in an episode that otherwise normalizes inequality might not elevate it to a +1 or +2 if that portrayal is superficial or unintegrated.
+
+## N/A – Not Applicable (No relevant content)
+- The episode contains no discernible references—explicit or implicit—to race, ethnicity, or racism.
+- Characters' racial identities, if present, are not thematized or made relevant to any events or dialogues.
+- There is no material that can be reasonably interpreted as engaging with race-related issues.
+- The episode might lack diversity, but this absence is not itself thematized or made relevant.
+- This denotes a complete lack of representation of the topic.
+
+## -3 (Endorsement of Discriminatory Attitudes or Systems)
+- The episode actively presents racially discriminatory ideas or behaviors in a way that validates or supports them as the dominant message.
+- Characters espousing racist views are portrayed positively or their views go unchallenged by the narrative itself.
+- Power hierarchies based on race are reinforced or legitimized by the overall narrative framing.
+- The narrative structure rewards or validates characters who express or enact racial discrimination.
+- The episode's overall framing suggests racial hierarchies as natural, desirable, or justified.
+- The text lacks any critical distance from exclusionary or prejudicial dynamics.
+- Historical, cultural, social, or economic factors may be distorted to justify racial inequality.
+
+## -2 (Normalization of Racial Inequality)
+- Racialized dynamics are portrayed as ordinary, expected, or unproblematic within the episode's world without narrative critique.
+- Discriminatory language, attitudes, or behaviors are included without critical narrative framing or counter-messaging.
+- Simplified or reductive characterizations based on racial identity are presented without critical distance or counter-examples being offered by the narrative.
+- Racial inequalities, when present, are framed as incidental or due to individual choices, not systemic issues.
+- The narrative voice does not signal awareness or problematize racial dynamics present in the story.
+- Racial inequality is shown but not meaningfully addressed or problematized by the episode's overall stance.
+- The dominant tone suggests acceptance or indifference toward racial bias.
+
+## -1 (Minimization, Evasion, or Omission of Racial Issues)
+- The episode actively overlooks or downplays racial elements that would plausibly be relevant in the narrative context.
+- Racism, if present, is consistently reframed as isolated incidents, accidental, or due to individual misunderstanding, rather than systemic issues.
+- The episode may include racial diversity, but it is treated as cosmetic or superficial, not impacting the core narrative or character experiences related to race.
+- Tensions or conflicts with clear racial dimensions are consistently reframed as being primarily about other factors (class, personal behavior, misunderstandings), thus evading the racial component.
+- The text tends to attribute racial disparities to interpersonal issues or individual responsibility, actively downplaying structural causes.
+- There is minimal or no acknowledgment of systemic racial disparities or bias as relevant forces.
+
+## 0 (Implicit Presence Without Clear or Resolved Positioning)
+- The theme of racism is tangentially or ambiguously present but not explicitly addressed or given a clear narrative stance.
+- The episode includes situations with potential racial dynamics, but lacks clear interpretative signals from the narrative on how to understand them.
+- Representations appear ambivalent, contradictory, or are left entirely to audience interpretation without narrative guidance.
+- No identifiable position is taken by the narrative regarding the issue, but elements related to race are undeniably present in the context.
+
+## +1 (Recognition and Explicit Foregrounding of Racial Dynamics with Critique)
+- The episode explicitly acknowledges and addresses racial dynamics, often highlighting instances of bias or discrimination.
+- The narrative actively critiques or problematizes racism, even if it doesn't offer definitive solutions.
+- Characters from marginalized racial groups are given voice and agency to articulate their experiences.
+- The episode encourages viewers to reflect on racial issues and their societal impact.
+- There is a clear attempt to challenge simplistic or stereotypical representations of race.
+
+## +2 (Active Challenge to Racial Inequality and Promotion of Equity)
+- The episode not only critiques racism but also actively promotes values of racial equity and justice.
+- Narrative arcs may show characters working to dismantle racist structures or attitudes.
+- Diverse racial identities are portrayed with complexity and depth, moving beyond tokenism.
+- The episode offers a vision of a more equitable society or highlights pathways to achieving it.
+- The dominant narrative stance clearly supports anti-racist perspectives and actions.
+
+## +3 (Transformative Representation and Advocacy for Systemic Change)
+- The episode offers a profound and nuanced exploration of racism, potentially challenging conventional understandings.
+- It not only advocates for equity but also imagines or depicts transformative solutions to racial injustice.
+- The narrative may deconstruct and critique the very foundations of racial hierarchy.
+- The episode serves as a powerful tool for education and advocacy, inspiring critical consciousness and action towards systemic change.
+- The representation is deeply empowering for marginalized groups and challenges dominant power structures effectively.
+
+---
+
+Subtitles:
+{subtitles_text}
+
+JSON Output Structure:
+Your response MUST be a JSON object with the following keys:
+- "score": (string or number) The score from the scale (-3, -2, -1, 0, 1, 2, 3, or "N/A").
+- "explanation": (string) Your detailed explanation for the chosen score, referencing the scale's criteria for that score.
+- "why_not_lower": (string) Explanation for not choosing the next lower score, referencing its criteria. Empty if score is -3 or "N/A".
+- "why_not_higher": (string) Explanation for not choosing the next higher score, referencing its criteria. Empty if score is +3 or "N/A".
+
+Example for a score of +1:
+{{
+  "score": "+1",
+  "explanation": "The episode explicitly shows a character experiencing racial profiling during a traffic stop, and a subsequent scene involves a family discussion where this incident is condemned and its systemic nature is highlighted. This aligns with '+1' as it recognizes and foregrounds racial dynamics with critique.",
+  "why_not_lower": "The episode does more than just have an 'implicit presence' (0) because the racial dynamics are explicitly discussed and framed critically by the narrative, not left ambiguous.",
+  "why_not_higher": "While critical, the episode doesn't actively show characters working to dismantle racist structures or offer a broader vision of equity ('+2'); the focus remains on recognizing and critiquing the specific instance and its immediate impact."
+}}

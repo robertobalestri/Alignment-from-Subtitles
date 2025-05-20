@@ -1,0 +1,5294 @@
+[
+  {
+    "line_number": 1,
+    "start": 5.135,
+    "end": 8.617,
+    "text": "Previously on \"Grey's Anatomy\"...This dissection is routine for me at this point."
+  },
+  {
+    "line_number": 2,
+    "start": 8.66,
+    "end": 10.836,
+    "text": "I need to know what happened. Dr. Schmitt started"
+  },
+  {
+    "line_number": 3,
+    "start": 10.88,
+    "end": 12.186,
+    "text": "the dissection instead of waiting."
+  },
+  {
+    "line_number": 4,
+    "start": 12.229,
+    "end": 13.97,
+    "text": "Time of death, 1:19."
+  },
+  {
+    "line_number": 5,
+    "start": 14.014,
+    "end": 16.19,
+    "text": "Why aren't you in pre-op? He has a low-grade fever."
+  },
+  {
+    "line_number": 6,
+    "start": 16.233,
+    "end": 19.41,
+    "text": "- Dr. Grey, he's hypotensive! - Jo, you're right."
+  },
+  {
+    "line_number": 7,
+    "start": 19.454,
+    "end": 21.064,
+    "text": "I've been holding on to a fairytale."
+  },
+  {
+    "line_number": 8,
+    "start": 21.108,
+    "end": 22.761,
+    "text": "We don't have to get married now. I just need her, right?"
+  },
+  {
+    "line_number": 9,
+    "start": 22.805,
+    "end": 24.241,
+    "text": "What happened?"
+  },
+  {
+    "line_number": 10,
+    "start": 24.285,
+    "end": 25.677,
+    "text": "The heart is a match for Farouk."
+  },
+  {
+    "line_number": 11,
+    "start": 25.721,
+    "end": 27.114,
+    "text": "It's a beautiful and healthy heart."
+  },
+  {
+    "line_number": 12,
+    "start": 27.157,
+    "end": 28.115,
+    "text": "It's perfect."
+  },
+  {
+    "line_number": 13,
+    "start": 28.158,
+    "end": 29.377,
+    "text": "How are you holding up?"
+  },
+  {
+    "line_number": 14,
+    "start": 29.42,
+    "end": 31.031,
+    "text": "If Farouk dies, I go with him."
+  },
+  {
+    "line_number": 15,
+    "start": 31.074,
+    "end": 32.728,
+    "text": "- She is not alright. - What's happening, Owen?"
+  },
+  {
+    "line_number": 16,
+    "start": 34.512,
+    "end": 37.341,
+    "text": "Nobody bloody move. Take the cooler. Save Farouk."
+  },
+  {
+    "line_number": 17,
+    "start": 37.385,
+    "end": 39.082,
+    "text": "I gave Noah Young the drugs that he needed to die,"
+  },
+  {
+    "line_number": 18,
+    "start": 39.126,
+    "end": 40.605,
+    "text": "and I promised him that I would give the same drugs"
+  },
+  {
+    "line_number": 19,
+    "start": 40.649,
+    "end": 42.346,
+    "text": "to three other dying soldiers."
+  },
+  {
+    "line_number": 20,
+    "start": 42.39,
+    "end": 44.174,
+    "text": "Move, before it takes us both!"
+  },
+  {
+    "line_number": 21,
+    "start": 46.568,
+    "end": 49.31,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 22,
+    "start": 59.885,
+    "end": 60.973,
+    "text": "Is that it?"
+  },
+  {
+    "line_number": 23,
+    "start": 61.017,
+    "end": 62.323,
+    "text": "Yeah."
+  },
+  {
+    "line_number": 24,
+    "start": 62.366,
+    "end": 64.151,
+    "text": "You're sure?"
+  },
+  {
+    "line_number": 25,
+    "start": 64.194,
+    "end": 66.283,
+    "text": "I've never been more sure about anything in my life."
+  },
+  {
+    "line_number": 26,
+    "start": 66.327,
+    "end": 68.285,
+    "text": "And Heather knows? She does."
+  },
+  {
+    "line_number": 27,
+    "start": 68.329,
+    "end": 70.809,
+    "text": "We made a plan, and I can take better care of Danny"
+  },
+  {
+    "line_number": 28,
+    "start": 70.853,
+    "end": 72.507,
+    "text": "from the other side."
+  },
+  {
+    "line_number": 29,
+    "start": 74.944,
+    "end": 77.642,
+    "text": "I feel good about my life..."
+  },
+  {
+    "line_number": 30,
+    "start": 79.47,
+    "end": 81.385,
+    "text": "...and I feel good about where I'm going."
+  },
+  {
+    "line_number": 31,
+    "start": 83.083,
+    "end": 85.955,
+    "text": "I did my best, and..."
+  },
+  {
+    "line_number": 32,
+    "start": 85.998,
+    "end": 87.826,
+    "text": "I think that's pretty damn good."
+  },
+  {
+    "line_number": 33,
+    "start": 91.134,
+    "end": 92.527,
+    "text": "Yeah."
+  },
+  {
+    "line_number": 34,
+    "start": 94.398,
+    "end": 95.66,
+    "text": "Hey, Dr. Hunt?"
+  },
+  {
+    "line_number": 35,
+    "start": 96.922,
+    "end": 98.837,
+    "text": "I don't want to abandon the guys in my unit."
+  },
+  {
+    "line_number": 36,
+    "start": 98.881,
+    "end": 101.144,
+    "text": "They need your help, too."
+  },
+  {
+    "line_number": 37,
+    "start": 101.188,
+    "end": 103.277,
+    "text": "We..."
+  },
+  {
+    "line_number": 38,
+    "start": 103.32,
+    "end": 104.843,
+    "text": "We need your help."
+  },
+  {
+    "line_number": 39,
+    "start": 104.887,
+    "end": 106.541,
+    "text": "Please."
+  },
+  {
+    "line_number": 40,
+    "start": 106.584,
+    "end": 109.848,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 41,
+    "start": 119.902,
+    "end": 124.733,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 42,
+    "start": 124.776,
+    "end": 126.735,
+    "text": "Here! I'm here!"
+  },
+  {
+    "line_number": 43,
+    "start": 126.778,
+    "end": 129.172,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 44,
+    "start": 129.216,
+    "end": 131.696,
+    "text": "The vagus nerve is the longest and most complex"
+  },
+  {
+    "line_number": 45,
+    "start": 131.74,
+    "end": 133.22,
+    "text": "of the cranial nerves."
+  },
+  {
+    "line_number": 46,
+    "start": 133.263,
+    "end": 135.091,
+    "text": "It transmits information"
+  },
+  {
+    "line_number": 47,
+    "start": 135.135,
+    "end": 136.745,
+    "text": "to or from the surface of the brain"
+  },
+  {
+    "line_number": 48,
+    "start": 136.788,
+    "end": 139.182,
+    "text": "to tissues and organs elsewhere in the body."
+  },
+  {
+    "line_number": 49,
+    "start": 139.226,
+    "end": 142.751,
+    "text": "Wait! Stop! Stop!"
+  },
+  {
+    "line_number": 50,
+    "start": 142.794,
+    "end": 144.144,
+    "text": "Wait, wait!"
+  },
+  {
+    "line_number": 51,
+    "start": 144.187,
+    "end": 151.194,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 52,
+    "start": 151.238,
+    "end": 153.196,
+    "text": "When a body sustains an extended period"
+  },
+  {
+    "line_number": 53,
+    "start": 153.24,
+    "end": 154.85,
+    "text": "of stress or trauma,"
+  },
+  {
+    "line_number": 54,
+    "start": 154.893,
+    "end": 158.332,
+    "text": "the vagus nerve becomes hyperactive."
+  },
+  {
+    "line_number": 55,
+    "start": 158.375,
+    "end": 160.943,
+    "text": "We think of stress and trauma as primarily emotional..."
+  },
+  {
+    "line_number": 56,
+    "start": 160.986,
+    "end": 162.51,
+    "text": "Why didn't you wait?"
+  },
+  {
+    "line_number": 57,
+    "start": 162.553,
+    "end": 164.773,
+    "text": "...but the real impact is on the body."
+  },
+  {
+    "line_number": 58,
+    "start": 164.816,
+    "end": 166.34,
+    "text": "That's not the Webber Method!"
+  },
+  {
+    "line_number": 59,
+    "start": 166.383,
+    "end": 167.776,
+    "text": "When the vagus nerve is triggered,"
+  },
+  {
+    "line_number": 60,
+    "start": 167.819,
+    "end": 169.952,
+    "text": "it fights to slow the heart."
+  },
+  {
+    "line_number": 61,
+    "start": 169.995,
+    "end": 175.044,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 62,
+    "start": 175.087,
+    "end": 176.828,
+    "text": "Blood pressure drops,"
+  },
+  {
+    "line_number": 63,
+    "start": 176.872,
+    "end": 180.397,
+    "text": "and you can experience nausea, tunnel vision..."
+  },
+  {
+    "line_number": 64,
+    "start": 183.226,
+    "end": 186.664,
+    "text": "...ringing in the ears, low blood pressure,"
+  },
+  {
+    "line_number": 65,
+    "start": 186.708,
+    "end": 189.232,
+    "text": "an irregular heartbeat."
+  },
+  {
+    "line_number": 66,
+    "start": 193.018,
+    "end": 196.108,
+    "text": "And when the mind suffers, the body suffers,"
+  },
+  {
+    "line_number": 67,
+    "start": 196.152,
+    "end": 198.981,
+    "text": "and it can be difficult to undo the damage."
+  },
+  {
+    "line_number": 68,
+    "start": 199.024,
+    "end": 204.856,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 69,
+    "start": 204.9,
+    "end": 206.858,
+    "text": "There was an accident. Yeah, I heard."
+  },
+  {
+    "line_number": 70,
+    "start": 206.902,
+    "end": 208.12,
+    "text": "You okay?"
+  },
+  {
+    "line_number": 71,
+    "start": 208.164,
+    "end": 209.774,
+    "text": "I will be as long as the heart is."
+  },
+  {
+    "line_number": 72,
+    "start": 209.818,
+    "end": 216.825,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 73,
+    "start": 216.868,
+    "end": 223.875,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 74,
+    "start": 223.919,
+    "end": 230.926,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 75,
+    "start": 230.969,
+    "end": 232.884,
+    "text": "Ndugu? The heart's bruised."
+  },
+  {
+    "line_number": 76,
+    "start": 232.928,
+    "end": 234.321,
+    "text": "It must have hit the side of the cooler when the car --"
+  },
+  {
+    "line_number": 77,
+    "start": 234.364,
+    "end": 235.583,
+    "text": "Can you still use it?"
+  },
+  {
+    "line_number": 78,
+    "start": 237.324,
+    "end": 242.981,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 79,
+    "start": 243.025,
+    "end": 244.287,
+    "text": "Page Dr. Pierce."
+  },
+  {
+    "line_number": 80,
+    "start": 244.331,
+    "end": 246.463,
+    "text": "Please page Dr. Pierce to OR 3."
+  },
+  {
+    "line_number": 81,
+    "start": 246.507,
+    "end": 247.508,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 82,
+    "start": 261.348,
+    "end": 263.088,
+    "text": "Owen."
+  },
+  {
+    "line_number": 83,
+    "start": 264.568,
+    "end": 266.178,
+    "text": "Owen, can you hear me?"
+  },
+  {
+    "line_number": 84,
+    "start": 266.222,
+    "end": 267.571,
+    "text": "Hayes, I already have the meds. Okay?!"
+  },
+  {
+    "line_number": 85,
+    "start": 267.615,
+    "end": 268.572,
+    "text": "Aah!"
+  },
+  {
+    "line_number": 86,
+    "start": 268.616,
+    "end": 270.095,
+    "text": "It's me. It's Amelia."
+  },
+  {
+    "line_number": 87,
+    "start": 270.139,
+    "end": 271.183,
+    "text": "Link is here, too."
+  },
+  {
+    "line_number": 88,
+    "start": 272.576,
+    "end": 273.969,
+    "text": "There you are."
+  },
+  {
+    "line_number": 89,
+    "start": 274.012,
+    "end": 276.232,
+    "text": "You were in an accident. Do you remember?"
+  },
+  {
+    "line_number": 90,
+    "start": 276.276,
+    "end": 278.539,
+    "text": "They gave you morphine on the way here for the pain. You're in trauma one."
+  },
+  {
+    "line_number": 91,
+    "start": 278.582,
+    "end": 280.497,
+    "text": "I know your leg hurts, but can you wiggle your toes?"
+  },
+  {
+    "line_number": 92,
+    "start": 280.541,
+    "end": 281.977,
+    "text": "Feel anything?"
+  },
+  {
+    "line_number": 93,
+    "start": 282.02,
+    "end": 283.718,
+    "text": "Good. Okay. Can you feel this?"
+  },
+  {
+    "line_number": 94,
+    "start": 283.761,
+    "end": 285.546,
+    "text": "A little. Good. That's good."
+  },
+  {
+    "line_number": 95,
+    "start": 285.589,
+    "end": 287.33,
+    "text": "We are gonna get you scanned and we're gonna get you into --"
+  },
+  {
+    "line_number": 96,
+    "start": 287.374,
+    "end": 290.29,
+    "text": "Amelia. Amelia. Teddy. Farouk's heart?"
+  },
+  {
+    "line_number": 97,
+    "start": 290.333,
+    "end": 291.943,
+    "text": "Teddy's okay. She's outside."
+  },
+  {
+    "line_number": 98,
+    "start": 291.987,
+    "end": 293.467,
+    "text": "Farouk is in surgery. They got the heart here in time."
+  },
+  {
+    "line_number": 99,
+    "start": 293.51,
+    "end": 295.512,
+    "text": "Okay. Hayes?"
+  },
+  {
+    "line_number": 100,
+    "start": 295.556,
+    "end": 297.862,
+    "text": "I haven't seen him, but I will see what I can find out."
+  },
+  {
+    "line_number": 101,
+    "start": 297.906,
+    "end": 299.516,
+    "text": "Amelia."
+  },
+  {
+    "line_number": 102,
+    "start": 299.56,
+    "end": 301.562,
+    "text": "Don't tell Megan that I'm hurt, okay?"
+  },
+  {
+    "line_number": 103,
+    "start": 301.605,
+    "end": 303.085,
+    "text": "Owen -- Please."
+  },
+  {
+    "line_number": 104,
+    "start": 303.128,
+    "end": 305.87,
+    "text": "Not until after Farouk's alright. Please."
+  },
+  {
+    "line_number": 105,
+    "start": 307.568,
+    "end": 309.091,
+    "text": "Teddy."
+  },
+  {
+    "line_number": 106,
+    "start": 309.134,
+    "end": 310.832,
+    "text": "Do you need to sit down?"
+  },
+  {
+    "line_number": 107,
+    "start": 310.875,
+    "end": 312.094,
+    "text": "Is he...? He's in a lot of pain,"
+  },
+  {
+    "line_number": 108,
+    "start": 312.137,
+    "end": 313.617,
+    "text": "which right now is a good thing."
+  },
+  {
+    "line_number": 109,
+    "start": 313.661,
+    "end": 315.619,
+    "text": "Preliminary assessment shows extensive fractures"
+  },
+  {
+    "line_number": 110,
+    "start": 315.663,
+    "end": 317.142,
+    "text": "to the left leg. His neuro exam?"
+  },
+  {
+    "line_number": 111,
+    "start": 317.186,
+    "end": 319.144,
+    "text": "He's conscious, and he's following commands."
+  },
+  {
+    "line_number": 112,
+    "start": 319.188,
+    "end": 321.451,
+    "text": "His motor and sensory exams seem to be intact."
+  },
+  {
+    "line_number": 113,
+    "start": 322.365,
+    "end": 323.758,
+    "text": "Will he walk again?"
+  },
+  {
+    "line_number": 114,
+    "start": 323.801,
+    "end": 325.716,
+    "text": "We'll know a lot more after a scan."
+  },
+  {
+    "line_number": 115,
+    "start": 327.109,
+    "end": 328.676,
+    "text": "Teddy, he's alive."
+  },
+  {
+    "line_number": 116,
+    "start": 330.112,
+    "end": 332.375,
+    "text": "He's still here."
+  },
+  {
+    "line_number": 117,
+    "start": 332.419,
+    "end": 333.637,
+    "text": "You can go in and see him."
+  },
+  {
+    "line_number": 118,
+    "start": 336.684,
+    "end": 337.728,
+    "text": "Has anyone checked you out yet?"
+  },
+  {
+    "line_number": 119,
+    "start": 337.772,
+    "end": 340.949,
+    "text": "I'm fine. I'm -- I-I just, um..."
+  },
+  {
+    "line_number": 120,
+    "start": 340.992,
+    "end": 343.908,
+    "text": "I just..."
+  },
+  {
+    "line_number": 121,
+    "start": 343.952,
+    "end": 346.65,
+    "text": "I think I need a minute. I-I'm not sure I..."
+  },
+  {
+    "line_number": 122,
+    "start": 346.694,
+    "end": 348.173,
+    "text": "I just -- I-I need a minute."
+  },
+  {
+    "line_number": 123,
+    "start": 348.217,
+    "end": 349.61,
+    "text": "You got it."
+  },
+  {
+    "line_number": 124,
+    "start": 354.615,
+    "end": 355.877,
+    "text": "You should get checked out, Teddy."
+  },
+  {
+    "line_number": 125,
+    "start": 355.92,
+    "end": 357.4,
+    "text": "He got me out of the car first,"
+  },
+  {
+    "line_number": 126,
+    "start": 357.444,
+    "end": 360.751,
+    "text": "and I went to call for help and..."
+  },
+  {
+    "line_number": 127,
+    "start": 360.795,
+    "end": 362.84,
+    "text": "and then I-I heard the car fall,"
+  },
+  {
+    "line_number": 128,
+    "start": 362.884,
+    "end": 366.322,
+    "text": "and I rode all the way here with Farouk's heart in my hands,"
+  },
+  {
+    "line_number": 129,
+    "start": 366.366,
+    "end": 368.411,
+    "text": "and I -- I thought Owen was dead."
+  },
+  {
+    "line_number": 130,
+    "start": 368.455,
+    "end": 370.457,
+    "text": "And it's just -- I feel like my insides are like, lead,"
+  },
+  {
+    "line_number": 131,
+    "start": 370.5,
+    "end": 374.461,
+    "text": "or like, you know, like -- like ice, and I just --"
+  },
+  {
+    "line_number": 132,
+    "start": 374.504,
+    "end": 377.638,
+    "text": "I just need them to thaw before I-I go --"
+  },
+  {
+    "line_number": 133,
+    "start": 377.681,
+    "end": 379.074,
+    "text": "before I go inside and see him."
+  },
+  {
+    "line_number": 134,
+    "start": 379.117,
+    "end": 380.51,
+    "text": "You've gone hard."
+  },
+  {
+    "line_number": 135,
+    "start": 380.554,
+    "end": 382.338,
+    "text": "Your nervous system is protecting you."
+  },
+  {
+    "line_number": 136,
+    "start": 382.382,
+    "end": 385.036,
+    "text": "But he is alive."
+  },
+  {
+    "line_number": 137,
+    "start": 385.08,
+    "end": 387.082,
+    "text": "And he needs to see you."
+  },
+  {
+    "line_number": 138,
+    "start": 387.125,
+    "end": 388.562,
+    "text": "I know that."
+  },
+  {
+    "line_number": 139,
+    "start": 390.477,
+    "end": 395.525,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 140,
+    "start": 399.486,
+    "end": 405.143,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 141,
+    "start": 406.841,
+    "end": 408.364,
+    "text": "Hi, Teddy."
+  },
+  {
+    "line_number": 142,
+    "start": 410.061,
+    "end": 411.933,
+    "text": "I thought you were gone."
+  },
+  {
+    "line_number": 143,
+    "start": 414.37,
+    "end": 415.85,
+    "text": "Me too."
+  },
+  {
+    "line_number": 144,
+    "start": 419.331,
+    "end": 421.29,
+    "text": "Can you come over here, please?"
+  },
+  {
+    "line_number": 145,
+    "start": 424.249,
+    "end": 425.686,
+    "text": "Hey."
+  },
+  {
+    "line_number": 146,
+    "start": 427.601,
+    "end": 429.646,
+    "text": "I'm still here."
+  },
+  {
+    "line_number": 147,
+    "start": 435.957,
+    "end": 438.089,
+    "text": "I love you. I know."
+  },
+  {
+    "line_number": 148,
+    "start": 438.133,
+    "end": 440.396,
+    "text": "Dr. Radford to 2-6-2-2."
+  },
+  {
+    "line_number": 149,
+    "start": 440.44,
+    "end": 442.137,
+    "text": "Hey."
+  },
+  {
+    "line_number": 150,
+    "start": 442.18,
+    "end": 444.356,
+    "text": "I think we just do a pan scan and cover all our bases."
+  },
+  {
+    "line_number": 151,
+    "start": 444.4,
+    "end": 446.924,
+    "text": "I don't want to take a chance of being blindsided in the OR."
+  },
+  {
+    "line_number": 152,
+    "start": 446.968,
+    "end": 449.84,
+    "text": "Couldn't agree more. No one likes being blindsided."
+  },
+  {
+    "line_number": 153,
+    "start": 451.146,
+    "end": 452.452,
+    "text": "Link?"
+  },
+  {
+    "line_number": 154,
+    "start": 452.495,
+    "end": 454.105,
+    "text": "Dr. Goldberg to the ICU."
+  },
+  {
+    "line_number": 155,
+    "start": 454.149,
+    "end": 455.672,
+    "text": "Link, are you alright?"
+  },
+  {
+    "line_number": 156,
+    "start": 457.631,
+    "end": 459.937,
+    "text": "Link, Owen means a lot to me, to everyone,"
+  },
+  {
+    "line_number": 157,
+    "start": 459.981,
+    "end": 461.461,
+    "text": "so whatever is going on with you --"
+  },
+  {
+    "line_number": 158,
+    "start": 461.504,
+    "end": 462.636,
+    "text": "I have work to do."
+  },
+  {
+    "line_number": 159,
+    "start": 462.679,
+    "end": 464.812,
+    "text": "I'll, uh, meet you in radiology."
+  },
+  {
+    "line_number": 160,
+    "start": 466.814,
+    "end": 469.033,
+    "text": "This is not about the Webber Method, Bailey!"
+  },
+  {
+    "line_number": 161,
+    "start": 469.077,
+    "end": 471.383,
+    "text": "It's about one surgeon -- one surgeon who overstepped."
+  },
+  {
+    "line_number": 162,
+    "start": 471.427,
+    "end": 473.037,
+    "text": "If we canceled a teaching method"
+  },
+  {
+    "line_number": 163,
+    "start": 473.081,
+    "end": 474.865,
+    "text": "every time a surgeon made a mistake, there wou--"
+  },
+  {
+    "line_number": 164,
+    "start": 474.909,
+    "end": 478.39,
+    "text": "A preventable mistake. It was preventable."
+  },
+  {
+    "line_number": 165,
+    "start": 478.434,
+    "end": 480.741,
+    "text": "I am suspending the Webber Method"
+  },
+  {
+    "line_number": 166,
+    "start": 480.784,
+    "end": 482.96,
+    "text": "immediately and indefinitely."
+  },
+  {
+    "line_number": 167,
+    "start": 483.004,
+    "end": 484.962,
+    "text": "You absolutely will not. I won't accept it."
+  },
+  {
+    "line_number": 168,
+    "start": 485.006,
+    "end": 486.79,
+    "text": "Now, you may be the chief of this hospital,"
+  },
+  {
+    "line_number": 169,
+    "start": 486.834,
+    "end": 488.313,
+    "text": "but I'm the chief of chiefs."
+  },
+  {
+    "line_number": 170,
+    "start": 488.357,
+    "end": 490.011,
+    "text": "I will call the medical board, Richard."
+  },
+  {
+    "line_number": 171,
+    "start": 490.054,
+    "end": 492.666,
+    "text": "You want to pull rank on me? I will report you!"
+  },
+  {
+    "line_number": 172,
+    "start": 492.709,
+    "end": 494.015,
+    "text": "Bailey! There should have been"
+  },
+  {
+    "line_number": 173,
+    "start": 494.058,
+    "end": 496.191,
+    "text": "an attending in that room!"
+  },
+  {
+    "line_number": 174,
+    "start": 496.234,
+    "end": 498.802,
+    "text": "I am done arguing!"
+  },
+  {
+    "line_number": 175,
+    "start": 500.282,
+    "end": 504.242,
+    "text": "Schmitt, stop wasting water. Your hands are clean."
+  },
+  {
+    "line_number": 176,
+    "start": 504.286,
+    "end": 510.118,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 177,
+    "start": 510.161,
+    "end": 511.336,
+    "text": "I don't know."
+  },
+  {
+    "line_number": 178,
+    "start": 511.38,
+    "end": 513.338,
+    "text": "I don't think so."
+  },
+  {
+    "line_number": 179,
+    "start": 513.382,
+    "end": 515.602,
+    "text": "If we don't do this, we have to put him back on ECMO,"
+  },
+  {
+    "line_number": 180,
+    "start": 515.645,
+    "end": 517.342,
+    "text": "with risks of him bleeding"
+  },
+  {
+    "line_number": 181,
+    "start": 517.386,
+    "end": 519.91,
+    "text": "or throwing a clot causing a stroke, or worse."
+  },
+  {
+    "line_number": 182,
+    "start": 519.954,
+    "end": 521.608,
+    "text": "I don't know if he could survive long enough to get another heart."
+  },
+  {
+    "line_number": 183,
+    "start": 521.651,
+    "end": 522.913,
+    "text": "And if this heart fails"
+  },
+  {
+    "line_number": 184,
+    "start": 522.957,
+    "end": 524.741,
+    "text": "because it was bouncing around a cooler,"
+  },
+  {
+    "line_number": 185,
+    "start": 524.785,
+    "end": 527.178,
+    "text": "he goes into immediate cardiac arrest."
+  },
+  {
+    "line_number": 186,
+    "start": 528.832,
+    "end": 530.399,
+    "text": "You called me here for my opinion,"
+  },
+  {
+    "line_number": 187,
+    "start": 530.442,
+    "end": 532.532,
+    "text": "and I think you need to wait for a new heart."
+  },
+  {
+    "line_number": 188,
+    "start": 535.056,
+    "end": 537.58,
+    "text": "Okay, everyone. Let's incise the right atrium."
+  },
+  {
+    "line_number": 189,
+    "start": 537.624,
+    "end": 538.799,
+    "text": "Dr. Ndugu --"
+  },
+  {
+    "line_number": 190,
+    "start": 538.842,
+    "end": 540.888,
+    "text": "Dr. Pierce, I know the risks,"
+  },
+  {
+    "line_number": 191,
+    "start": 540.931,
+    "end": 544.674,
+    "text": "but it is a miracle that Hunt and Altman and Hayes are alive."
+  },
+  {
+    "line_number": 192,
+    "start": 544.718,
+    "end": 546.894,
+    "text": "It's a miracle that this heart is in front of us right now."
+  },
+  {
+    "line_number": 193,
+    "start": 546.937,
+    "end": 548.896,
+    "text": "And it is a miracle that we have the privilege"
+  },
+  {
+    "line_number": 194,
+    "start": 548.939,
+    "end": 552.726,
+    "text": "to see if it will beat inside Farouk's chest, bruised or not."
+  },
+  {
+    "line_number": 195,
+    "start": 552.769,
+    "end": 557.295,
+    "text": "So I'm gonna take the miracle and trust my gut."
+  },
+  {
+    "line_number": 196,
+    "start": 557.339,
+    "end": 559.994,
+    "text": "And I'm asking you to help me do this quickly and well."
+  },
+  {
+    "line_number": 197,
+    "start": 562.91,
+    "end": 563.737,
+    "text": "Okay."
+  },
+  {
+    "line_number": 198,
+    "start": 567.784,
+    "end": 569.264,
+    "text": "Scalpel."
+  },
+  {
+    "line_number": 199,
+    "start": 569.307,
+    "end": 574.704,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 200,
+    "start": 580.754,
+    "end": 583.974,
+    "text": "What do you mean he lied? He had a bowel obstruction"
+  },
+  {
+    "line_number": 201,
+    "start": 584.018,
+    "end": 585.323,
+    "text": "and he tried to hide the pain from us"
+  },
+  {
+    "line_number": 202,
+    "start": 585.367,
+    "end": 586.934,
+    "text": "until it got so bad he nearly perfed."
+  },
+  {
+    "line_number": 203,
+    "start": 586.977,
+    "end": 588.283,
+    "text": "He was septic. I almost lost him on the table."
+  },
+  {
+    "line_number": 204,
+    "start": 588.326,
+    "end": 590.111,
+    "text": "What an idiot."
+  },
+  {
+    "line_number": 205,
+    "start": 590.154,
+    "end": 591.678,
+    "text": "\"Idiot\" doesn't begin to describe it."
+  },
+  {
+    "line_number": 206,
+    "start": 591.721,
+    "end": 594.115,
+    "text": "\"Megalomaniac\" maybe."
+  },
+  {
+    "line_number": 207,
+    "start": 594.158,
+    "end": 595.507,
+    "text": "Hey. You know what?"
+  },
+  {
+    "line_number": 208,
+    "start": 595.551,
+    "end": 596.9,
+    "text": "I've got a crazy idea. Yeah?"
+  },
+  {
+    "line_number": 209,
+    "start": 596.944,
+    "end": 598.772,
+    "text": "There's a jet leaving for Seattle,"
+  },
+  {
+    "line_number": 210,
+    "start": 598.815,
+    "end": 600.6,
+    "text": "a critical care transport."
+  },
+  {
+    "line_number": 211,
+    "start": 600.643,
+    "end": 602.602,
+    "text": "I'm not -- I'm not working, so I wasn't gonna go,"
+  },
+  {
+    "line_number": 212,
+    "start": 602.645,
+    "end": 603.69,
+    "text": "but now I'm thinking..."
+  },
+  {
+    "line_number": 213,
+    "start": 603.733,
+    "end": 605.169,
+    "text": "I don't know -- I hitch a ride"
+  },
+  {
+    "line_number": 214,
+    "start": 605.213,
+    "end": 606.736,
+    "text": "and take you out to drown your sorrows."
+  },
+  {
+    "line_number": 215,
+    "start": 606.78,
+    "end": 608.912,
+    "text": "Seriously? You hate this idea?"
+  },
+  {
+    "line_number": 216,
+    "start": 608.956,
+    "end": 610.914,
+    "text": "I love this idea."
+  },
+  {
+    "line_number": 217,
+    "start": 610.958,
+    "end": 613.351,
+    "text": "Okay. In that case, I gotta go."
+  },
+  {
+    "line_number": 218,
+    "start": 618.879,
+    "end": 622.23,
+    "text": "Hey. Hayes, what happened to your head?"
+  },
+  {
+    "line_number": 219,
+    "start": 622.273,
+    "end": 624.275,
+    "text": "There was, uh..."
+  },
+  {
+    "line_number": 220,
+    "start": 624.319,
+    "end": 625.45,
+    "text": "There was an accident."
+  },
+  {
+    "line_number": 221,
+    "start": 625.494,
+    "end": 626.887,
+    "text": "What kind of accident?"
+  },
+  {
+    "line_number": 222,
+    "start": 628.976,
+    "end": 630.673,
+    "text": "My whole life..."
+  },
+  {
+    "line_number": 223,
+    "start": 633.11,
+    "end": 636.679,
+    "text": "My whole bloody life flashed before my eyes."
+  },
+  {
+    "line_number": 224,
+    "start": 636.723,
+    "end": 640.944,
+    "text": "I saw Abigail and..."
+  },
+  {
+    "line_number": 225,
+    "start": 640.988,
+    "end": 642.293,
+    "text": "my boys and..."
+  },
+  {
+    "line_number": 226,
+    "start": 643.73,
+    "end": 646.21,
+    "text": "It was just a lot. It was a lot."
+  },
+  {
+    "line_number": 227,
+    "start": 647.69,
+    "end": 649.91,
+    "text": "Have you been checked out? I'm fine. I'm fine."
+  },
+  {
+    "line_number": 228,
+    "start": 649.953,
+    "end": 652.521,
+    "text": "Well, I'll be the judge of that. Let's go inside. Come on."
+  },
+  {
+    "line_number": 229,
+    "start": 652.564,
+    "end": 656.481,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 230,
+    "start": 661.53,
+    "end": 662.966,
+    "text": "Pupils look good."
+  },
+  {
+    "line_number": 231,
+    "start": 664.794,
+    "end": 666.187,
+    "text": "Was there any loss of consciousness?"
+  },
+  {
+    "line_number": 232,
+    "start": 666.23,
+    "end": 668.668,
+    "text": "No. I'm alright, Grey."
+  },
+  {
+    "line_number": 233,
+    "start": 668.711,
+    "end": 671.148,
+    "text": "Scale of one to ten, how bad does your head hurt?"
+  },
+  {
+    "line_number": 234,
+    "start": 671.192,
+    "end": 672.672,
+    "text": "It doesn't hurt."
+  },
+  {
+    "line_number": 235,
+    "start": 674.761,
+    "end": 677.459,
+    "text": "Just let me take your blood pressure,"
+  },
+  {
+    "line_number": 236,
+    "start": 677.502,
+    "end": 679.504,
+    "text": "and then we can agree that you're okay."
+  },
+  {
+    "line_number": 237,
+    "start": 683.813,
+    "end": 685.685,
+    "text": "What's your opinion on mercy killings?"
+  },
+  {
+    "line_number": 238,
+    "start": 685.728,
+    "end": 687.599,
+    "text": "Whoa. You've gone dark."
+  },
+  {
+    "line_number": 239,
+    "start": 687.643,
+    "end": 689.253,
+    "text": "No, I'm serious."
+  },
+  {
+    "line_number": 240,
+    "start": 689.297,
+    "end": 691.212,
+    "text": "What is your opinion on mercy killings?"
+  },
+  {
+    "line_number": 241,
+    "start": 691.255,
+    "end": 692.43,
+    "text": "And not on me."
+  },
+  {
+    "line_number": 242,
+    "start": 694.519,
+    "end": 696.13,
+    "text": "I believe in death with dignity,"
+  },
+  {
+    "line_number": 243,
+    "start": 696.173,
+    "end": 698.045,
+    "text": "if that's what you're asking me."
+  },
+  {
+    "line_number": 244,
+    "start": 698.088,
+    "end": 699.786,
+    "text": "No, I'm asking what you would think of a doctor"
+  },
+  {
+    "line_number": 245,
+    "start": 699.829,
+    "end": 701.831,
+    "text": "who took that decision into his own hands,"
+  },
+  {
+    "line_number": 246,
+    "start": 701.875,
+    "end": 703.92,
+    "text": "who killed a man, a man who wanted to die,"
+  },
+  {
+    "line_number": 247,
+    "start": 703.964,
+    "end": 706.749,
+    "text": "a man who was gonna die soon anyway."
+  },
+  {
+    "line_number": 248,
+    "start": 706.793,
+    "end": 709.36,
+    "text": "I would say first do no harm."
+  },
+  {
+    "line_number": 249,
+    "start": 709.404,
+    "end": 711.232,
+    "text": "Yeah. That's what I thought."
+  },
+  {
+    "line_number": 250,
+    "start": 715.018,
+    "end": 716.846,
+    "text": "Something you want to tell me?"
+  },
+  {
+    "line_number": 251,
+    "start": 718.979,
+    "end": 720.85,
+    "text": "Listen."
+  },
+  {
+    "line_number": 252,
+    "start": 720.894,
+    "end": 723.461,
+    "text": "Altman and Hunt were in that car with me."
+  },
+  {
+    "line_number": 253,
+    "start": 723.505,
+    "end": 725.376,
+    "text": "Hunt was hurt. How badly?"
+  },
+  {
+    "line_number": 254,
+    "start": 725.42,
+    "end": 727.509,
+    "text": "Bad enough he might need a great general surgeon."
+  },
+  {
+    "line_number": 255,
+    "start": 729.119,
+    "end": 731.121,
+    "text": "I came as soon as I heard."
+  },
+  {
+    "line_number": 256,
+    "start": 731.165,
+    "end": 732.296,
+    "text": "What are we looking at?"
+  },
+  {
+    "line_number": 257,
+    "start": 732.34,
+    "end": 733.907,
+    "text": "L1 burst fracture."
+  },
+  {
+    "line_number": 258,
+    "start": 733.95,
+    "end": 735.865,
+    "text": "We'll need to go in and remove any bone fragments"
+  },
+  {
+    "line_number": 259,
+    "start": 735.909,
+    "end": 737.911,
+    "text": "before stabilizing it with a cage."
+  },
+  {
+    "line_number": 260,
+    "start": 737.954,
+    "end": 739.086,
+    "text": "Open femoral fracture needs a wash-out,"
+  },
+  {
+    "line_number": 261,
+    "start": 739.129,
+    "end": 740.652,
+    "text": "and we'll use a nail to fixate it."
+  },
+  {
+    "line_number": 262,
+    "start": 740.696,
+    "end": 742.785,
+    "text": "Left leg also has a tibial plateau fracture."
+  },
+  {
+    "line_number": 263,
+    "start": 742.829,
+    "end": 744.395,
+    "text": "We'll have to wait a few days for the swelling to go down"
+  },
+  {
+    "line_number": 264,
+    "start": 744.439,
+    "end": 745.396,
+    "text": "before repairing it."
+  },
+  {
+    "line_number": 265,
+    "start": 745.44,
+    "end": 746.833,
+    "text": "Is that a splenic lac?"
+  },
+  {
+    "line_number": 266,
+    "start": 746.876,
+    "end": 748.704,
+    "text": "Yeah, looks like a Grade One."
+  },
+  {
+    "line_number": 267,
+    "start": 748.748,
+    "end": 750.01,
+    "text": "Let's monitor it with labs."
+  },
+  {
+    "line_number": 268,
+    "start": 750.053,
+    "end": 751.359,
+    "text": "Yeah, the leg's in much worse shape."
+  },
+  {
+    "line_number": 269,
+    "start": 751.402,
+    "end": 753.361,
+    "text": "You think he'll be able to walk again?"
+  },
+  {
+    "line_number": 270,
+    "start": 753.404,
+    "end": 754.841,
+    "text": "The sooner we get in, the sooner we'll know. Shepherd?"
+  },
+  {
+    "line_number": 271,
+    "start": 754.884,
+    "end": 756.843,
+    "text": "There is some retropulsion into the spinal canal."
+  },
+  {
+    "line_number": 272,
+    "start": 756.886,
+    "end": 759.933,
+    "text": "But he's got some movement and feeling, which is a good sign,"
+  },
+  {
+    "line_number": 273,
+    "start": 759.976,
+    "end": 761.804,
+    "text": "but we'll have to get in quick, and we'll need to be perfect."
+  },
+  {
+    "line_number": 274,
+    "start": 761.848,
+    "end": 763.719,
+    "text": "Perfect or he's paralyzed?"
+  },
+  {
+    "line_number": 275,
+    "start": 763.763,
+    "end": 764.938,
+    "text": "Yeah."
+  },
+  {
+    "line_number": 276,
+    "start": 766.853,
+    "end": 769.116,
+    "text": "Okay. Whatever OR you need, it's yours."
+  },
+  {
+    "line_number": 277,
+    "start": 769.159,
+    "end": 770.813,
+    "text": "What about Schmitt? What about him?"
+  },
+  {
+    "line_number": 278,
+    "start": 770.857,
+    "end": 772.554,
+    "text": "He's the best resident. Can we have him?"
+  },
+  {
+    "line_number": 279,
+    "start": 772.597,
+    "end": 774.948,
+    "text": "Schmitt's unavailable."
+  },
+  {
+    "line_number": 280,
+    "start": 774.991,
+    "end": 776.253,
+    "text": "Do you want me?You want to be our resident?"
+  },
+  {
+    "line_number": 281,
+    "start": 776.297,
+    "end": 777.733,
+    "text": "Well, I'm just saying, if you need hands."
+  },
+  {
+    "line_number": 282,
+    "start": 777.777,
+    "end": 779.604,
+    "text": "Mer, we got him, but if that changes,"
+  },
+  {
+    "line_number": 283,
+    "start": 779.648,
+    "end": 781.302,
+    "text": "you'll be our first call. Okay."
+  },
+  {
+    "line_number": 284,
+    "start": 781.345,
+    "end": 782.869,
+    "text": "Our patient is awake. I have to go yell at him."
+  },
+  {
+    "line_number": 285,
+    "start": 782.912,
+    "end": 784.914,
+    "text": "I'm here if you need me, okay?"
+  },
+  {
+    "line_number": 286,
+    "start": 786.873,
+    "end": 789.658,
+    "text": "Total room disinfection in process."
+  },
+  {
+    "line_number": 287,
+    "start": 791.138,
+    "end": 793.401,
+    "text": "You're supposed to be writing an operative report."
+  },
+  {
+    "line_number": 288,
+    "start": 797.144,
+    "end": 798.885,
+    "text": "Hey, I don't know what you think you're scrubbing in on,"
+  },
+  {
+    "line_number": 289,
+    "start": 798.928,
+    "end": 799.929,
+    "text": "but don't."
+  },
+  {
+    "line_number": 290,
+    "start": 799.973,
+    "end": 802.105,
+    "text": "You're in no condition."
+  },
+  {
+    "line_number": 291,
+    "start": 802.149,
+    "end": 804.804,
+    "text": "Total room disinfection in process."
+  },
+  {
+    "line_number": 292,
+    "start": 807.023,
+    "end": 808.808,
+    "text": "Look, a surgeon who's never lost a patient"
+  },
+  {
+    "line_number": 293,
+    "start": 808.851,
+    "end": 810.897,
+    "text": "hasn't done enough surgeries."
+  },
+  {
+    "line_number": 294,
+    "start": 810.94,
+    "end": 814.552,
+    "text": "It happens, even to the best of us."
+  },
+  {
+    "line_number": 295,
+    "start": 820.167,
+    "end": 821.69,
+    "text": "Take a break, Schmitt."
+  },
+  {
+    "line_number": 296,
+    "start": 821.733,
+    "end": 825.085,
+    "text": "Take a walk, feel your feelings..."
+  },
+  {
+    "line_number": 297,
+    "start": 825.128,
+    "end": 826.608,
+    "text": "and then write that report."
+  },
+  {
+    "line_number": 298,
+    "start": 830.264,
+    "end": 831.874,
+    "text": "I'll start on your burst fracture,"
+  },
+  {
+    "line_number": 299,
+    "start": 831.918,
+    "end": 833.615,
+    "text": "and then Link and Nico will start in"
+  },
+  {
+    "line_number": 300,
+    "start": 833.658,
+    "end": 834.921,
+    "text": "on your femoral fracture. The other way around."
+  },
+  {
+    "line_number": 301,
+    "start": 834.964,
+    "end": 836.966,
+    "text": "Femoral fracture first, then spine."
+  },
+  {
+    "line_number": 302,
+    "start": 837.01,
+    "end": 838.663,
+    "text": "We always start with the spine."
+  },
+  {
+    "line_number": 303,
+    "start": 838.707,
+    "end": 839.795,
+    "text": "Yes, when the spinal fracture's more unstable"
+  },
+  {
+    "line_number": 304,
+    "start": 839.839,
+    "end": 841.753,
+    "text": "with motor and sensory deficits."
+  },
+  {
+    "line_number": 305,
+    "start": 841.797,
+    "end": 844.017,
+    "text": "In this instance, the leg is shattered with an open wound"
+  },
+  {
+    "line_number": 306,
+    "start": 844.06,
+    "end": 846.628,
+    "text": "and he has decreased PT and DP pulses,"
+  },
+  {
+    "line_number": 307,
+    "start": 846.671,
+    "end": 848.238,
+    "text": "so it takes priority if he wants to keep it."
+  },
+  {
+    "line_number": 308,
+    "start": 848.282,
+    "end": 849.936,
+    "text": "We could actually compromise here."
+  },
+  {
+    "line_number": 309,
+    "start": 849.979,
+    "end": 852.112,
+    "text": "We position Hunt on his side, we both go in laterally --"
+  },
+  {
+    "line_number": 310,
+    "start": 852.155,
+    "end": 853.635,
+    "text": "you in through the lumbar spine,"
+  },
+  {
+    "line_number": 311,
+    "start": 853.678,
+    "end": 855.028,
+    "text": "and I'll go in through the side of the femur."
+  },
+  {
+    "line_number": 312,
+    "start": 855.071,
+    "end": 857.247,
+    "text": "We do the repairs simultaneously."
+  },
+  {
+    "line_number": 313,
+    "start": 858.727,
+    "end": 860.511,
+    "text": "Owen, the risks here are you lose your leg"
+  },
+  {
+    "line_number": 314,
+    "start": 860.555,
+    "end": 862.774,
+    "text": "or you lose the ability to use your legs."
+  },
+  {
+    "line_number": 315,
+    "start": 862.818,
+    "end": 864.08,
+    "text": "I really think that we want to --"
+  },
+  {
+    "line_number": 316,
+    "start": 864.124,
+    "end": 865.56,
+    "text": "- Where's Hayes? - Hayes?"
+  },
+  {
+    "line_number": 317,
+    "start": 865.603,
+    "end": 867.083,
+    "text": "Yeah. I need to see him."
+  },
+  {
+    "line_number": 318,
+    "start": 867.127,
+    "end": 868.911,
+    "text": "We need to get you into the OR as soon as possible."
+  },
+  {
+    "line_number": 319,
+    "start": 868.955,
+    "end": 870.913,
+    "text": "Owen, listen. You can talk to Hayes after your surgery."
+  },
+  {
+    "line_number": 320,
+    "start": 870.957,
+    "end": 873.916,
+    "text": "No, no. No. No. I need to talk to Hayes, and it can't wait."
+  },
+  {
+    "line_number": 321,
+    "start": 875.962,
+    "end": 877.702,
+    "text": "I will see if he can meet you in pre-op."
+  },
+  {
+    "line_number": 322,
+    "start": 879.443,
+    "end": 880.792,
+    "text": "Okay."
+  },
+  {
+    "line_number": 323,
+    "start": 880.836,
+    "end": 883.36,
+    "text": "And we will go in simultaneously."
+  },
+  {
+    "line_number": 324,
+    "start": 883.404,
+    "end": 891.412,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 325,
+    "start": 891.455,
+    "end": 893.675,
+    "text": "Okay?"
+  },
+  {
+    "line_number": 326,
+    "start": 900.116,
+    "end": 903.641,
+    "text": "Ndugu. We know anything yet?"
+  },
+  {
+    "line_number": 327,
+    "start": 903.685,
+    "end": 904.947,
+    "text": "I'd like to give his mother an update.There's no way to know just yet."
+  },
+  {
+    "line_number": 328,
+    "start": 904.991,
+    "end": 906.601,
+    "text": "We still have a couple more vessels to anastomose."
+  },
+  {
+    "line_number": 329,
+    "start": 906.644,
+    "end": 909.169,
+    "text": "But for what it's worth..."
+  },
+  {
+    "line_number": 330,
+    "start": 909.212,
+    "end": 911.214,
+    "text": "I have a good feeling."
+  },
+  {
+    "line_number": 331,
+    "start": 911.258,
+    "end": 916.48,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 332,
+    "start": 916.524,
+    "end": 921.964,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 333,
+    "start": 922.008,
+    "end": 925.576,
+    "text": "Dr. Sellers. Dr. Mari Sellers. 4-6-1-9."
+  },
+  {
+    "line_number": 334,
+    "start": 927.143,
+    "end": 928.579,
+    "text": "Dr. Mari Sellers. 4-6-1-9."
+  },
+  {
+    "line_number": 335,
+    "start": 928.623,
+    "end": 930.93,
+    "text": "My God. Look at you."
+  },
+  {
+    "line_number": 336,
+    "start": 930.973,
+    "end": 932.583,
+    "text": "Could have been much worse."
+  },
+  {
+    "line_number": 337,
+    "start": 932.627,
+    "end": 934.063,
+    "text": "Yeah. Could have been me."
+  },
+  {
+    "line_number": 338,
+    "start": 938.154,
+    "end": 940.417,
+    "text": "Thank you, Hunt."
+  },
+  {
+    "line_number": 339,
+    "start": 940.461,
+    "end": 942.245,
+    "text": "I don't know what else to say."
+  },
+  {
+    "line_number": 340,
+    "start": 942.289,
+    "end": 944.073,
+    "text": "Thank you."
+  },
+  {
+    "line_number": 341,
+    "start": 944.117,
+    "end": 946.162,
+    "text": "You could thank me by forgetting what I told you."
+  },
+  {
+    "line_number": 342,
+    "start": 949.383,
+    "end": 952.299,
+    "text": "If I do that..."
+  },
+  {
+    "line_number": 343,
+    "start": 952.342,
+    "end": 954.605,
+    "text": "then I'm an accessory to a crime."
+  },
+  {
+    "line_number": 344,
+    "start": 954.649,
+    "end": 957.304,
+    "text": "Hayes, Noah was dying. You know that."
+  },
+  {
+    "line_number": 345,
+    "start": 957.347,
+    "end": 959.088,
+    "text": "He qualified for physician assisted death."
+  },
+  {
+    "line_number": 346,
+    "start": 959.132,
+    "end": 960.611,
+    "text": "Then why do you want me to forget about it?"
+  },
+  {
+    "line_number": 347,
+    "start": 960.655,
+    "end": 962.57,
+    "text": "'Cause his friends don't come from states"
+  },
+  {
+    "line_number": 348,
+    "start": 962.613,
+    "end": 964.528,
+    "text": "that allow death with dignity."
+  },
+  {
+    "line_number": 349,
+    "start": 964.572,
+    "end": 967.923,
+    "text": "I made him a promise, and he made them a promise."
+  },
+  {
+    "line_number": 350,
+    "start": 967.967,
+    "end": 970.708,
+    "text": "So you stole drugs and plan to pass them out like candy?"
+  },
+  {
+    "line_number": 351,
+    "start": 970.752,
+    "end": 972.362,
+    "text": "I plan to show those soldiers"
+  },
+  {
+    "line_number": 352,
+    "start": 972.406,
+    "end": 974.016,
+    "text": "the respect that our country hasn't."
+  },
+  {
+    "line_number": 353,
+    "start": 974.06,
+    "end": 976.41,
+    "text": "I plan to keep my promise to those men, okay?"
+  },
+  {
+    "line_number": 354,
+    "start": 976.453,
+    "end": 978.412,
+    "text": "You saved my life, and I need to spend what's left of it"
+  },
+  {
+    "line_number": 355,
+    "start": 978.455,
+    "end": 980.892,
+    "text": "looking after my boys."
+  },
+  {
+    "line_number": 356,
+    "start": 980.936,
+    "end": 983.156,
+    "text": "I can't go to prison. That's not gonna happen."
+  },
+  {
+    "line_number": 357,
+    "start": 983.199,
+    "end": 985.723,
+    "text": "You stole life-ending drugs that you plan to dispense"
+  },
+  {
+    "line_number": 358,
+    "start": 985.767,
+    "end": 988.813,
+    "text": "to men who do not qualify."
+  },
+  {
+    "line_number": 359,
+    "start": 988.857,
+    "end": 990.772,
+    "text": "Come forward,"
+  },
+  {
+    "line_number": 360,
+    "start": 990.815,
+    "end": 992.469,
+    "text": "tell Bailey what you've done, what you plan to do next."
+  },
+  {
+    "line_number": 361,
+    "start": 992.513,
+    "end": 993.731,
+    "text": "The longer you hold this secret inside,"
+  },
+  {
+    "line_number": 362,
+    "start": 993.775,
+    "end": 995.037,
+    "text": "the worse it's gonna get."
+  },
+  {
+    "line_number": 363,
+    "start": 995.081,
+    "end": 996.996,
+    "text": "Tell the truth so I don't have to."
+  },
+  {
+    "line_number": 364,
+    "start": 997.039,
+    "end": 998.867,
+    "text": "I fell off of a cliff so you didn't have to."
+  },
+  {
+    "line_number": 365,
+    "start": 998.91,
+    "end": 1000.912,
+    "text": "If not prison, I'd almost certainly"
+  },
+  {
+    "line_number": 366,
+    "start": 1000.956,
+    "end": 1002.914,
+    "text": "lose my license to practice medicine"
+  },
+  {
+    "line_number": 367,
+    "start": 1002.958,
+    "end": 1005.265,
+    "text": "for knowing about this and failing to report it. Hayes, come on."
+  },
+  {
+    "line_number": 368,
+    "start": 1005.308,
+    "end": 1007.441,
+    "text": "Hunt, I'm grateful to you for getting me out of that car,"
+  },
+  {
+    "line_number": 369,
+    "start": 1007.484,
+    "end": 1009.965,
+    "text": "but I can't make you any promises."
+  },
+  {
+    "line_number": 370,
+    "start": 1010.009,
+    "end": 1011.793,
+    "text": "I need to think this through."
+  },
+  {
+    "line_number": 371,
+    "start": 1019.888,
+    "end": 1022.412,
+    "text": "Hey. Farouk's heart? We don't know yet."
+  },
+  {
+    "line_number": 372,
+    "start": 1022.456,
+    "end": 1024.414,
+    "text": "Okay. Thank you."
+  },
+  {
+    "line_number": 373,
+    "start": 1024.458,
+    "end": 1029.637,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 374,
+    "start": 1029.68,
+    "end": 1030.942,
+    "text": "Hey."
+  },
+  {
+    "line_number": 375,
+    "start": 1030.986,
+    "end": 1036.818,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 376,
+    "start": 1044.478,
+    "end": 1046.132,
+    "text": "I'm sorry. No."
+  },
+  {
+    "line_number": 377,
+    "start": 1046.175,
+    "end": 1047.524,
+    "text": "No, I'm not sorry?"
+  },
+  {
+    "line_number": 378,
+    "start": 1047.568,
+    "end": 1049.657,
+    "text": "I'm not interested in your apology."
+  },
+  {
+    "line_number": 379,
+    "start": 1049.7,
+    "end": 1051.093,
+    "text": "I'm honestly not super into it, either."
+  },
+  {
+    "line_number": 380,
+    "start": 1051.137,
+    "end": 1053.53,
+    "text": "Dr. Bartley worked two years on this protocol,"
+  },
+  {
+    "line_number": 381,
+    "start": 1053.574,
+    "end": 1055.88,
+    "text": "and you nearly ruined it."
+  },
+  {
+    "line_number": 382,
+    "start": 1055.924,
+    "end": 1057.23,
+    "text": "S-Stupid."
+  },
+  {
+    "line_number": 383,
+    "start": 1057.273,
+    "end": 1058.883,
+    "text": "Way worse than stupid."
+  },
+  {
+    "line_number": 384,
+    "start": 1058.927,
+    "end": 1062.104,
+    "text": "David, you were septic. You almost died."
+  },
+  {
+    "line_number": 385,
+    "start": 1062.148,
+    "end": 1065.107,
+    "text": "We don't have another patient with Parkinson's"
+  },
+  {
+    "line_number": 386,
+    "start": 1065.151,
+    "end": 1067.892,
+    "text": "who will volunteer to let us experiment on his brain,"
+  },
+  {
+    "line_number": 387,
+    "start": 1067.936,
+    "end": 1071.113,
+    "text": "and even if we did, the FDA only approved you."
+  },
+  {
+    "line_number": 388,
+    "start": 1071.157,
+    "end": 1072.854,
+    "text": "You're it."
+  },
+  {
+    "line_number": 389,
+    "start": 1072.897,
+    "end": 1075.857,
+    "text": "Our time is a non-renewable resource."
+  },
+  {
+    "line_number": 390,
+    "start": 1075.9,
+    "end": 1077.467,
+    "text": "I have children here in Seattle"
+  },
+  {
+    "line_number": 391,
+    "start": 1077.511,
+    "end": 1080.34,
+    "text": "that I am missing days with that I will not get back."
+  },
+  {
+    "line_number": 392,
+    "start": 1080.383,
+    "end": 1083.43,
+    "text": "So if you pull a stunt like this again, I will quit,"
+  },
+  {
+    "line_number": 393,
+    "start": 1083.473,
+    "end": 1086.998,
+    "text": "and if I quit, the FDA will kill this project."
+  },
+  {
+    "line_number": 394,
+    "start": 1087.042,
+    "end": 1089.914,
+    "text": "And then I will have wasted two years of Dr. Bartley's time."
+  },
+  {
+    "line_number": 395,
+    "start": 1089.958,
+    "end": 1092.308,
+    "text": "We'll get over it, but you won't,"
+  },
+  {
+    "line_number": 396,
+    "start": 1092.352,
+    "end": 1094.136,
+    "text": "because you will die with Parkinson's."
+  },
+  {
+    "line_number": 397,
+    "start": 1094.18,
+    "end": 1095.311,
+    "text": "Understood?"
+  },
+  {
+    "line_number": 398,
+    "start": 1095.355,
+    "end": 1097.183,
+    "text": "Understood."
+  },
+  {
+    "line_number": 399,
+    "start": 1097.226,
+    "end": 1101.448,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 400,
+    "start": 1102.797,
+    "end": 1104.364,
+    "text": "Yeah."
+  },
+  {
+    "line_number": 401,
+    "start": 1104.407,
+    "end": 1106.017,
+    "text": "I'm walking out, too."
+  },
+  {
+    "line_number": 402,
+    "start": 1107.193,
+    "end": 1108.716,
+    "text": "But only 'cause I need more coffee."
+  },
+  {
+    "line_number": 403,
+    "start": 1110.935,
+    "end": 1118.552,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 404,
+    "start": 1121.859,
+    "end": 1124.21,
+    "text": "Hey. Bailey told me what happened."
+  },
+  {
+    "line_number": 405,
+    "start": 1124.253,
+    "end": 1125.733,
+    "text": "She thought you might still be in here,"
+  },
+  {
+    "line_number": 406,
+    "start": 1125.776,
+    "end": 1127.43,
+    "text": "so she sent me to take you home."
+  },
+  {
+    "line_number": 407,
+    "start": 1127.474,
+    "end": 1130.651,
+    "text": "Levi, it's the worst, and we've all been there."
+  },
+  {
+    "line_number": 408,
+    "start": 1133.044,
+    "end": 1134.568,
+    "text": "Levi, your hands!"
+  },
+  {
+    "line_number": 409,
+    "start": 1135.569,
+    "end": 1137.919,
+    "text": "Levi. Okay. You need to stop --"
+  },
+  {
+    "line_number": 410,
+    "start": 1139.355,
+    "end": 1140.617,
+    "text": "Levi!"
+  },
+  {
+    "line_number": 411,
+    "start": 1163.379,
+    "end": 1164.728,
+    "text": "Megan."
+  },
+  {
+    "line_number": 412,
+    "start": 1167.166,
+    "end": 1169.69,
+    "text": "I wanted to give you an update. Your mother said you were here."
+  },
+  {
+    "line_number": 413,
+    "start": 1171.3,
+    "end": 1174.216,
+    "text": "I came here to pray, and I don't pray."
+  },
+  {
+    "line_number": 414,
+    "start": 1174.26,
+    "end": 1177.654,
+    "text": "But I came here to pray because no one will tell me anything."
+  },
+  {
+    "line_number": 415,
+    "start": 1177.698,
+    "end": 1178.873,
+    "text": "No one's told me anything for hours."
+  },
+  {
+    "line_number": 416,
+    "start": 1178.916,
+    "end": 1180.527,
+    "text": "I haven't seen Teddy. I haven't seen Owen."
+  },
+  {
+    "line_number": 417,
+    "start": 1180.57,
+    "end": 1182.268,
+    "text": "I haven't seen you."
+  },
+  {
+    "line_number": 418,
+    "start": 1182.311,
+    "end": 1184.705,
+    "text": "No one will give me an update."
+  },
+  {
+    "line_number": 419,
+    "start": 1186.489,
+    "end": 1187.708,
+    "text": "How bad is it?"
+  },
+  {
+    "line_number": 420,
+    "start": 1189.536,
+    "end": 1191.233,
+    "text": "Megan, I need to know your plan."
+  },
+  {
+    "line_number": 421,
+    "start": 1191.277,
+    "end": 1193.104,
+    "text": "What plan?"
+  },
+  {
+    "line_number": 422,
+    "start": 1193.148,
+    "end": 1195.194,
+    "text": "I need to know your plan for how not to kill yourself."
+  },
+  {
+    "line_number": 423,
+    "start": 1197.065,
+    "end": 1199.241,
+    "text": "Maybe it's medication. Maybe it's inpatient treatment."
+  },
+  {
+    "line_number": 424,
+    "start": 1199.285,
+    "end": 1201.2,
+    "text": "Maybe it's just talking to your family,"
+  },
+  {
+    "line_number": 425,
+    "start": 1201.243,
+    "end": 1204.028,
+    "text": "letting them know how you feel and then letting them take over."
+  },
+  {
+    "line_number": 426,
+    "start": 1204.072,
+    "end": 1206.77,
+    "text": "Whatever it is, I need to know your plan for living."
+  },
+  {
+    "line_number": 427,
+    "start": 1215.126,
+    "end": 1219.13,
+    "text": "My wife died a few years back. Did you know that?"
+  },
+  {
+    "line_number": 428,
+    "start": 1219.174,
+    "end": 1220.871,
+    "text": "No."
+  },
+  {
+    "line_number": 429,
+    "start": 1220.915,
+    "end": 1222.917,
+    "text": "I tried to move on. I couldn't."
+  },
+  {
+    "line_number": 430,
+    "start": 1222.96,
+    "end": 1224.353,
+    "text": "I blamed it on my son's panic attacks,"
+  },
+  {
+    "line_number": 431,
+    "start": 1224.397,
+    "end": 1227.269,
+    "text": "but the truth is..."
+  },
+  {
+    "line_number": 432,
+    "start": 1227.313,
+    "end": 1228.705,
+    "text": "I'm not over Abigail."
+  },
+  {
+    "line_number": 433,
+    "start": 1231.317,
+    "end": 1233.232,
+    "text": "I don't know if I'll ever get over her."
+  },
+  {
+    "line_number": 434,
+    "start": 1234.624,
+    "end": 1236.191,
+    "text": "I desperately don't want to leave my boys,"
+  },
+  {
+    "line_number": 435,
+    "start": 1236.235,
+    "end": 1238.715,
+    "text": "but I'm desperate to see Abigail again."
+  },
+  {
+    "line_number": 436,
+    "start": 1238.759,
+    "end": 1242.197,
+    "text": "What I'm saying is, I know how it feels"
+  },
+  {
+    "line_number": 437,
+    "start": 1242.241,
+    "end": 1245.896,
+    "text": "to want to live and not want to live."
+  },
+  {
+    "line_number": 438,
+    "start": 1245.94,
+    "end": 1247.898,
+    "text": "I know the depth of that grief."
+  },
+  {
+    "line_number": 439,
+    "start": 1247.942,
+    "end": 1249.9,
+    "text": "I know the impulse to want to leave the planet."
+  },
+  {
+    "line_number": 440,
+    "start": 1251.162,
+    "end": 1253.73,
+    "text": "But if I'm gonna give you more bad news,"
+  },
+  {
+    "line_number": 441,
+    "start": 1253.774,
+    "end": 1258.996,
+    "text": "I need to know that I'm not handing you a bottle of pills..."
+  },
+  {
+    "line_number": 442,
+    "start": 1259.04,
+    "end": 1260.65,
+    "text": "that I'm not taking you out."
+  },
+  {
+    "line_number": 443,
+    "start": 1264.437,
+    "end": 1266.569,
+    "text": "I took a sedative. That helped."
+  },
+  {
+    "line_number": 444,
+    "start": 1269.442,
+    "end": 1273.097,
+    "text": "You can watch me call my therapist."
+  },
+  {
+    "line_number": 445,
+    "start": 1273.141,
+    "end": 1276.187,
+    "text": "And I'll e-mail my psychiatrist and CC you."
+  },
+  {
+    "line_number": 446,
+    "start": 1276.231,
+    "end": 1278.886,
+    "text": "Just please -- If you'll please just tell me."
+  },
+  {
+    "line_number": 447,
+    "start": 1278.929,
+    "end": 1280.801,
+    "text": "Tell me everything."
+  },
+  {
+    "line_number": 448,
+    "start": 1281.671,
+    "end": 1283.369,
+    "text": "There was an accident."
+  },
+  {
+    "line_number": 449,
+    "start": 1283.412,
+    "end": 1285.545,
+    "text": "Car went off the road. The heart was bruised."
+  },
+  {
+    "line_number": 450,
+    "start": 1285.588,
+    "end": 1287.503,
+    "text": "Ndugu thinks it's still functional,"
+  },
+  {
+    "line_number": 451,
+    "start": 1287.547,
+    "end": 1289.897,
+    "text": "so they're working on Farouk right now."
+  },
+  {
+    "line_number": 452,
+    "start": 1289.94,
+    "end": 1291.507,
+    "text": "Owen was injured."
+  },
+  {
+    "line_number": 453,
+    "start": 1291.551,
+    "end": 1292.856,
+    "text": "His injuries are not life-threatening,"
+  },
+  {
+    "line_number": 454,
+    "start": 1292.9,
+    "end": 1293.944,
+    "text": "but his leg was shattered."
+  },
+  {
+    "line_number": 455,
+    "start": 1293.988,
+    "end": 1295.685,
+    "text": "He is also in surgery."
+  },
+  {
+    "line_number": 456,
+    "start": 1297.121,
+    "end": 1299.341,
+    "text": "Wow."
+  },
+  {
+    "line_number": 457,
+    "start": 1299.385,
+    "end": 1300.777,
+    "text": "When it rains, it pours, huh?"
+  },
+  {
+    "line_number": 458,
+    "start": 1300.821,
+    "end": 1302.692,
+    "text": "Yeah."
+  },
+  {
+    "line_number": 459,
+    "start": 1302.736,
+    "end": 1306.174,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 460,
+    "start": 1306.217,
+    "end": 1308.089,
+    "text": "Alright."
+  },
+  {
+    "line_number": 461,
+    "start": 1308.132,
+    "end": 1309.656,
+    "text": "Let's make that call. Have you got your phone?"
+  },
+  {
+    "line_number": 462,
+    "start": 1311.962,
+    "end": 1313.224,
+    "text": "Yeah."
+  },
+  {
+    "line_number": 463,
+    "start": 1313.268,
+    "end": 1320.667,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 464,
+    "start": 1320.71,
+    "end": 1322.146,
+    "text": "Hey."
+  },
+  {
+    "line_number": 465,
+    "start": 1322.19,
+    "end": 1323.234,
+    "text": "How's it going?"
+  },
+  {
+    "line_number": 466,
+    "start": 1323.278,
+    "end": 1324.714,
+    "text": "Ahh."
+  },
+  {
+    "line_number": 467,
+    "start": 1324.758,
+    "end": 1326.455,
+    "text": "I can't imagine Owen Hunt"
+  },
+  {
+    "line_number": 468,
+    "start": 1326.499,
+    "end": 1328.588,
+    "text": "unable to stand over an operating table."
+  },
+  {
+    "line_number": 469,
+    "start": 1328.631,
+    "end": 1331.025,
+    "text": "Is that where we are?"
+  },
+  {
+    "line_number": 470,
+    "start": 1331.068,
+    "end": 1333.07,
+    "text": "Eh, I don't know. It's slow going."
+  },
+  {
+    "line_number": 471,
+    "start": 1335.464,
+    "end": 1336.944,
+    "text": "Heard about Schmitt?"
+  },
+  {
+    "line_number": 472,
+    "start": 1336.987,
+    "end": 1338.598,
+    "text": "No."
+  },
+  {
+    "line_number": 473,
+    "start": 1338.641,
+    "end": 1340.513,
+    "text": "He had a tough loss."
+  },
+  {
+    "line_number": 474,
+    "start": 1340.556,
+    "end": 1342.863,
+    "text": "Young guy in his 20s."
+  },
+  {
+    "line_number": 475,
+    "start": 1342.906,
+    "end": 1345.387,
+    "text": "He bled out in Schmitt's OR."
+  },
+  {
+    "line_number": 476,
+    "start": 1345.431,
+    "end": 1348.869,
+    "text": "And I should be comforting him, but I am just so angry"
+  },
+  {
+    "line_number": 477,
+    "start": 1348.912,
+    "end": 1352.133,
+    "text": "because he was at the anastomosis with the stapler"
+  },
+  {
+    "line_number": 478,
+    "start": 1352.176,
+    "end": 1354.875,
+    "text": "and he didn't wait for the attending.Oh."
+  },
+  {
+    "line_number": 479,
+    "start": 1354.918,
+    "end": 1356.572,
+    "text": "Put too much traction on the IMA,"
+  },
+  {
+    "line_number": 480,
+    "start": 1356.616,
+    "end": 1358.182,
+    "text": "and it avulsed at the aorta."
+  },
+  {
+    "line_number": 481,
+    "start": 1358.226,
+    "end": 1361.621,
+    "text": "Just hubris. Just...pure and simple."
+  },
+  {
+    "line_number": 482,
+    "start": 1361.664,
+    "end": 1363.405,
+    "text": "I wouldn't have waited."
+  },
+  {
+    "line_number": 483,
+    "start": 1363.449,
+    "end": 1366.452,
+    "text": "If you had been teaching this way when I started, I..."
+  },
+  {
+    "line_number": 484,
+    "start": 1366.495,
+    "end": 1368.41,
+    "text": "would have been drunk on it."
+  },
+  {
+    "line_number": 485,
+    "start": 1368.454,
+    "end": 1370.281,
+    "text": "Cristina wouldn't have waited. Alex wouldn't have waited."
+  },
+  {
+    "line_number": 486,
+    "start": 1370.325,
+    "end": 1372.283,
+    "text": "O-Okay. I got it. Thanks."
+  },
+  {
+    "line_number": 487,
+    "start": 1372.327,
+    "end": 1373.894,
+    "text": "I'm just saying --"
+  },
+  {
+    "line_number": 488,
+    "start": 1373.937,
+    "end": 1375.678,
+    "text": "No, you're saying that Bailey was right."
+  },
+  {
+    "line_number": 489,
+    "start": 1375.722,
+    "end": 1378.028,
+    "text": "You're saying we should kill the Webber Method completely."
+  },
+  {
+    "line_number": 490,
+    "start": 1378.072,
+    "end": 1380.161,
+    "text": "No, that's not what I'm saying."
+  },
+  {
+    "line_number": 491,
+    "start": 1380.204,
+    "end": 1382.772,
+    "text": "I'm..."
+  },
+  {
+    "line_number": 492,
+    "start": 1382.816,
+    "end": 1386.428,
+    "text": "I am just saying that I am..."
+  },
+  {
+    "line_number": 493,
+    "start": 1386.472,
+    "end": 1388.082,
+    "text": "sorry for Schmitt."
+  },
+  {
+    "line_number": 494,
+    "start": 1388.125,
+    "end": 1391.477,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 495,
+    "start": 1391.52,
+    "end": 1394.871,
+    "text": "Exposing the endplate. Drill, please."
+  },
+  {
+    "line_number": 496,
+    "start": 1394.915,
+    "end": 1397.352,
+    "text": "Hold the drill for a second. Nico's checking his anastomosis."
+  },
+  {
+    "line_number": 497,
+    "start": 1397.396,
+    "end": 1398.788,
+    "text": "Tell me when."
+  },
+  {
+    "line_number": 498,
+    "start": 1402.705,
+    "end": 1405.055,
+    "text": "Strong signal. The primary repair worked."
+  },
+  {
+    "line_number": 499,
+    "start": 1405.099,
+    "end": 1407.318,
+    "text": "I'm not seeing any other neuro-vascular issues."
+  },
+  {
+    "line_number": 500,
+    "start": 1407.362,
+    "end": 1408.407,
+    "text": "More irrigation, please."
+  },
+  {
+    "line_number": 501,
+    "start": 1408.45,
+    "end": 1410.452,
+    "text": "Shepherd, go ahead."
+  },
+  {
+    "line_number": 502,
+    "start": 1426.207,
+    "end": 1428.514,
+    "text": "Can we clear the gallery, please?"
+  },
+  {
+    "line_number": 503,
+    "start": 1428.557,
+    "end": 1430.124,
+    "text": "What? I need to focus."
+  },
+  {
+    "line_number": 504,
+    "start": 1430.167,
+    "end": 1433.693,
+    "text": "And I -- I'm asking to clear the gallery."
+  },
+  {
+    "line_number": 505,
+    "start": 1435.738,
+    "end": 1437.74,
+    "text": "Can we clear the gallery, please?!"
+  },
+  {
+    "line_number": 506,
+    "start": 1443.05,
+    "end": 1447.097,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 507,
+    "start": 1447.141,
+    "end": 1448.447,
+    "text": "Rongeur."
+  },
+  {
+    "line_number": 508,
+    "start": 1448.49,
+    "end": 1450.013,
+    "text": "Now to clean some of this dead tissue."
+  },
+  {
+    "line_number": 509,
+    "start": 1450.057,
+    "end": 1451.58,
+    "text": "Nice work, Nico. Now I need you to --"
+  },
+  {
+    "line_number": 510,
+    "start": 1451.624,
+    "end": 1452.929,
+    "text": "Debride and then do a wet-to-dry dressing."
+  },
+  {
+    "line_number": 511,
+    "start": 1452.973,
+    "end": 1453.974,
+    "text": "I got it."
+  },
+  {
+    "line_number": 512,
+    "start": 1454.931,
+    "end": 1457.238,
+    "text": "Owen, we are almost done."
+  },
+  {
+    "line_number": 513,
+    "start": 1457.281,
+    "end": 1461.155,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 514,
+    "start": 1461.198,
+    "end": 1463.679,
+    "text": "Nurse Kaiser to the OR."
+  },
+  {
+    "line_number": 515,
+    "start": 1463.723,
+    "end": 1466.16,
+    "text": "Nurse Kaiser to the OR."
+  },
+  {
+    "line_number": 516,
+    "start": 1466.203,
+    "end": 1467.727,
+    "text": "- Oh! Sorry! - Whoa. Whoa. You okay?"
+  },
+  {
+    "line_number": 517,
+    "start": 1467.77,
+    "end": 1470.12,
+    "text": "Um, I need your help. It's Levi."
+  },
+  {
+    "line_number": 518,
+    "start": 1470.164,
+    "end": 1471.382,
+    "text": "Our friend needs our help."
+  },
+  {
+    "line_number": 519,
+    "start": 1477.214,
+    "end": 1479.695,
+    "text": "- Oh, my God. - Levi. It's been hours."
+  },
+  {
+    "line_number": 520,
+    "start": 1479.739,
+    "end": 1481.088,
+    "text": "You have to stop."
+  },
+  {
+    "line_number": 521,
+    "start": 1482.524,
+    "end": 1485.875,
+    "text": "Uh...Schmitt."
+  },
+  {
+    "line_number": 522,
+    "start": 1485.919,
+    "end": 1489.705,
+    "text": "I heard what happened, man, and I've been there."
+  },
+  {
+    "line_number": 523,
+    "start": 1489.749,
+    "end": 1491.446,
+    "text": "The first patient I lost, I went running."
+  },
+  {
+    "line_number": 524,
+    "start": 1491.49,
+    "end": 1493.056,
+    "text": "I went running for five hours"
+  },
+  {
+    "line_number": 525,
+    "start": 1493.1,
+    "end": 1494.449,
+    "text": "until my legs gave out and my friends found me"
+  },
+  {
+    "line_number": 526,
+    "start": 1494.493,
+    "end": 1497.017,
+    "text": "collapsed on the side of the street, unable to move."
+  },
+  {
+    "line_number": 527,
+    "start": 1497.06,
+    "end": 1498.888,
+    "text": "I get it. I know how you feel."
+  },
+  {
+    "line_number": 528,
+    "start": 1498.932,
+    "end": 1501.456,
+    "text": "But you have to stop, okay?"
+  },
+  {
+    "line_number": 529,
+    "start": 1505.634,
+    "end": 1507.593,
+    "text": "Um, listen."
+  },
+  {
+    "line_number": 530,
+    "start": 1507.636,
+    "end": 1509.42,
+    "text": "Step back."
+  },
+  {
+    "line_number": 531,
+    "start": 1509.464,
+    "end": 1512.511,
+    "text": "Look, um... It's gonna be okay."
+  },
+  {
+    "line_number": 532,
+    "start": 1512.554,
+    "end": 1514.208,
+    "text": "You have to step back, though."
+  },
+  {
+    "line_number": 533,
+    "start": 1514.251,
+    "end": 1516.253,
+    "text": "And the water will turn off."
+  },
+  {
+    "line_number": 534,
+    "start": 1516.297,
+    "end": 1517.864,
+    "text": "Just step back."
+  },
+  {
+    "line_number": 535,
+    "start": 1517.907,
+    "end": 1519.3,
+    "text": "I've got you, buddy. It's alright."
+  },
+  {
+    "line_number": 536,
+    "start": 1519.343,
+    "end": 1520.562,
+    "text": "- No! - It's alright. It's alright."
+  },
+  {
+    "line_number": 537,
+    "start": 1520.606,
+    "end": 1522.651,
+    "text": "- Levi. - It's alright."
+  },
+  {
+    "line_number": 538,
+    "start": 1522.695,
+    "end": 1523.783,
+    "text": "- Watch out! - It's alright. It's alright."
+  },
+  {
+    "line_number": 539,
+    "start": 1523.826,
+    "end": 1525.175,
+    "text": "Levi."
+  },
+  {
+    "line_number": 540,
+    "start": 1525.219,
+    "end": 1526.655,
+    "text": "It's okay. Alright."
+  },
+  {
+    "line_number": 541,
+    "start": 1526.699,
+    "end": 1528.614,
+    "text": "- It's okay, Levi. - You're okay. You're okay."
+  },
+  {
+    "line_number": 542,
+    "start": 1528.657,
+    "end": 1530.05,
+    "text": "- It's alright. - You're okay."
+  },
+  {
+    "line_number": 543,
+    "start": 1530.093,
+    "end": 1531.138,
+    "text": "- It's okay. - Let him up."
+  },
+  {
+    "line_number": 544,
+    "start": 1531.181,
+    "end": 1532.487,
+    "text": "It's okay."
+  },
+  {
+    "line_number": 545,
+    "start": 1547.763,
+    "end": 1549.025,
+    "text": "I'll get him up to the ICU."
+  },
+  {
+    "line_number": 546,
+    "start": 1549.069,
+    "end": 1550.549,
+    "text": "When do you want the first post-op labs?"
+  },
+  {
+    "line_number": 547,
+    "start": 1550.592,
+    "end": 1552.159,
+    "text": "As soon as he arrives."
+  },
+  {
+    "line_number": 548,
+    "start": 1552.202,
+    "end": 1553.595,
+    "text": "And I want them doing regular neuro-vascular checks."
+  },
+  {
+    "line_number": 549,
+    "start": 1553.639,
+    "end": 1555.292,
+    "text": "Got it."
+  },
+  {
+    "line_number": 550,
+    "start": 1555.336,
+    "end": 1557.251,
+    "text": "Dr. Rymock to the Psych Unit."
+  },
+  {
+    "line_number": 551,
+    "start": 1557.294,
+    "end": 1559.035,
+    "text": "Dr. Rymock, call the Psych Unit."
+  },
+  {
+    "line_number": 552,
+    "start": 1560.733,
+    "end": 1562.517,
+    "text": "You spent the day punishing me"
+  },
+  {
+    "line_number": 553,
+    "start": 1562.561,
+    "end": 1564.388,
+    "text": "because you saw me kissing someone else?"
+  },
+  {
+    "line_number": 554,
+    "start": 1564.432,
+    "end": 1566.913,
+    "text": "You brought all of that -- all of that into Owen's surgery."
+  },
+  {
+    "line_number": 555,
+    "start": 1566.956,
+    "end": 1569.132,
+    "text": "You don't think maybe a conversation"
+  },
+  {
+    "line_number": 556,
+    "start": 1569.176,
+    "end": 1570.743,
+    "text": "before we're cutting into someone I love?"
+  },
+  {
+    "line_number": 557,
+    "start": 1570.786,
+    "end": 1573.615,
+    "text": "Are you kidding me? You think you get to be upset?"
+  },
+  {
+    "line_number": 558,
+    "start": 1573.659,
+    "end": 1575.182,
+    "text": "Are you serious?!"
+  },
+  {
+    "line_number": 559,
+    "start": 1575.225,
+    "end": 1577.967,
+    "text": "I'm over here pining for you, Amelia,"
+  },
+  {
+    "line_number": 560,
+    "start": 1578.011,
+    "end": 1580.622,
+    "text": "head-over-heels, can't-think-straight pining,"
+  },
+  {
+    "line_number": 561,
+    "start": 1580.666,
+    "end": 1581.971,
+    "text": "because you told me you loved me."
+  },
+  {
+    "line_number": 562,
+    "start": 1582.015,
+    "end": 1584.713,
+    "text": "You told me over and over and over."
+  },
+  {
+    "line_number": 563,
+    "start": 1584.757,
+    "end": 1585.888,
+    "text": "We were building a life together,"
+  },
+  {
+    "line_number": 564,
+    "start": 1585.932,
+    "end": 1587.89,
+    "text": "and suddenly, you say, \"No, thanks.\""
+  },
+  {
+    "line_number": 565,
+    "start": 1587.934,
+    "end": 1590.153,
+    "text": "And while I'm torturing myself trying to convince myself"
+  },
+  {
+    "line_number": 566,
+    "start": 1590.197,
+    "end": 1591.981,
+    "text": "that I don't need to be married, I just need you."
+  },
+  {
+    "line_number": 567,
+    "start": 1592.025,
+    "end": 1594.897,
+    "text": "Since when? Since now. Since today."
+  },
+  {
+    "line_number": 568,
+    "start": 1594.941,
+    "end": 1597.813,
+    "text": "And I came to tell you this, but instead, I find you"
+  },
+  {
+    "line_number": 569,
+    "start": 1597.857,
+    "end": 1601.164,
+    "text": "kissing someone else in the hospital where I work!"
+  },
+  {
+    "line_number": 570,
+    "start": 1603.21,
+    "end": 1605.342,
+    "text": "You -- You just moved on."
+  },
+  {
+    "line_number": 571,
+    "start": 1605.386,
+    "end": 1607.17,
+    "text": "You just -- You just moved on"
+  },
+  {
+    "line_number": 572,
+    "start": 1607.214,
+    "end": 1608.65,
+    "text": "like the last year and a half didn't matter."
+  },
+  {
+    "line_number": 573,
+    "start": 1608.694,
+    "end": 1610.521,
+    "text": "Okay. I am not a person who just moves on."
+  },
+  {
+    "line_number": 574,
+    "start": 1610.565,
+    "end": 1612.654,
+    "text": "I had to think and process"
+  },
+  {
+    "line_number": 575,
+    "start": 1612.698,
+    "end": 1614.308,
+    "text": "and go through every scenario in my head"
+  },
+  {
+    "line_number": 576,
+    "start": 1614.351,
+    "end": 1616.527,
+    "text": "and every feeling in my body, and it was exhausting."
+  },
+  {
+    "line_number": 577,
+    "start": 1616.571,
+    "end": 1618.529,
+    "text": "And you know that I spent a year in A.A. meetings"
+  },
+  {
+    "line_number": 578,
+    "start": 1618.573,
+    "end": 1620.14,
+    "text": "trying to figure out what I needed,"
+  },
+  {
+    "line_number": 579,
+    "start": 1620.183,
+    "end": 1623.796,
+    "text": "and you did not want to hear that I was losing myself"
+  },
+  {
+    "line_number": 580,
+    "start": 1623.839,
+    "end": 1628.627,
+    "text": "in something that I did not -- that I could not want."
+  },
+  {
+    "line_number": 581,
+    "start": 1628.67,
+    "end": 1632.892,
+    "text": "You demanded that I marry you,"
+  },
+  {
+    "line_number": 582,
+    "start": 1632.935,
+    "end": 1634.589,
+    "text": "and now once again, you want to gaslight me"
+  },
+  {
+    "line_number": 583,
+    "start": 1634.633,
+    "end": 1636.765,
+    "text": "into thinking that I played you?"
+  },
+  {
+    "line_number": 584,
+    "start": 1641.248,
+    "end": 1645.208,
+    "text": "You keep using that word -- \"gaslight.\""
+  },
+  {
+    "line_number": 585,
+    "start": 1645.252,
+    "end": 1647.384,
+    "text": "That's when you pretend that someone else's experience,"
+  },
+  {
+    "line_number": 586,
+    "start": 1647.428,
+    "end": 1650.561,
+    "text": "their -- their, uh, reality isn't real, right?"
+  },
+  {
+    "line_number": 587,
+    "start": 1650.605,
+    "end": 1651.911,
+    "text": "Like when you pretend that"
+  },
+  {
+    "line_number": 588,
+    "start": 1651.954,
+    "end": 1654.391,
+    "text": "we didn't make an amazing baby together,"
+  },
+  {
+    "line_number": 589,
+    "start": 1654.435,
+    "end": 1657.83,
+    "text": "raise four kids, or love each other really damn well."
+  },
+  {
+    "line_number": 590,
+    "start": 1659.745,
+    "end": 1661.398,
+    "text": "When you pretend that we weren't in love"
+  },
+  {
+    "line_number": 591,
+    "start": 1661.442,
+    "end": 1664.445,
+    "text": "because you're ready to move on with some random woman."
+  },
+  {
+    "line_number": 592,
+    "start": 1664.488,
+    "end": 1666.36,
+    "text": "They're non-binary."
+  },
+  {
+    "line_number": 593,
+    "start": 1666.403,
+    "end": 1669.189,
+    "text": "Oh. Okay. T-That makes it better."
+  },
+  {
+    "line_number": 594,
+    "start": 1675.325,
+    "end": 1677.414,
+    "text": "Congratulations."
+  },
+  {
+    "line_number": 595,
+    "start": 1677.458,
+    "end": 1679.329,
+    "text": "I hope you're really happy."
+  },
+  {
+    "line_number": 596,
+    "start": 1679.373,
+    "end": 1687.686,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 597,
+    "start": 1687.729,
+    "end": 1689.078,
+    "text": "Okay, everyone."
+  },
+  {
+    "line_number": 598,
+    "start": 1689.122,
+    "end": 1690.645,
+    "text": "We're gonna try to get this heart going."
+  },
+  {
+    "line_number": 599,
+    "start": 1690.689,
+    "end": 1691.82,
+    "text": "If it doesn't beat, I need everybody ready"
+  },
+  {
+    "line_number": 600,
+    "start": 1691.864,
+    "end": 1693.169,
+    "text": "to go back on bypass."
+  },
+  {
+    "line_number": 601,
+    "start": 1696.782,
+    "end": 1698.784,
+    "text": "Okay. Taking off clamp."
+  },
+  {
+    "line_number": 602,
+    "start": 1698.827,
+    "end": 1704.224,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 603,
+    "start": 1704.267,
+    "end": 1709.838,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 604,
+    "start": 1709.882,
+    "end": 1711.231,
+    "text": "Here we go."
+  },
+  {
+    "line_number": 605,
+    "start": 1711.274,
+    "end": 1717.193,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 606,
+    "start": 1717.237,
+    "end": 1723.46,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 607,
+    "start": 1723.504,
+    "end": 1725.158,
+    "text": "♪ I hear..."
+  },
+  {
+    "line_number": 608,
+    "start": 1725.201,
+    "end": 1727.464,
+    "text": "You're gonna go home, and you're gonna sleep"
+  },
+  {
+    "line_number": 609,
+    "start": 1727.508,
+    "end": 1730.859,
+    "text": "and hydrate and eat if you can and cry if you can,"
+  },
+  {
+    "line_number": 610,
+    "start": 1730.903,
+    "end": 1732.339,
+    "text": "and, little by little,"
+  },
+  {
+    "line_number": 611,
+    "start": 1732.382,
+    "end": 1733.906,
+    "text": "you will feel like you can breathe again."
+  },
+  {
+    "line_number": 612,
+    "start": 1735.777,
+    "end": 1737.997,
+    "text": "I have to take this. Don't wrap it too tight."
+  },
+  {
+    "line_number": 613,
+    "start": 1738.04,
+    "end": 1739.694,
+    "text": "Hey. Don't leave him alone."
+  },
+  {
+    "line_number": 614,
+    "start": 1739.738,
+    "end": 1741.0,
+    "text": "Call me if you need me. Yeah."
+  },
+  {
+    "line_number": 615,
+    "start": 1741.043,
+    "end": 1743.916,
+    "text": "♪ In the air"
+  },
+  {
+    "line_number": 616,
+    "start": 1743.959,
+    "end": 1746.701,
+    "text": "What happened? You okay?"
+  },
+  {
+    "line_number": 617,
+    "start": 1746.745,
+    "end": 1748.877,
+    "text": "♪ Nothing is clear"
+  },
+  {
+    "line_number": 618,
+    "start": 1748.921,
+    "end": 1751.662,
+    "text": "Hey. What happened to him?"
+  },
+  {
+    "line_number": 619,
+    "start": 1751.706,
+    "end": 1755.014,
+    "text": "Levi? What -- What is going on here?"
+  },
+  {
+    "line_number": 620,
+    "start": 1755.057,
+    "end": 1757.712,
+    "text": "- Let's, um... - Yeah, yeah. I got it."
+  },
+  {
+    "line_number": 621,
+    "start": 1757.756,
+    "end": 1759.627,
+    "text": "♪ Ahh-ahh"
+  },
+  {
+    "line_number": 622,
+    "start": 1759.67,
+    "end": 1761.542,
+    "text": "Let's take a walk, Nico."
+  },
+  {
+    "line_number": 623,
+    "start": 1761.585,
+    "end": 1763.849,
+    "text": "Yeah?"
+  },
+  {
+    "line_number": 624,
+    "start": 1763.892,
+    "end": 1765.589,
+    "text": "♪ These secrets sound like sirens ♪"
+  },
+  {
+    "line_number": 625,
+    "start": 1765.633,
+    "end": 1766.895,
+    "text": "What's going on?"
+  },
+  {
+    "line_number": 626,
+    "start": 1766.939,
+    "end": 1770.769,
+    "text": "Alright, man. We are done here."
+  },
+  {
+    "line_number": 627,
+    "start": 1770.812,
+    "end": 1772.118,
+    "text": "Everything's gonna be alright."
+  },
+  {
+    "line_number": 628,
+    "start": 1772.161,
+    "end": 1773.597,
+    "text": "♪ Sound like sirens"
+  },
+  {
+    "line_number": 629,
+    "start": 1773.641,
+    "end": 1776.383,
+    "text": "♪ But they never come"
+  },
+  {
+    "line_number": 630,
+    "start": 1776.426,
+    "end": 1780.082,
+    "text": "♪ Ahhh"
+  },
+  {
+    "line_number": 631,
+    "start": 1780.126,
+    "end": 1782.868,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 632,
+    "start": 1782.911,
+    "end": 1786.088,
+    "text": "♪ Ahhhh"
+  },
+  {
+    "line_number": 633,
+    "start": 1786.132,
+    "end": 1791.137,
+    "text": "♪ Stand on edges where fear is proud ♪"
+  },
+  {
+    "line_number": 634,
+    "start": 1792.834,
+    "end": 1796.359,
+    "text": "♪ They don't like to be found"
+  },
+  {
+    "line_number": 635,
+    "start": 1796.403,
+    "end": 1799.406,
+    "text": "His heart is beating, and it's beating well, Megan."
+  },
+  {
+    "line_number": 636,
+    "start": 1799.449,
+    "end": 1804.367,
+    "text": "♪ Shadows flee in the blackest night ♪"
+  },
+  {
+    "line_number": 637,
+    "start": 1806.63,
+    "end": 1809.808,
+    "text": "♪ Without me they won't survive ♪"
+  },
+  {
+    "line_number": 638,
+    "start": 1811.418,
+    "end": 1812.941,
+    "text": "♪ Ahhhh"
+  },
+  {
+    "line_number": 639,
+    "start": 1814.551,
+    "end": 1816.249,
+    "text": "Thank you. Thank you. Thank you."
+  },
+  {
+    "line_number": 640,
+    "start": 1817.206,
+    "end": 1818.294,
+    "text": "Thank you."
+  },
+  {
+    "line_number": 641,
+    "start": 1818.338,
+    "end": 1820.819,
+    "text": "♪ Ahhhh"
+  },
+  {
+    "line_number": 642,
+    "start": 1822.168,
+    "end": 1825.606,
+    "text": "Dr. Ndugu made sure the graft was perfect,"
+  },
+  {
+    "line_number": 643,
+    "start": 1825.649,
+    "end": 1826.694,
+    "text": "and he'll be up any minute."
+  },
+  {
+    "line_number": 644,
+    "start": 1828.0,
+    "end": 1829.784,
+    "text": "What -- What about, uh, Owen?"
+  },
+  {
+    "line_number": 645,
+    "start": 1829.828,
+    "end": 1831.83,
+    "text": "Is he out of surgery yet or...?"
+  },
+  {
+    "line_number": 646,
+    "start": 1831.873,
+    "end": 1834.528,
+    "text": "We will get an update to you as soon as we can."
+  },
+  {
+    "line_number": 647,
+    "start": 1834.571,
+    "end": 1837.966,
+    "text": "Right now, I just want you to take this in."
+  },
+  {
+    "line_number": 648,
+    "start": 1838.01,
+    "end": 1839.925,
+    "text": "Farouk's heart is beating in his chest."
+  },
+  {
+    "line_number": 649,
+    "start": 1839.968,
+    "end": 1841.97,
+    "text": "He's okay."
+  },
+  {
+    "line_number": 650,
+    "start": 1842.014,
+    "end": 1845.756,
+    "text": "And it's okay to -- to take in the miracle."
+  },
+  {
+    "line_number": 651,
+    "start": 1845.8,
+    "end": 1847.889,
+    "text": "♪ These secrets sound like sirens ♪"
+  },
+  {
+    "line_number": 652,
+    "start": 1847.933,
+    "end": 1850.979,
+    "text": "♪ But they never come"
+  },
+  {
+    "line_number": 653,
+    "start": 1851.023,
+    "end": 1857.725,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 654,
+    "start": 1857.768,
+    "end": 1864.471,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 655,
+    "start": 1864.514,
+    "end": 1871.26,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 656,
+    "start": 1871.304,
+    "end": 1878.093,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 657,
+    "start": 1886.232,
+    "end": 1887.886,
+    "text": "Dr. Bailey, can I have a word?"
+  },
+  {
+    "line_number": 658,
+    "start": 1887.929,
+    "end": 1891.106,
+    "text": "Yeah, just let me -- Oh, your head."
+  },
+  {
+    "line_number": 659,
+    "start": 1891.15,
+    "end": 1895.197,
+    "text": "Uh, any update on the Hunt family?"
+  },
+  {
+    "line_number": 660,
+    "start": 1895.241,
+    "end": 1897.591,
+    "text": "Farouk's heart transplant was a success."
+  },
+  {
+    "line_number": 661,
+    "start": 1897.634,
+    "end": 1899.636,
+    "text": "Oh. And Owen?"
+  },
+  {
+    "line_number": 662,
+    "start": 1899.68,
+    "end": 1902.683,
+    "text": "I, uh... I haven't heard."
+  },
+  {
+    "line_number": 663,
+    "start": 1902.726,
+    "end": 1905.077,
+    "text": "Well, I need him to be okay."
+  },
+  {
+    "line_number": 664,
+    "start": 1905.12,
+    "end": 1908.776,
+    "text": "That family has been through so much."
+  },
+  {
+    "line_number": 665,
+    "start": 1908.819,
+    "end": 1911.213,
+    "text": "They've lived lives of service."
+  },
+  {
+    "line_number": 666,
+    "start": 1911.257,
+    "end": 1914.173,
+    "text": "The mother was an Army nurse. Did you know that?"
+  },
+  {
+    "line_number": 667,
+    "start": 1914.216,
+    "end": 1916.827,
+    "text": "No. Whole military family."
+  },
+  {
+    "line_number": 668,
+    "start": 1916.871,
+    "end": 1921.093,
+    "text": "Owen Hunt is one of the best men I know."
+  },
+  {
+    "line_number": 669,
+    "start": 1921.136,
+    "end": 1925.314,
+    "text": "He cares and he fights and he..."
+  },
+  {
+    "line_number": 670,
+    "start": 1925.358,
+    "end": 1927.316,
+    "text": "He's gonna be okay."
+  },
+  {
+    "line_number": 671,
+    "start": 1927.36,
+    "end": 1929.971,
+    "text": "I'm just gonna decide that right now."
+  },
+  {
+    "line_number": 672,
+    "start": 1930.015,
+    "end": 1932.974,
+    "text": "Owen Hunt is gonna be okay! You hear me?"
+  },
+  {
+    "line_number": 673,
+    "start": 1933.018,
+    "end": 1935.063,
+    "text": "Oh, this day. Did you hear about Schmitt?"
+  },
+  {
+    "line_number": 674,
+    "start": 1935.107,
+    "end": 1937.109,
+    "text": "Dr. Bailey."
+  },
+  {
+    "line_number": 675,
+    "start": 1937.152,
+    "end": 1938.458,
+    "text": "I have to give you my notice."
+  },
+  {
+    "line_number": 676,
+    "start": 1938.501,
+    "end": 1939.85,
+    "text": "What? I'm sorry."
+  },
+  {
+    "line_number": 677,
+    "start": 1941.287,
+    "end": 1942.636,
+    "text": "My kids, they're not thriving here."
+  },
+  {
+    "line_number": 678,
+    "start": 1942.679,
+    "end": 1944.116,
+    "text": "They're not happy."
+  },
+  {
+    "line_number": 679,
+    "start": 1944.159,
+    "end": 1945.073,
+    "text": "We have to go."
+  },
+  {
+    "line_number": 680,
+    "start": 1946.161,
+    "end": 1947.858,
+    "text": "W-Where?"
+  },
+  {
+    "line_number": 681,
+    "start": 1947.902,
+    "end": 1949.208,
+    "text": "Back to Ireland."
+  },
+  {
+    "line_number": 682,
+    "start": 1950.513,
+    "end": 1952.428,
+    "text": "O-kay."
+  },
+  {
+    "line_number": 683,
+    "start": 1952.472,
+    "end": 1955.388,
+    "text": "I...I..."
+  },
+  {
+    "line_number": 684,
+    "start": 1955.431,
+    "end": 1958.347,
+    "text": "I d-- I don't suppose there's anything I can...do"
+  },
+  {
+    "line_number": 685,
+    "start": 1958.391,
+    "end": 1962.351,
+    "text": "to convince you to stay?"
+  },
+  {
+    "line_number": 686,
+    "start": 1962.395,
+    "end": 1963.962,
+    "text": "Support for the boys."
+  },
+  {
+    "line_number": 687,
+    "start": 1964.005,
+    "end": 1966.355,
+    "text": "No. I'm sorry. The decision's been made."
+  },
+  {
+    "line_number": 688,
+    "start": 1968.488,
+    "end": 1972.057,
+    "text": "Um, my -- hmm..."
+  },
+  {
+    "line_number": 689,
+    "start": 1972.1,
+    "end": 1975.147,
+    "text": "...head of trauma is still in surgery"
+  },
+  {
+    "line_number": 690,
+    "start": 1975.19,
+    "end": 1978.498,
+    "text": "and could need months of recovery,"
+  },
+  {
+    "line_number": 691,
+    "start": 1978.541,
+    "end": 1982.154,
+    "text": "uh, so can you at least give me until he's well?"
+  },
+  {
+    "line_number": 692,
+    "start": 1982.197,
+    "end": 1984.895,
+    "text": "I mean, at this rate, I'm hemorrhaging surgeons."
+  },
+  {
+    "line_number": 693,
+    "start": 1984.939,
+    "end": 1986.506,
+    "text": "I just can't."
+  },
+  {
+    "line_number": 694,
+    "start": 1989.161,
+    "end": 1991.772,
+    "text": "I truly am sorry."
+  },
+  {
+    "line_number": 695,
+    "start": 1991.815,
+    "end": 1993.687,
+    "text": "I've loved my time here."
+  },
+  {
+    "line_number": 696,
+    "start": 1996.516,
+    "end": 1998.822,
+    "text": "But I got to do what's best for my family."
+  },
+  {
+    "line_number": 697,
+    "start": 2000.389,
+    "end": 2002.565,
+    "text": "I'll hand off my cases."
+  },
+  {
+    "line_number": 698,
+    "start": 2002.609,
+    "end": 2004.611,
+    "text": "This will be my last shift."
+  },
+  {
+    "line_number": 699,
+    "start": 2008.18,
+    "end": 2009.746,
+    "text": "I'm sorry."
+  },
+  {
+    "line_number": 700,
+    "start": 2009.79,
+    "end": 2019.365,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 701,
+    "start": 2019.408,
+    "end": 2029.07,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 702,
+    "start": 2037.557,
+    "end": 2040.255,
+    "text": "So, are we celebrating with drinks at Joe's"
+  },
+  {
+    "line_number": 703,
+    "start": 2040.299,
+    "end": 2041.778,
+    "text": "or pajamas in bed?"
+  },
+  {
+    "line_number": 704,
+    "start": 2043.171,
+    "end": 2044.433,
+    "text": "Grey-Sloan Memorial. How can I..."
+  },
+  {
+    "line_number": 705,
+    "start": 2044.477,
+    "end": 2046.174,
+    "text": "What -- What was that look for?"
+  },
+  {
+    "line_number": 706,
+    "start": 2049.482,
+    "end": 2051.179,
+    "text": "\"Take in the miracle.\""
+  },
+  {
+    "line_number": 707,
+    "start": 2053.094,
+    "end": 2055.662,
+    "text": "You're a person who takes in miracles."
+  },
+  {
+    "line_number": 708,
+    "start": 2055.705,
+    "end": 2057.142,
+    "text": "I didn't know that about you."
+  },
+  {
+    "line_number": 709,
+    "start": 2057.185,
+    "end": 2058.534,
+    "text": "What, you don't?"
+  },
+  {
+    "line_number": 710,
+    "start": 2058.578,
+    "end": 2061.624,
+    "text": "I take in science, data, reason..."
+  },
+  {
+    "line_number": 711,
+    "start": 2061.668,
+    "end": 2062.886,
+    "text": "calculated risk."
+  },
+  {
+    "line_number": 712,
+    "start": 2062.93,
+    "end": 2064.627,
+    "text": "And today, you jumped in"
+  },
+  {
+    "line_number": 713,
+    "start": 2064.671,
+    "end": 2067.108,
+    "text": "and had my back when I decided to leap."
+  },
+  {
+    "line_number": 714,
+    "start": 2067.152,
+    "end": 2070.372,
+    "text": "You were right there -- every stitch, every move."
+  },
+  {
+    "line_number": 715,
+    "start": 2070.416,
+    "end": 2071.634,
+    "text": "Meaning?"
+  },
+  {
+    "line_number": 716,
+    "start": 2071.678,
+    "end": 2074.594,
+    "text": "Meaning we both showed up."
+  },
+  {
+    "line_number": 717,
+    "start": 2074.637,
+    "end": 2076.422,
+    "text": "We were a team."
+  },
+  {
+    "line_number": 718,
+    "start": 2076.465,
+    "end": 2079.425,
+    "text": "Owen and Teddy and Hayes, they're alive,"
+  },
+  {
+    "line_number": 719,
+    "start": 2079.468,
+    "end": 2081.731,
+    "text": "and they kept that heart alive."
+  },
+  {
+    "line_number": 720,
+    "start": 2081.775,
+    "end": 2084.212,
+    "text": "The two of us, we were a team."
+  },
+  {
+    "line_number": 721,
+    "start": 2084.256,
+    "end": 2086.084,
+    "text": "We gave that boy a heart."
+  },
+  {
+    "line_number": 722,
+    "start": 2086.127,
+    "end": 2088.216,
+    "text": "So call it a miracle --"
+  },
+  {
+    "line_number": 723,
+    "start": 2088.26,
+    "end": 2091.48,
+    "text": "Or skill, precision, hard work."
+  },
+  {
+    "line_number": 724,
+    "start": 2091.524,
+    "end": 2092.96,
+    "text": "Okay. Either way."
+  },
+  {
+    "line_number": 725,
+    "start": 2093.003,
+    "end": 2095.919,
+    "text": "That boy's brand-new heart is beating in his chest."
+  },
+  {
+    "line_number": 726,
+    "start": 2097.965,
+    "end": 2100.185,
+    "text": "His heart is beating in his chest."
+  },
+  {
+    "line_number": 727,
+    "start": 2101.664,
+    "end": 2103.101,
+    "text": "Hmm."
+  },
+  {
+    "line_number": 728,
+    "start": 2107.148,
+    "end": 2108.758,
+    "text": "Pajamas."
+  },
+  {
+    "line_number": 729,
+    "start": 2108.802,
+    "end": 2110.673,
+    "text": "We're definitely celebrating with pajamas."
+  },
+  {
+    "line_number": 730,
+    "start": 2117.376,
+    "end": 2119.421,
+    "text": "Meredith!"
+  },
+  {
+    "line_number": 731,
+    "start": 2119.465,
+    "end": 2122.207,
+    "text": "Hi. I thought you'd never get here."
+  },
+  {
+    "line_number": 732,
+    "start": 2122.25,
+    "end": 2124.339,
+    "text": "What do you mean? I'm right on time.I know."
+  },
+  {
+    "line_number": 733,
+    "start": 2124.383,
+    "end": 2125.906,
+    "text": "How you doing?"
+  },
+  {
+    "line_number": 734,
+    "start": 2125.949,
+    "end": 2127.299,
+    "text": "Bad day, huh? Yeah."
+  },
+  {
+    "line_number": 735,
+    "start": 2127.342,
+    "end": 2129.127,
+    "text": "What's up?"
+  },
+  {
+    "line_number": 736,
+    "start": 2129.17,
+    "end": 2130.954,
+    "text": "My friend got into a car accident."
+  },
+  {
+    "line_number": 737,
+    "start": 2130.998,
+    "end": 2132.608,
+    "text": "Oh, no. Yeah."
+  },
+  {
+    "line_number": 738,
+    "start": 2132.652,
+    "end": 2135.045,
+    "text": "My other friend quit."
+  },
+  {
+    "line_number": 739,
+    "start": 2135.089,
+    "end": 2136.612,
+    "text": "Oh, no."
+  },
+  {
+    "line_number": 740,
+    "start": 2136.656,
+    "end": 2138.832,
+    "text": "And then my favorite resident flamed out."
+  },
+  {
+    "line_number": 741,
+    "start": 2138.875,
+    "end": 2141.095,
+    "text": "Geez. This place really falls apart without you, doesn't it?"
+  },
+  {
+    "line_number": 742,
+    "start": 2142.749,
+    "end": 2144.533,
+    "text": "Well, I got us a reservation"
+  },
+  {
+    "line_number": 743,
+    "start": 2144.577,
+    "end": 2147.406,
+    "text": "at a nice restaurant not too far from here."
+  },
+  {
+    "line_number": 744,
+    "start": 2147.449,
+    "end": 2149.277,
+    "text": "I thought that might be your reaction,"
+  },
+  {
+    "line_number": 745,
+    "start": 2149.321,
+    "end": 2151.497,
+    "text": "so I also got a hotel with amazing room service."
+  },
+  {
+    "line_number": 746,
+    "start": 2151.54,
+    "end": 2153.325,
+    "text": "Yes, better."
+  },
+  {
+    "line_number": 747,
+    "start": 2153.368,
+    "end": 2155.37,
+    "text": "Much better."
+  },
+  {
+    "line_number": 748,
+    "start": 2159.983,
+    "end": 2161.246,
+    "text": "Hey."
+  },
+  {
+    "line_number": 749,
+    "start": 2161.289,
+    "end": 2163.117,
+    "text": "Hi."
+  },
+  {
+    "line_number": 750,
+    "start": 2163.161,
+    "end": 2164.597,
+    "text": "Fries?"
+  },
+  {
+    "line_number": 751,
+    "start": 2164.64,
+    "end": 2167.077,
+    "text": "Yeah. Please."
+  },
+  {
+    "line_number": 752,
+    "start": 2167.121,
+    "end": 2168.862,
+    "text": "♪ Strangely, there's nobody else around ♪"
+  },
+  {
+    "line_number": 753,
+    "start": 2168.905,
+    "end": 2170.516,
+    "text": "How did the surgery go?"
+  },
+  {
+    "line_number": 754,
+    "start": 2170.559,
+    "end": 2174.389,
+    "text": "Uh, well, the patient has a long road to recovery,"
+  },
+  {
+    "line_number": 755,
+    "start": 2174.433,
+    "end": 2177.436,
+    "text": "but he's alive and he's not paralyzed."
+  },
+  {
+    "line_number": 756,
+    "start": 2177.479,
+    "end": 2179.873,
+    "text": "And he is my ex-husband."
+  },
+  {
+    "line_number": 757,
+    "start": 2179.916,
+    "end": 2183.137,
+    "text": "And, uh, the surgeon who operated with me"
+  },
+  {
+    "line_number": 758,
+    "start": 2183.181,
+    "end": 2186.053,
+    "text": "is my son's father,"
+  },
+  {
+    "line_number": 759,
+    "start": 2186.096,
+    "end": 2190.666,
+    "text": "so, you know... family reunion. Got it."
+  },
+  {
+    "line_number": 760,
+    "start": 2192.059,
+    "end": 2193.8,
+    "text": "Oh. Got it."
+  },
+  {
+    "line_number": 761,
+    "start": 2193.843,
+    "end": 2196.455,
+    "text": "So he cleared the gallery because I came in?"
+  },
+  {
+    "line_number": 762,
+    "start": 2196.498,
+    "end": 2197.934,
+    "text": "He saw us kissing."
+  },
+  {
+    "line_number": 763,
+    "start": 2201.024,
+    "end": 2202.591,
+    "text": "My life, uh, is..."
+  },
+  {
+    "line_number": 764,
+    "start": 2206.029,
+    "end": 2207.161,
+    "text": "...messy."
+  },
+  {
+    "line_number": 765,
+    "start": 2208.51,
+    "end": 2210.251,
+    "text": "And I would totally understand"
+  },
+  {
+    "line_number": 766,
+    "start": 2210.295,
+    "end": 2212.645,
+    "text": "if you don't want anything to do with that mess."
+  },
+  {
+    "line_number": 767,
+    "start": 2212.688,
+    "end": 2214.56,
+    "text": "♪ Hear your voice"
+  },
+  {
+    "line_number": 768,
+    "start": 2217.127,
+    "end": 2221.393,
+    "text": "Tell me, is your type always hot, square-jawed men?"
+  },
+  {
+    "line_number": 769,
+    "start": 2221.436,
+    "end": 2223.612,
+    "text": "Lately, it appears my type"
+  },
+  {
+    "line_number": 770,
+    "start": 2223.656,
+    "end": 2226.615,
+    "text": "is hot, square-jawed you."
+  },
+  {
+    "line_number": 771,
+    "start": 2228.138,
+    "end": 2229.749,
+    "text": "Touché."
+  },
+  {
+    "line_number": 772,
+    "start": 2229.792,
+    "end": 2231.664,
+    "text": "What about you? Do you have a type?"
+  },
+  {
+    "line_number": 773,
+    "start": 2231.707,
+    "end": 2234.58,
+    "text": "No, but I'm sharing my fries. That's not a small thing."
+  },
+  {
+    "line_number": 774,
+    "start": 2239.019,
+    "end": 2242.022,
+    "text": "♪ I still see you"
+  },
+  {
+    "line_number": 775,
+    "start": 2244.024,
+    "end": 2247.462,
+    "text": "♪ The sunlight on your face in my rearview ♪"
+  },
+  {
+    "line_number": 776,
+    "start": 2247.506,
+    "end": 2248.42,
+    "text": "Is that your kid?"
+  },
+  {
+    "line_number": 777,
+    "start": 2248.463,
+    "end": 2249.856,
+    "text": "That's Scout."
+  },
+  {
+    "line_number": 778,
+    "start": 2249.899,
+    "end": 2251.64,
+    "text": "His dad sends a goodnight photo of him"
+  },
+  {
+    "line_number": 779,
+    "start": 2251.684,
+    "end": 2254.556,
+    "text": "every night that he has him."
+  },
+  {
+    "line_number": 780,
+    "start": 2254.6,
+    "end": 2256.384,
+    "text": "Even if we're fighting."
+  },
+  {
+    "line_number": 781,
+    "start": 2258.343,
+    "end": 2259.779,
+    "text": "He's a good man."
+  },
+  {
+    "line_number": 782,
+    "start": 2259.822,
+    "end": 2261.911,
+    "text": "I hate that I broke his heart,"
+  },
+  {
+    "line_number": 783,
+    "start": 2261.955,
+    "end": 2266.089,
+    "text": "and I hate that he made me break it all over again."
+  },
+  {
+    "line_number": 784,
+    "start": 2266.133,
+    "end": 2271.617,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 785,
+    "start": 2271.66,
+    "end": 2272.966,
+    "text": "You want me to grab you a drink?"
+  },
+  {
+    "line_number": 786,
+    "start": 2273.009,
+    "end": 2274.837,
+    "text": "Yes."
+  },
+  {
+    "line_number": 787,
+    "start": 2274.881,
+    "end": 2277.144,
+    "text": "But, no, because I don't drink."
+  },
+  {
+    "line_number": 788,
+    "start": 2277.187,
+    "end": 2282.105,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 789,
+    "start": 2282.149,
+    "end": 2287.197,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 790,
+    "start": 2287.241,
+    "end": 2288.59,
+    "text": "Thank you."
+  },
+  {
+    "line_number": 791,
+    "start": 2288.634,
+    "end": 2290.636,
+    "text": "♪ When you go away"
+  },
+  {
+    "line_number": 792,
+    "start": 2290.679,
+    "end": 2293.116,
+    "text": "♪ I still see you"
+  },
+  {
+    "line_number": 793,
+    "start": 2300.036,
+    "end": 2301.777,
+    "text": "Thank you."
+  },
+  {
+    "line_number": 794,
+    "start": 2308.262,
+    "end": 2310.22,
+    "text": "I don't want to feel all this again."
+  },
+  {
+    "line_number": 795,
+    "start": 2313.398,
+    "end": 2314.616,
+    "text": "Then don't."
+  },
+  {
+    "line_number": 796,
+    "start": 2315.661,
+    "end": 2317.14,
+    "text": "Helpful. Thank you."
+  },
+  {
+    "line_number": 797,
+    "start": 2317.184,
+    "end": 2319.752,
+    "text": "I'm saying, don't."
+  },
+  {
+    "line_number": 798,
+    "start": 2319.795,
+    "end": 2322.798,
+    "text": "I'm saying life is hard enough,"
+  },
+  {
+    "line_number": 799,
+    "start": 2322.842,
+    "end": 2325.975,
+    "text": "and sometimes on bad days, we kill people"
+  },
+  {
+    "line_number": 800,
+    "start": 2326.019,
+    "end": 2328.891,
+    "text": "and wash our hands until they bleed."
+  },
+  {
+    "line_number": 801,
+    "start": 2328.935,
+    "end": 2331.677,
+    "text": "Maybe don't suffer any more than you have to."
+  },
+  {
+    "line_number": 802,
+    "start": 2332.852,
+    "end": 2334.07,
+    "text": "Is it that easy?"
+  },
+  {
+    "line_number": 803,
+    "start": 2335.637,
+    "end": 2337.813,
+    "text": "Maybe."
+  },
+  {
+    "line_number": 804,
+    "start": 2337.857,
+    "end": 2341.861,
+    "text": "Amelia is a good mom and a great surgeon"
+  },
+  {
+    "line_number": 805,
+    "start": 2341.904,
+    "end": 2343.471,
+    "text": "and a decent human being, I guess,"
+  },
+  {
+    "line_number": 806,
+    "start": 2343.515,
+    "end": 2346.605,
+    "text": "but she doesn't want what you want."
+  },
+  {
+    "line_number": 807,
+    "start": 2346.648,
+    "end": 2349.869,
+    "text": "And you -- you are..."
+  },
+  {
+    "line_number": 808,
+    "start": 2349.912,
+    "end": 2352.132,
+    "text": "Atticus Lincoln."
+  },
+  {
+    "line_number": 809,
+    "start": 2352.175,
+    "end": 2356.397,
+    "text": "You are the best ortho surgeon, the best bartender,"
+  },
+  {
+    "line_number": 810,
+    "start": 2356.441,
+    "end": 2357.833,
+    "text": "the best father I know,"
+  },
+  {
+    "line_number": 811,
+    "start": 2357.877,
+    "end": 2361.315,
+    "text": "and you're also just, like, really hot."
+  },
+  {
+    "line_number": 812,
+    "start": 2361.359,
+    "end": 2363.404,
+    "text": "I'm serious!"
+  },
+  {
+    "line_number": 813,
+    "start": 2363.448,
+    "end": 2365.406,
+    "text": "You're the hottest guy that everyone knows."
+  },
+  {
+    "line_number": 814,
+    "start": 2365.45,
+    "end": 2369.323,
+    "text": "Let's just not pretend that that's not true."
+  },
+  {
+    "line_number": 815,
+    "start": 2369.367,
+    "end": 2372.021,
+    "text": "There are other women who would..."
+  },
+  {
+    "line_number": 816,
+    "start": 2372.065,
+    "end": 2374.589,
+    "text": "love to love you, Link."
+  },
+  {
+    "line_number": 817,
+    "start": 2375.895,
+    "end": 2377.287,
+    "text": "I am a catch."
+  },
+  {
+    "line_number": 818,
+    "start": 2377.331,
+    "end": 2378.941,
+    "text": "There's no denying it."
+  },
+  {
+    "line_number": 819,
+    "start": 2385.295,
+    "end": 2386.949,
+    "text": "You already mourned her."
+  },
+  {
+    "line_number": 820,
+    "start": 2388.734,
+    "end": 2390.518,
+    "text": "You already suffered, so maybe just..."
+  },
+  {
+    "line_number": 821,
+    "start": 2393.869,
+    "end": 2396.045,
+    "text": "...don't suffer anymore."
+  },
+  {
+    "line_number": 822,
+    "start": 2396.089,
+    "end": 2403.313,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 823,
+    "start": 2403.357,
+    "end": 2405.446,
+    "text": "♪ There's nothing left to say"
+  },
+  {
+    "line_number": 824,
+    "start": 2405.49,
+    "end": 2408.231,
+    "text": "♪ No breath in your lungs"
+  },
+  {
+    "line_number": 825,
+    "start": 2408.275,
+    "end": 2411.017,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 826,
+    "start": 2411.06,
+    "end": 2412.801,
+    "text": "♪ Standing in flames"
+  },
+  {
+    "line_number": 827,
+    "start": 2412.845,
+    "end": 2415.108,
+    "text": "♪ The wreckage of us"
+  },
+  {
+    "line_number": 828,
+    "start": 2415.151,
+    "end": 2417.632,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 829,
+    "start": 2417.676,
+    "end": 2419.591,
+    "text": "♪ Caught in this war"
+  },
+  {
+    "line_number": 830,
+    "start": 2419.634,
+    "end": 2421.331,
+    "text": "This is a bad idea."
+  },
+  {
+    "line_number": 831,
+    "start": 2421.375,
+    "end": 2422.811,
+    "text": "Is it?"
+  },
+  {
+    "line_number": 832,
+    "start": 2422.855,
+    "end": 2426.467,
+    "text": "♪ It's a dangerous love"
+  },
+  {
+    "line_number": 833,
+    "start": 2426.511,
+    "end": 2429.514,
+    "text": "♪ Mmm-mm"
+  },
+  {
+    "line_number": 834,
+    "start": 2429.557,
+    "end": 2432.43,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 835,
+    "start": 2432.473,
+    "end": 2439.698,
+    "text": "♪ Ooh-ooh"
+  },
+  {
+    "line_number": 836,
+    "start": 2439.741,
+    "end": 2445.747,
+    "text": "♪ Ooh-ooh"
+  },
+  {
+    "line_number": 837,
+    "start": 2447.88,
+    "end": 2449.795,
+    "text": "♪ There's nothing left to say"
+  },
+  {
+    "line_number": 838,
+    "start": 2449.838,
+    "end": 2452.188,
+    "text": "♪ Your heart turned to stone"
+  },
+  {
+    "line_number": 839,
+    "start": 2452.232,
+    "end": 2455.017,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 840,
+    "start": 2455.061,
+    "end": 2457.019,
+    "text": "♪ It's too late to save"
+  },
+  {
+    "line_number": 841,
+    "start": 2457.063,
+    "end": 2461.284,
+    "text": "♪ You're already gone"
+  },
+  {
+    "line_number": 842,
+    "start": 2461.328,
+    "end": 2462.982,
+    "text": "Recent studies suggest"
+  },
+  {
+    "line_number": 843,
+    "start": 2463.025,
+    "end": 2464.94,
+    "text": "that when we experience physical sensations"
+  },
+  {
+    "line_number": 844,
+    "start": 2464.984,
+    "end": 2467.116,
+    "text": "related to intense emotions,"
+  },
+  {
+    "line_number": 845,
+    "start": 2467.16,
+    "end": 2469.423,
+    "text": "it comes back to the vagus nerve."
+  },
+  {
+    "line_number": 846,
+    "start": 2469.467,
+    "end": 2471.556,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 847,
+    "start": 2471.599,
+    "end": 2474.123,
+    "text": "♪ Mmm-mm"
+  },
+  {
+    "line_number": 848,
+    "start": 2476.778,
+    "end": 2483.002,
+    "text": "♪ Ooh-ooh"
+  },
+  {
+    "line_number": 849,
+    "start": 2484.351,
+    "end": 2486.44,
+    "text": "♪ Ooh-ooh"
+  },
+  {
+    "line_number": 850,
+    "start": 2486.484,
+    "end": 2488.398,
+    "text": "We think of the pain of a broken heart"
+  },
+  {
+    "line_number": 851,
+    "start": 2488.442,
+    "end": 2490.183,
+    "text": "as being outside of our control."
+  },
+  {
+    "line_number": 852,
+    "start": 2491.706,
+    "end": 2498.8,
+    "text": "♪ Ooh-ooh"
+  },
+  {
+    "line_number": 853,
+    "start": 2498.844,
+    "end": 2504.414,
+    "text": "♪ Ooh-ooh"
+  },
+  {
+    "line_number": 854,
+    "start": 2504.458,
+    "end": 2509.028,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 855,
+    "start": 2509.071,
+    "end": 2513.598,
+    "text": "But science suggests that if we laugh instead of cry..."
+  },
+  {
+    "line_number": 856,
+    "start": 2513.641,
+    "end": 2517.906,
+    "text": "if we sing instead of ache..."
+  },
+  {
+    "line_number": 857,
+    "start": 2517.95,
+    "end": 2520.909,
+    "text": "we might just heal faster."
+  },
+  {
+    "line_number": 858,
+    "start": 2520.953,
+    "end": 2528.351,
+    "text": "♪ Ooh-ooh"
+  },
+  {
+    "line_number": 859,
+    "start": 2528.395,
+    "end": 2534.88,
+    "text": "♪ Ooh-ooh"
+  },
+  {
+    "line_number": 860,
+    "start": 2534.923,
+    "end": 2537.796,
+    "text": "Ahh."
+  },
+  {
+    "line_number": 861,
+    "start": 2537.839,
+    "end": 2541.8,
+    "text": "Okay, okay. Hey. Okay. Here."
+  },
+  {
+    "line_number": 862,
+    "start": 2541.843,
+    "end": 2543.628,
+    "text": "Press this if you need some more, okay?"
+  },
+  {
+    "line_number": 863,
+    "start": 2543.671,
+    "end": 2545.586,
+    "text": "Yep."
+  },
+  {
+    "line_number": 864,
+    "start": 2545.63,
+    "end": 2547.196,
+    "text": "Give it a second."
+  },
+  {
+    "line_number": 865,
+    "start": 2547.24,
+    "end": 2548.589,
+    "text": "Okay."
+  },
+  {
+    "line_number": 866,
+    "start": 2550.809,
+    "end": 2553.463,
+    "text": "Okay. Okay. Phew."
+  },
+  {
+    "line_number": 867,
+    "start": 2553.507,
+    "end": 2555.378,
+    "text": "The surgery?"
+  },
+  {
+    "line_number": 868,
+    "start": 2555.422,
+    "end": 2556.51,
+    "text": "It went well."
+  },
+  {
+    "line_number": 869,
+    "start": 2556.554,
+    "end": 2558.425,
+    "text": "I'll walk? Yes."
+  },
+  {
+    "line_number": 870,
+    "start": 2558.468,
+    "end": 2560.079,
+    "text": "It'll take time, but yes."
+  },
+  {
+    "line_number": 871,
+    "start": 2560.122,
+    "end": 2563.343,
+    "text": "Ohh."
+  },
+  {
+    "line_number": 872,
+    "start": 2563.386,
+    "end": 2566.476,
+    "text": "Bailey just stopped by to check on you."
+  },
+  {
+    "line_number": 873,
+    "start": 2566.52,
+    "end": 2569.001,
+    "text": "She told me that Hayes quit."
+  },
+  {
+    "line_number": 874,
+    "start": 2569.044,
+    "end": 2571.743,
+    "text": "Says he wants to go back to Ireland."
+  },
+  {
+    "line_number": 875,
+    "start": 2575.094,
+    "end": 2576.965,
+    "text": "What happened in that car, Owen?"
+  },
+  {
+    "line_number": 876,
+    "start": 2577.009,
+    "end": 2579.185,
+    "text": "Of course, when we're hurting..."
+  },
+  {
+    "line_number": 877,
+    "start": 2579.228,
+    "end": 2580.926,
+    "text": "What are you not telling me?"
+  },
+  {
+    "line_number": 878,
+    "start": 2580.969,
+    "end": 2583.319,
+    "text": "...sometimes it's just easier to keep hurting"
+  },
+  {
+    "line_number": 879,
+    "start": 2583.363,
+    "end": 2585.365,
+    "text": "than to try to heal."
+  },
+  {
+    "line_number": 880,
+    "start": 2609.607,
+    "end": 2617.745,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 881,
+    "start": 2617.789,
+    "end": 2626.058,
+    "text": "♪♪"
+  },
+  {
+    "line_number": 882,
+    "start": 2626.101,
+    "end": 2634.24,
+    "text": "♪♪"
+  }
+]

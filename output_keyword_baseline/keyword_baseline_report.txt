@@ -1,0 +1,20 @@
+--- Keyword Baseline Classification Report ---
+
+Keywords used: abortion, abort, aborted, aborting, abortion-on-demand, methotrexate, termination, terminate, terminated, terminating, pro-choice, prochoice, pro choice, anti-choice, antichoice, anti choice, pro-life, prolife, pro life, d&c, dilation and curettage, curette, mifeprex, vacuum aspiration, d&e, dilation and evacuation, mifepristone, misoprostol, progesterone, ru486, ru-486, ru 486, abortifacient, morning-after pill, morning after pill, plan b, plan-b, levonorgestrel, emergency contraception, conscientious objection, planned parenthood, unwanted pregnancy
+
+Accuracy: 0.8333
+
+Confusion Matrix:
+Labels Order: ['No', 'Yes']
+[[43  5]
+ [11 37]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+          No       0.80      0.90      0.84        48
+         Yes       0.88      0.77      0.82        48
+
+    accuracy                           0.83        96
+   macro avg       0.84      0.83      0.83        96
+weighted avg       0.84      0.83      0.83        96

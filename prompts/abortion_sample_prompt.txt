@@ -1,0 +1,8 @@
+Given the subtitles of a TV episode,
+determine whether the topic of abortion or pregnancy termination is mentioned or implied.
+Include both explicit and implicit references
+(e.g., unwanted pregnancy, discussing options, seeking a procedure, etc.).
+If there is any doubt, answer Yes.
+Respond ONLY with Yes or No.
+
+Subtitles:
